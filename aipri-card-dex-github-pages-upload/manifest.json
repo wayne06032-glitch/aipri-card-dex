@@ -1,0 +1,25 @@
+{
+  "name": "秘密偶像公主圖鑑",
+  "short_name": "AIPRI圖鑑",
+  "description": "秘密偶像公主卡片圖鑑，支援離線瀏覽、收藏、想要與備註。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fe",
+  "theme_color": "#f05bb8",
+  "orientation": "portrait-primary",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
