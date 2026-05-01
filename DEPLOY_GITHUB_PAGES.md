@@ -1,26 +1,35 @@
-# GitHub Pages 上傳方式
+# GitHub Pages 部署說明
 
-這份專案已可直接部署到 GitHub Pages。
+## 直接更新既有 repository
 
-## 最簡流程
+1. 打開你的 GitHub repository。
+2. 將這個資料夾內的所有檔案與資料夾，上傳到 repo root。
+3. 確認首頁入口是 `index.html`。
+4. 若 repo 先前已有舊檔，請用這份版本覆蓋。
 
-1. 建立一個新的 GitHub repository
-2. 把這個資料夾內的所有檔案直接上傳到 repository 根目錄
-3. 到 GitHub 的 `Settings` -> `Pages`
-4. `Source` 選擇 `Deploy from a branch`
-5. Branch 選 `main`，資料夾選 `/ (root)`
-6. 存檔後等待 1 到 3 分鐘
-7. 用 GitHub 提供的 `https://...github.io/...` 網址在手機開啟
+## GitHub Pages 設定
 
-## 手機使用
+1. 到 repository 的 `Settings`。
+2. 打開 `Pages`。
+3. `Source` 選 `Deploy from a branch`。
+4. Branch 選 `main`。
+5. Folder 選 `/ (root)`。
+6. 儲存後等待 GitHub 部署完成。
 
-1. 用手機瀏覽器開啟 Pages 網址
-2. 等畫面完整載入一次
-3. 使用瀏覽器的「加入主畫面」
-4. 之後就能像 App 一樣從主畫面開啟
+## 注意事項
 
-## 注意
+- 這份版本是純前端 GitHub Pages 版，不需要 `android/`、`node_modules/`、`package.json`。
+- 若你之後只改 UI 或資料，重新上傳同名檔案覆蓋即可。
+- `localStorage` 是存在使用者自己的瀏覽器，不會跟 GitHub 同步。
 
-- 第一次上線後，請先在線上開啟一次，讓 Service Worker 快取完成
-- 若你更新了 `cards.json` 或圖片，重新上傳覆蓋即可
-- 如果 GitHub Pages 還沒更新，可以稍等幾分鐘後重新整理
+## 建議一起更新的核心檔案
+
+- `index.html`
+- `style.css`
+- `app.js`
+- `cards.json`
+- `cards-data.js`
+- `manifest.json`
+- `service-worker.js`
+- `icons/`
+- `images/`

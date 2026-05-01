@@ -6,7 +6,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-001.webp",
-    "backImage": "images/back/AP1-001.webp"
+    "backImage": "images/back/AP1-001.webp",
+    "stars": 4
   },
   {
     "id": "AP1-002",
@@ -15,7 +16,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-002.webp",
-    "backImage": "images/back/AP1-002.webp"
+    "backImage": "images/back/AP1-002.webp",
+    "stars": 4
   },
   {
     "id": "AP1-003",
@@ -24,7 +26,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-003.webp",
-    "backImage": "images/back/AP1-003.webp"
+    "backImage": "images/back/AP1-003.webp",
+    "stars": 4
   },
   {
     "id": "AP1-004",
@@ -33,7 +36,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-004.webp",
-    "backImage": "images/back/AP1-004.webp"
+    "backImage": "images/back/AP1-004.webp",
+    "stars": 4
   },
   {
     "id": "AP1-005",
@@ -42,7 +46,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-005.webp",
-    "backImage": "images/back/AP1-005.webp"
+    "backImage": "images/back/AP1-005.webp",
+    "stars": 4
   },
   {
     "id": "AP1-006",
@@ -51,7 +56,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-006.webp",
-    "backImage": "images/back/AP1-006.webp"
+    "backImage": "images/back/AP1-006.webp",
+    "stars": 4
   },
   {
     "id": "AP1-007",
@@ -60,7 +66,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-007.webp",
-    "backImage": "images/back/AP1-007.webp"
+    "backImage": "images/back/AP1-007.webp",
+    "stars": 4
   },
   {
     "id": "AP1-008",
@@ -69,7 +76,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-008.webp",
-    "backImage": "images/back/AP1-008.webp"
+    "backImage": "images/back/AP1-008.webp",
+    "stars": 4
   },
   {
     "id": "AP1-009",
@@ -78,7 +86,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-009.webp",
-    "backImage": "images/back/AP1-009.webp"
+    "backImage": "images/back/AP1-009.webp",
+    "stars": 4
   },
   {
     "id": "AP1-010",
@@ -87,7 +96,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-010.webp",
-    "backImage": "images/back/AP1-010.webp"
+    "backImage": "images/back/AP1-010.webp",
+    "stars": 4
   },
   {
     "id": "AP1-011",
@@ -96,7 +106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-011.webp",
-    "backImage": "images/back/AP1-011.webp"
+    "backImage": "images/back/AP1-011.webp",
+    "stars": 4
   },
   {
     "id": "AP1-012",
@@ -105,7 +116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-012.webp",
-    "backImage": "images/back/AP1-012.webp"
+    "backImage": "images/back/AP1-012.webp",
+    "stars": 4
   },
   {
     "id": "AP1-013",
@@ -114,7 +126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-013.webp",
-    "backImage": "images/back/AP1-013.webp"
+    "backImage": "images/back/AP1-013.webp",
+    "stars": 4
   },
   {
     "id": "AP1-014",
@@ -123,7 +136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-014.webp",
-    "backImage": "images/back/AP1-014.webp"
+    "backImage": "images/back/AP1-014.webp",
+    "stars": 4
   },
   {
     "id": "AP1-015",
@@ -132,7 +146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-015.webp",
-    "backImage": "images/back/AP1-015.webp"
+    "backImage": "images/back/AP1-015.webp",
+    "stars": 4
   },
   {
     "id": "AP1-016",
@@ -141,7 +156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-016.webp",
-    "backImage": "images/back/AP1-016.webp"
+    "backImage": "images/back/AP1-016.webp",
+    "stars": 4
   },
   {
     "id": "AP1-017",
@@ -150,7 +166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-017.webp",
-    "backImage": "images/back/AP1-017.webp"
+    "backImage": "images/back/AP1-017.webp",
+    "stars": 4
   },
   {
     "id": "AP1-018",
@@ -159,7 +176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-018.webp",
-    "backImage": "images/back/AP1-018.webp"
+    "backImage": "images/back/AP1-018.webp",
+    "stars": 3
   },
   {
     "id": "AP1-019",
@@ -168,7 +186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-019.webp",
-    "backImage": "images/back/AP1-019.webp"
+    "backImage": "images/back/AP1-019.webp",
+    "stars": 3
   },
   {
     "id": "AP1-020",
@@ -177,7 +196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-020.webp",
-    "backImage": "images/back/AP1-020.webp"
+    "backImage": "images/back/AP1-020.webp",
+    "stars": 3
   },
   {
     "id": "AP1-021",
@@ -186,7 +206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-021.webp",
-    "backImage": "images/back/AP1-021.webp"
+    "backImage": "images/back/AP1-021.webp",
+    "stars": 3
   },
   {
     "id": "AP1-022",
@@ -195,7 +216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-022.webp",
-    "backImage": "images/back/AP1-022.webp"
+    "backImage": "images/back/AP1-022.webp",
+    "stars": 3
   },
   {
     "id": "AP1-023",
@@ -204,7 +226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-023.webp",
-    "backImage": "images/back/AP1-023.webp"
+    "backImage": "images/back/AP1-023.webp",
+    "stars": 3
   },
   {
     "id": "AP1-024",
@@ -213,7 +236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-024.webp",
-    "backImage": "images/back/AP1-024.webp"
+    "backImage": "images/back/AP1-024.webp",
+    "stars": 3
   },
   {
     "id": "AP1-025",
@@ -222,7 +246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-025.webp",
-    "backImage": "images/back/AP1-025.webp"
+    "backImage": "images/back/AP1-025.webp",
+    "stars": 3
   },
   {
     "id": "AP1-026",
@@ -231,7 +256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-026.webp",
-    "backImage": "images/back/AP1-026.webp"
+    "backImage": "images/back/AP1-026.webp",
+    "stars": 3
   },
   {
     "id": "AP1-027",
@@ -240,7 +266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-027.webp",
-    "backImage": "images/back/AP1-027.webp"
+    "backImage": "images/back/AP1-027.webp",
+    "stars": 3
   },
   {
     "id": "AP1-028",
@@ -249,7 +276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-028.webp",
-    "backImage": "images/back/AP1-028.webp"
+    "backImage": "images/back/AP1-028.webp",
+    "stars": 3
   },
   {
     "id": "AP1-029",
@@ -258,7 +286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-029.webp",
-    "backImage": "images/back/AP1-029.webp"
+    "backImage": "images/back/AP1-029.webp",
+    "stars": 3
   },
   {
     "id": "AP1-030",
@@ -267,7 +296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-030.webp",
-    "backImage": "images/back/AP1-030.webp"
+    "backImage": "images/back/AP1-030.webp",
+    "stars": 3
   },
   {
     "id": "AP1-031",
@@ -276,7 +306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-031.webp",
-    "backImage": "images/back/AP1-031.webp"
+    "backImage": "images/back/AP1-031.webp",
+    "stars": 3
   },
   {
     "id": "AP1-032",
@@ -285,7 +316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-032.webp",
-    "backImage": "images/back/AP1-032.webp"
+    "backImage": "images/back/AP1-032.webp",
+    "stars": 3
   },
   {
     "id": "AP1-033",
@@ -294,7 +326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-033.webp",
-    "backImage": "images/back/AP1-033.webp"
+    "backImage": "images/back/AP1-033.webp",
+    "stars": 3
   },
   {
     "id": "AP1-034",
@@ -303,7 +336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-034.webp",
-    "backImage": "images/back/AP1-034.webp"
+    "backImage": "images/back/AP1-034.webp",
+    "stars": 3
   },
   {
     "id": "AP1-035",
@@ -312,7 +346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-035.webp",
-    "backImage": "images/back/AP1-035.webp"
+    "backImage": "images/back/AP1-035.webp",
+    "stars": 3
   },
   {
     "id": "AP1-036",
@@ -321,7 +356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-036.webp",
-    "backImage": "images/back/AP1-036.webp"
+    "backImage": "images/back/AP1-036.webp",
+    "stars": 3
   },
   {
     "id": "AP1-037",
@@ -330,7 +366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-037.webp",
-    "backImage": "images/back/AP1-037.webp"
+    "backImage": "images/back/AP1-037.webp",
+    "stars": 3
   },
   {
     "id": "AP1-038",
@@ -339,7 +376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-038.webp",
-    "backImage": "images/back/AP1-038.webp"
+    "backImage": "images/back/AP1-038.webp",
+    "stars": 2
   },
   {
     "id": "AP1-039",
@@ -348,7 +386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-039.webp",
-    "backImage": "images/back/AP1-039.webp"
+    "backImage": "images/back/AP1-039.webp",
+    "stars": 2
   },
   {
     "id": "AP1-040",
@@ -357,7 +396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-040.webp",
-    "backImage": "images/back/AP1-040.webp"
+    "backImage": "images/back/AP1-040.webp",
+    "stars": 2
   },
   {
     "id": "AP1-041",
@@ -366,7 +406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-041.webp",
-    "backImage": "images/back/AP1-041.webp"
+    "backImage": "images/back/AP1-041.webp",
+    "stars": 2
   },
   {
     "id": "AP1-042",
@@ -375,7 +416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-042.webp",
-    "backImage": "images/back/AP1-042.webp"
+    "backImage": "images/back/AP1-042.webp",
+    "stars": 2
   },
   {
     "id": "AP1-043",
@@ -384,7 +426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-043.webp",
-    "backImage": "images/back/AP1-043.webp"
+    "backImage": "images/back/AP1-043.webp",
+    "stars": 2
   },
   {
     "id": "AP1-044",
@@ -393,7 +436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-044.webp",
-    "backImage": "images/back/AP1-044.webp"
+    "backImage": "images/back/AP1-044.webp",
+    "stars": 2
   },
   {
     "id": "AP1-045",
@@ -402,7 +446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-045.webp",
-    "backImage": "images/back/AP1-045.webp"
+    "backImage": "images/back/AP1-045.webp",
+    "stars": 2
   },
   {
     "id": "AP1-046",
@@ -411,7 +456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-046.webp",
-    "backImage": "images/back/AP1-046.webp"
+    "backImage": "images/back/AP1-046.webp",
+    "stars": 2
   },
   {
     "id": "AP1-047",
@@ -420,7 +466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-047.webp",
-    "backImage": "images/back/AP1-047.webp"
+    "backImage": "images/back/AP1-047.webp",
+    "stars": 2
   },
   {
     "id": "AP1-048",
@@ -429,7 +476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-048.webp",
-    "backImage": "images/back/AP1-048.webp"
+    "backImage": "images/back/AP1-048.webp",
+    "stars": 2
   },
   {
     "id": "AP1-049",
@@ -438,7 +486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-049.webp",
-    "backImage": "images/back/AP1-049.webp"
+    "backImage": "images/back/AP1-049.webp",
+    "stars": 2
   },
   {
     "id": "AP1-050",
@@ -447,7 +496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-050.webp",
-    "backImage": "images/back/AP1-050.webp"
+    "backImage": "images/back/AP1-050.webp",
+    "stars": 2
   },
   {
     "id": "AP1-051",
@@ -456,7 +506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-051.webp",
-    "backImage": "images/back/AP1-051.webp"
+    "backImage": "images/back/AP1-051.webp",
+    "stars": 2
   },
   {
     "id": "AP1-052",
@@ -465,7 +516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-052.webp",
-    "backImage": "images/back/AP1-052.webp"
+    "backImage": "images/back/AP1-052.webp",
+    "stars": 2
   },
   {
     "id": "AP1-053",
@@ -474,7 +526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-053.webp",
-    "backImage": "images/back/AP1-053.webp"
+    "backImage": "images/back/AP1-053.webp",
+    "stars": 2
   },
   {
     "id": "AP1-054",
@@ -483,7 +536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-054.webp",
-    "backImage": "images/back/AP1-054.webp"
+    "backImage": "images/back/AP1-054.webp",
+    "stars": 2
   },
   {
     "id": "AP1-055",
@@ -492,7 +546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-055.webp",
-    "backImage": "images/back/AP1-055.webp"
+    "backImage": "images/back/AP1-055.webp",
+    "stars": 2
   },
   {
     "id": "AP1-056",
@@ -501,7 +556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-056.webp",
-    "backImage": "images/back/AP1-056.webp"
+    "backImage": "images/back/AP1-056.webp",
+    "stars": 2
   },
   {
     "id": "AP1-057",
@@ -510,7 +566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第1彈",
     "category": "一般卡",
     "frontImage": "images/front/AP1-057.webp",
-    "backImage": "images/back/AP1-057.webp"
+    "backImage": "images/back/AP1-057.webp",
+    "stars": 2
   },
   {
     "id": "AP2-001",
@@ -519,7 +576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-001.webp",
-    "backImage": "images/back/AP2-001.webp"
+    "backImage": "images/back/AP2-001.webp",
+    "stars": 4
   },
   {
     "id": "AP2-002",
@@ -528,7 +586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-002.webp",
-    "backImage": "images/back/AP2-002.webp"
+    "backImage": "images/back/AP2-002.webp",
+    "stars": 4
   },
   {
     "id": "AP2-003",
@@ -537,7 +596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-003.webp",
-    "backImage": "images/back/AP2-003.webp"
+    "backImage": "images/back/AP2-003.webp",
+    "stars": 4
   },
   {
     "id": "AP2-004",
@@ -546,7 +606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-004.webp",
-    "backImage": "images/back/AP2-004.webp"
+    "backImage": "images/back/AP2-004.webp",
+    "stars": 4
   },
   {
     "id": "AP2-005",
@@ -555,7 +616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-005.webp",
-    "backImage": "images/back/AP2-005.webp"
+    "backImage": "images/back/AP2-005.webp",
+    "stars": 4
   },
   {
     "id": "AP2-006",
@@ -564,7 +626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-006.webp",
-    "backImage": "images/back/AP2-006.webp"
+    "backImage": "images/back/AP2-006.webp",
+    "stars": 4
   },
   {
     "id": "AP2-007",
@@ -573,7 +636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-007.webp",
-    "backImage": "images/back/AP2-007.webp"
+    "backImage": "images/back/AP2-007.webp",
+    "stars": 4
   },
   {
     "id": "AP2-008",
@@ -582,7 +646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-008.webp",
-    "backImage": "images/back/AP2-008.webp"
+    "backImage": "images/back/AP2-008.webp",
+    "stars": 4
   },
   {
     "id": "AP2-009",
@@ -591,7 +656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-009.webp",
-    "backImage": "images/back/AP2-009.webp"
+    "backImage": "images/back/AP2-009.webp",
+    "stars": 4
   },
   {
     "id": "AP2-010",
@@ -600,7 +666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-010.webp",
-    "backImage": "images/back/AP2-010.webp"
+    "backImage": "images/back/AP2-010.webp",
+    "stars": 4
   },
   {
     "id": "AP2-011",
@@ -609,7 +676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-011.webp",
-    "backImage": "images/back/AP2-011.webp"
+    "backImage": "images/back/AP2-011.webp",
+    "stars": 4
   },
   {
     "id": "AP2-012",
@@ -618,7 +686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-012.webp",
-    "backImage": "images/back/AP2-012.webp"
+    "backImage": "images/back/AP2-012.webp",
+    "stars": 4
   },
   {
     "id": "AP2-013",
@@ -627,7 +696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-013.webp",
-    "backImage": "images/back/AP2-013.webp"
+    "backImage": "images/back/AP2-013.webp",
+    "stars": 4
   },
   {
     "id": "AP2-014",
@@ -636,7 +706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-014.webp",
-    "backImage": "images/back/AP2-014.webp"
+    "backImage": "images/back/AP2-014.webp",
+    "stars": 4
   },
   {
     "id": "AP2-015",
@@ -645,7 +716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-015.webp",
-    "backImage": "images/back/AP2-015.webp"
+    "backImage": "images/back/AP2-015.webp",
+    "stars": 4
   },
   {
     "id": "AP2-016",
@@ -654,7 +726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-016.webp",
-    "backImage": "images/back/AP2-016.webp"
+    "backImage": "images/back/AP2-016.webp",
+    "stars": 4
   },
   {
     "id": "AP2-017",
@@ -663,7 +736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-017.webp",
-    "backImage": "images/back/AP2-017.webp"
+    "backImage": "images/back/AP2-017.webp",
+    "stars": 4
   },
   {
     "id": "AP2-018",
@@ -672,7 +746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-018.webp",
-    "backImage": "images/back/AP2-018.webp"
+    "backImage": "images/back/AP2-018.webp",
+    "stars": 4
   },
   {
     "id": "AP2-019",
@@ -681,7 +756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-019.webp",
-    "backImage": "images/back/AP2-019.webp"
+    "backImage": "images/back/AP2-019.webp",
+    "stars": 4
   },
   {
     "id": "AP2-020",
@@ -690,7 +766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-020.webp",
-    "backImage": "images/back/AP2-020.webp"
+    "backImage": "images/back/AP2-020.webp",
+    "stars": 4
   },
   {
     "id": "AP2-021",
@@ -699,7 +776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-021.webp",
-    "backImage": "images/back/AP2-021.webp"
+    "backImage": "images/back/AP2-021.webp",
+    "stars": 3
   },
   {
     "id": "AP2-022",
@@ -708,7 +786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-022.webp",
-    "backImage": "images/back/AP2-022.webp"
+    "backImage": "images/back/AP2-022.webp",
+    "stars": 3
   },
   {
     "id": "AP2-023",
@@ -717,7 +796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-023.webp",
-    "backImage": "images/back/AP2-023.webp"
+    "backImage": "images/back/AP2-023.webp",
+    "stars": 3
   },
   {
     "id": "AP2-024",
@@ -726,7 +806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-024.webp",
-    "backImage": "images/back/AP2-024.webp"
+    "backImage": "images/back/AP2-024.webp",
+    "stars": 3
   },
   {
     "id": "AP2-025",
@@ -735,7 +816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-025.webp",
-    "backImage": "images/back/AP2-025.webp"
+    "backImage": "images/back/AP2-025.webp",
+    "stars": 3
   },
   {
     "id": "AP2-026",
@@ -744,7 +826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-026.webp",
-    "backImage": "images/back/AP2-026.webp"
+    "backImage": "images/back/AP2-026.webp",
+    "stars": 3
   },
   {
     "id": "AP2-027",
@@ -753,7 +836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-027.webp",
-    "backImage": "images/back/AP2-027.webp"
+    "backImage": "images/back/AP2-027.webp",
+    "stars": 3
   },
   {
     "id": "AP2-028",
@@ -762,7 +846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-028.webp",
-    "backImage": "images/back/AP2-028.webp"
+    "backImage": "images/back/AP2-028.webp",
+    "stars": 3
   },
   {
     "id": "AP2-029",
@@ -771,7 +856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-029.webp",
-    "backImage": "images/back/AP2-029.webp"
+    "backImage": "images/back/AP2-029.webp",
+    "stars": 3
   },
   {
     "id": "AP2-030",
@@ -780,7 +866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-030.webp",
-    "backImage": "images/back/AP2-030.webp"
+    "backImage": "images/back/AP2-030.webp",
+    "stars": 3
   },
   {
     "id": "AP2-031",
@@ -789,7 +876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-031.webp",
-    "backImage": "images/back/AP2-031.webp"
+    "backImage": "images/back/AP2-031.webp",
+    "stars": 3
   },
   {
     "id": "AP2-032",
@@ -798,7 +886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-032.webp",
-    "backImage": "images/back/AP2-032.webp"
+    "backImage": "images/back/AP2-032.webp",
+    "stars": 3
   },
   {
     "id": "AP2-033",
@@ -807,7 +896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-033.webp",
-    "backImage": "images/back/AP2-033.webp"
+    "backImage": "images/back/AP2-033.webp",
+    "stars": 3
   },
   {
     "id": "AP2-034",
@@ -816,7 +906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-034.webp",
-    "backImage": "images/back/AP2-034.webp"
+    "backImage": "images/back/AP2-034.webp",
+    "stars": 3
   },
   {
     "id": "AP2-035",
@@ -825,7 +916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-035.webp",
-    "backImage": "images/back/AP2-035.webp"
+    "backImage": "images/back/AP2-035.webp",
+    "stars": 3
   },
   {
     "id": "AP2-036",
@@ -834,7 +926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-036.webp",
-    "backImage": "images/back/AP2-036.webp"
+    "backImage": "images/back/AP2-036.webp",
+    "stars": 3
   },
   {
     "id": "AP2-037",
@@ -843,7 +936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-037.webp",
-    "backImage": "images/back/AP2-037.webp"
+    "backImage": "images/back/AP2-037.webp",
+    "stars": 3
   },
   {
     "id": "AP2-038",
@@ -852,7 +946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-038.webp",
-    "backImage": "images/back/AP2-038.webp"
+    "backImage": "images/back/AP2-038.webp",
+    "stars": 3
   },
   {
     "id": "AP2-039",
@@ -861,7 +956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-039.webp",
-    "backImage": "images/back/AP2-039.webp"
+    "backImage": "images/back/AP2-039.webp",
+    "stars": 3
   },
   {
     "id": "AP2-040",
@@ -870,7 +966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-040.webp",
-    "backImage": "images/back/AP2-040.webp"
+    "backImage": "images/back/AP2-040.webp",
+    "stars": 3
   },
   {
     "id": "AP2-041",
@@ -879,7 +976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-041.webp",
-    "backImage": "images/back/AP2-041.webp"
+    "backImage": "images/back/AP2-041.webp",
+    "stars": 3
   },
   {
     "id": "AP2-042",
@@ -888,7 +986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-042.webp",
-    "backImage": "images/back/AP2-042.webp"
+    "backImage": "images/back/AP2-042.webp",
+    "stars": 3
   },
   {
     "id": "AP2-043",
@@ -897,7 +996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-043.webp",
-    "backImage": "images/back/AP2-043.webp"
+    "backImage": "images/back/AP2-043.webp",
+    "stars": 2
   },
   {
     "id": "AP2-044",
@@ -906,7 +1006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-044.webp",
-    "backImage": "images/back/AP2-044.webp"
+    "backImage": "images/back/AP2-044.webp",
+    "stars": 2
   },
   {
     "id": "AP2-045",
@@ -915,7 +1016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-045.webp",
-    "backImage": "images/back/AP2-045.webp"
+    "backImage": "images/back/AP2-045.webp",
+    "stars": 2
   },
   {
     "id": "AP2-046",
@@ -924,7 +1026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-046.webp",
-    "backImage": "images/back/AP2-046.webp"
+    "backImage": "images/back/AP2-046.webp",
+    "stars": 2
   },
   {
     "id": "AP2-047",
@@ -933,7 +1036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-047.webp",
-    "backImage": "images/back/AP2-047.webp"
+    "backImage": "images/back/AP2-047.webp",
+    "stars": 2
   },
   {
     "id": "AP2-048",
@@ -942,7 +1046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-048.webp",
-    "backImage": "images/back/AP2-048.webp"
+    "backImage": "images/back/AP2-048.webp",
+    "stars": 2
   },
   {
     "id": "AP2-049",
@@ -951,7 +1056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-049.webp",
-    "backImage": "images/back/AP2-049.webp"
+    "backImage": "images/back/AP2-049.webp",
+    "stars": 2
   },
   {
     "id": "AP2-050",
@@ -960,7 +1066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-050.webp",
-    "backImage": "images/back/AP2-050.webp"
+    "backImage": "images/back/AP2-050.webp",
+    "stars": 2
   },
   {
     "id": "AP2-051",
@@ -969,7 +1076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-051.webp",
-    "backImage": "images/back/AP2-051.webp"
+    "backImage": "images/back/AP2-051.webp",
+    "stars": 2
   },
   {
     "id": "AP2-052",
@@ -978,7 +1086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-052.webp",
-    "backImage": "images/back/AP2-052.webp"
+    "backImage": "images/back/AP2-052.webp",
+    "stars": 2
   },
   {
     "id": "AP2-053",
@@ -987,7 +1096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-053.webp",
-    "backImage": "images/back/AP2-053.webp"
+    "backImage": "images/back/AP2-053.webp",
+    "stars": 2
   },
   {
     "id": "AP2-054",
@@ -996,7 +1106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-054.webp",
-    "backImage": "images/back/AP2-054.webp"
+    "backImage": "images/back/AP2-054.webp",
+    "stars": 2
   },
   {
     "id": "AP2-055",
@@ -1005,7 +1116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-055.webp",
-    "backImage": "images/back/AP2-055.webp"
+    "backImage": "images/back/AP2-055.webp",
+    "stars": 2
   },
   {
     "id": "AP2-056",
@@ -1014,7 +1126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-056.webp",
-    "backImage": "images/back/AP2-056.webp"
+    "backImage": "images/back/AP2-056.webp",
+    "stars": 2
   },
   {
     "id": "AP2-057",
@@ -1023,7 +1136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-057.webp",
-    "backImage": "images/back/AP2-057.webp"
+    "backImage": "images/back/AP2-057.webp",
+    "stars": 2
   },
   {
     "id": "AP2-058",
@@ -1032,7 +1146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第2彈",
     "category": "一般卡",
     "frontImage": "images/front/AP2-058.webp",
-    "backImage": "images/back/AP2-058.webp"
+    "backImage": "images/back/AP2-058.webp",
+    "stars": 2
   },
   {
     "id": "AP3-001",
@@ -1041,7 +1156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-001.webp",
-    "backImage": "images/back/AP3-001.webp"
+    "backImage": "images/back/AP3-001.webp",
+    "stars": 4
   },
   {
     "id": "AP3-002",
@@ -1050,7 +1166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-002.webp",
-    "backImage": "images/back/AP3-002.webp"
+    "backImage": "images/back/AP3-002.webp",
+    "stars": 4
   },
   {
     "id": "AP3-003",
@@ -1059,7 +1176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-003.webp",
-    "backImage": "images/back/AP3-003.webp"
+    "backImage": "images/back/AP3-003.webp",
+    "stars": 4
   },
   {
     "id": "AP3-004",
@@ -1068,7 +1186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-004.webp",
-    "backImage": "images/back/AP3-004.webp"
+    "backImage": "images/back/AP3-004.webp",
+    "stars": 4
   },
   {
     "id": "AP3-005",
@@ -1077,7 +1196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-005.webp",
-    "backImage": "images/back/AP3-005.webp"
+    "backImage": "images/back/AP3-005.webp",
+    "stars": 4
   },
   {
     "id": "AP3-006",
@@ -1086,7 +1206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-006.webp",
-    "backImage": "images/back/AP3-006.webp"
+    "backImage": "images/back/AP3-006.webp",
+    "stars": 4
   },
   {
     "id": "AP3-007",
@@ -1095,7 +1216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-007.webp",
-    "backImage": "images/back/AP3-007.webp"
+    "backImage": "images/back/AP3-007.webp",
+    "stars": 4
   },
   {
     "id": "AP3-008",
@@ -1104,7 +1226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-008.webp",
-    "backImage": "images/back/AP3-008.webp"
+    "backImage": "images/back/AP3-008.webp",
+    "stars": 4
   },
   {
     "id": "AP3-009",
@@ -1113,7 +1236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-009.webp",
-    "backImage": "images/back/AP3-009.webp"
+    "backImage": "images/back/AP3-009.webp",
+    "stars": 4
   },
   {
     "id": "AP3-010",
@@ -1122,7 +1246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-010.webp",
-    "backImage": "images/back/AP3-010.webp"
+    "backImage": "images/back/AP3-010.webp",
+    "stars": 4
   },
   {
     "id": "AP3-011",
@@ -1131,7 +1256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-011.webp",
-    "backImage": "images/back/AP3-011.webp"
+    "backImage": "images/back/AP3-011.webp",
+    "stars": 4
   },
   {
     "id": "AP3-012",
@@ -1140,7 +1266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-012.webp",
-    "backImage": "images/back/AP3-012.webp"
+    "backImage": "images/back/AP3-012.webp",
+    "stars": 4
   },
   {
     "id": "AP3-013",
@@ -1149,7 +1276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-013.webp",
-    "backImage": "images/back/AP3-013.webp"
+    "backImage": "images/back/AP3-013.webp",
+    "stars": 4
   },
   {
     "id": "AP3-014",
@@ -1158,7 +1286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-014.webp",
-    "backImage": "images/back/AP3-014.webp"
+    "backImage": "images/back/AP3-014.webp",
+    "stars": 4
   },
   {
     "id": "AP3-015",
@@ -1167,7 +1296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-015.webp",
-    "backImage": "images/back/AP3-015.webp"
+    "backImage": "images/back/AP3-015.webp",
+    "stars": 4
   },
   {
     "id": "AP3-016",
@@ -1176,7 +1306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-016.webp",
-    "backImage": "images/back/AP3-016.webp"
+    "backImage": "images/back/AP3-016.webp",
+    "stars": 4
   },
   {
     "id": "AP3-017",
@@ -1185,7 +1316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-017.webp",
-    "backImage": "images/back/AP3-017.webp"
+    "backImage": "images/back/AP3-017.webp",
+    "stars": 4
   },
   {
     "id": "AP3-018",
@@ -1194,7 +1326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-018.webp",
-    "backImage": "images/back/AP3-018.webp"
+    "backImage": "images/back/AP3-018.webp",
+    "stars": 4
   },
   {
     "id": "AP3-019",
@@ -1203,7 +1336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-019.webp",
-    "backImage": "images/back/AP3-019.webp"
+    "backImage": "images/back/AP3-019.webp",
+    "stars": 4
   },
   {
     "id": "AP3-020",
@@ -1212,7 +1346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-020.webp",
-    "backImage": "images/back/AP3-020.webp"
+    "backImage": "images/back/AP3-020.webp",
+    "stars": 4
   },
   {
     "id": "AP3-021",
@@ -1221,7 +1356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-021.webp",
-    "backImage": "images/back/AP3-021.webp"
+    "backImage": "images/back/AP3-021.webp",
+    "stars": 3
   },
   {
     "id": "AP3-022",
@@ -1230,7 +1366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-022.webp",
-    "backImage": "images/back/AP3-022.webp"
+    "backImage": "images/back/AP3-022.webp",
+    "stars": 3
   },
   {
     "id": "AP3-023",
@@ -1239,7 +1376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-023.webp",
-    "backImage": "images/back/AP3-023.webp"
+    "backImage": "images/back/AP3-023.webp",
+    "stars": 3
   },
   {
     "id": "AP3-024",
@@ -1248,7 +1386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-024.webp",
-    "backImage": "images/back/AP3-024.webp"
+    "backImage": "images/back/AP3-024.webp",
+    "stars": 3
   },
   {
     "id": "AP3-025",
@@ -1257,7 +1396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-025.webp",
-    "backImage": "images/back/AP3-025.webp"
+    "backImage": "images/back/AP3-025.webp",
+    "stars": 3
   },
   {
     "id": "AP3-026",
@@ -1266,7 +1406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-026.webp",
-    "backImage": "images/back/AP3-026.webp"
+    "backImage": "images/back/AP3-026.webp",
+    "stars": 3
   },
   {
     "id": "AP3-027",
@@ -1275,7 +1416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-027.webp",
-    "backImage": "images/back/AP3-027.webp"
+    "backImage": "images/back/AP3-027.webp",
+    "stars": 3
   },
   {
     "id": "AP3-028",
@@ -1284,7 +1426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-028.webp",
-    "backImage": "images/back/AP3-028.webp"
+    "backImage": "images/back/AP3-028.webp",
+    "stars": 3
   },
   {
     "id": "AP3-029",
@@ -1293,7 +1436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-029.webp",
-    "backImage": "images/back/AP3-029.webp"
+    "backImage": "images/back/AP3-029.webp",
+    "stars": 3
   },
   {
     "id": "AP3-030",
@@ -1302,7 +1446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-030.webp",
-    "backImage": "images/back/AP3-030.webp"
+    "backImage": "images/back/AP3-030.webp",
+    "stars": 3
   },
   {
     "id": "AP3-031",
@@ -1311,7 +1456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-031.webp",
-    "backImage": "images/back/AP3-031.webp"
+    "backImage": "images/back/AP3-031.webp",
+    "stars": 3
   },
   {
     "id": "AP3-032",
@@ -1320,7 +1466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-032.webp",
-    "backImage": "images/back/AP3-032.webp"
+    "backImage": "images/back/AP3-032.webp",
+    "stars": 3
   },
   {
     "id": "AP3-033",
@@ -1329,7 +1476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-033.webp",
-    "backImage": "images/back/AP3-033.webp"
+    "backImage": "images/back/AP3-033.webp",
+    "stars": 3
   },
   {
     "id": "AP3-034",
@@ -1338,7 +1486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-034.webp",
-    "backImage": "images/back/AP3-034.webp"
+    "backImage": "images/back/AP3-034.webp",
+    "stars": 3
   },
   {
     "id": "AP3-035",
@@ -1347,7 +1496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-035.webp",
-    "backImage": "images/back/AP3-035.webp"
+    "backImage": "images/back/AP3-035.webp",
+    "stars": 3
   },
   {
     "id": "AP3-036",
@@ -1356,7 +1506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-036.webp",
-    "backImage": "images/back/AP3-036.webp"
+    "backImage": "images/back/AP3-036.webp",
+    "stars": 3
   },
   {
     "id": "AP3-037",
@@ -1365,7 +1516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-037.webp",
-    "backImage": "images/back/AP3-037.webp"
+    "backImage": "images/back/AP3-037.webp",
+    "stars": 3
   },
   {
     "id": "AP3-038",
@@ -1374,7 +1526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-038.webp",
-    "backImage": "images/back/AP3-038.webp"
+    "backImage": "images/back/AP3-038.webp",
+    "stars": 3
   },
   {
     "id": "AP3-039",
@@ -1383,7 +1536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-039.webp",
-    "backImage": "images/back/AP3-039.webp"
+    "backImage": "images/back/AP3-039.webp",
+    "stars": 3
   },
   {
     "id": "AP3-040",
@@ -1392,7 +1546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-040.webp",
-    "backImage": "images/back/AP3-040.webp"
+    "backImage": "images/back/AP3-040.webp",
+    "stars": 3
   },
   {
     "id": "AP3-041",
@@ -1401,7 +1556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-041.webp",
-    "backImage": "images/back/AP3-041.webp"
+    "backImage": "images/back/AP3-041.webp",
+    "stars": 3
   },
   {
     "id": "AP3-042",
@@ -1410,7 +1566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-042.webp",
-    "backImage": "images/back/AP3-042.webp"
+    "backImage": "images/back/AP3-042.webp",
+    "stars": 3
   },
   {
     "id": "AP3-043",
@@ -1419,7 +1576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-043.webp",
-    "backImage": "images/back/AP3-043.webp"
+    "backImage": "images/back/AP3-043.webp",
+    "stars": 3
   },
   {
     "id": "AP3-044",
@@ -1428,7 +1586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-044.webp",
-    "backImage": "images/back/AP3-044.webp"
+    "backImage": "images/back/AP3-044.webp",
+    "stars": 3
   },
   {
     "id": "AP3-045",
@@ -1437,7 +1596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-045.webp",
-    "backImage": "images/back/AP3-045.webp"
+    "backImage": "images/back/AP3-045.webp",
+    "stars": 3
   },
   {
     "id": "AP3-046",
@@ -1446,7 +1606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-046.webp",
-    "backImage": "images/back/AP3-046.webp"
+    "backImage": "images/back/AP3-046.webp",
+    "stars": 2
   },
   {
     "id": "AP3-047",
@@ -1455,7 +1616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-047.webp",
-    "backImage": "images/back/AP3-047.webp"
+    "backImage": "images/back/AP3-047.webp",
+    "stars": 2
   },
   {
     "id": "AP3-048",
@@ -1464,7 +1626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-048.webp",
-    "backImage": "images/back/AP3-048.webp"
+    "backImage": "images/back/AP3-048.webp",
+    "stars": 2
   },
   {
     "id": "AP3-049",
@@ -1473,7 +1636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-049.webp",
-    "backImage": "images/back/AP3-049.webp"
+    "backImage": "images/back/AP3-049.webp",
+    "stars": 2
   },
   {
     "id": "AP3-050",
@@ -1482,7 +1646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-050.webp",
-    "backImage": "images/back/AP3-050.webp"
+    "backImage": "images/back/AP3-050.webp",
+    "stars": 2
   },
   {
     "id": "AP3-051",
@@ -1491,7 +1656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-051.webp",
-    "backImage": "images/back/AP3-051.webp"
+    "backImage": "images/back/AP3-051.webp",
+    "stars": 2
   },
   {
     "id": "AP3-052",
@@ -1500,7 +1666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-052.webp",
-    "backImage": "images/back/AP3-052.webp"
+    "backImage": "images/back/AP3-052.webp",
+    "stars": 2
   },
   {
     "id": "AP3-053",
@@ -1509,7 +1676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-053.webp",
-    "backImage": "images/back/AP3-053.webp"
+    "backImage": "images/back/AP3-053.webp",
+    "stars": 2
   },
   {
     "id": "AP3-054",
@@ -1518,7 +1686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-054.webp",
-    "backImage": "images/back/AP3-054.webp"
+    "backImage": "images/back/AP3-054.webp",
+    "stars": 2
   },
   {
     "id": "AP3-055",
@@ -1527,7 +1696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-055.webp",
-    "backImage": "images/back/AP3-055.webp"
+    "backImage": "images/back/AP3-055.webp",
+    "stars": 2
   },
   {
     "id": "AP3-056",
@@ -1536,7 +1706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-056.webp",
-    "backImage": "images/back/AP3-056.webp"
+    "backImage": "images/back/AP3-056.webp",
+    "stars": 2
   },
   {
     "id": "AP3-057",
@@ -1545,7 +1716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-057.webp",
-    "backImage": "images/back/AP3-057.webp"
+    "backImage": "images/back/AP3-057.webp",
+    "stars": 2
   },
   {
     "id": "AP3-058",
@@ -1554,7 +1726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-058.webp",
-    "backImage": "images/back/AP3-058.webp"
+    "backImage": "images/back/AP3-058.webp",
+    "stars": 2
   },
   {
     "id": "AP3-059",
@@ -1563,7 +1736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-059.webp",
-    "backImage": "images/back/AP3-059.webp"
+    "backImage": "images/back/AP3-059.webp",
+    "stars": 2
   },
   {
     "id": "AP3-060",
@@ -1572,7 +1746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-060.webp",
-    "backImage": "images/back/AP3-060.webp"
+    "backImage": "images/back/AP3-060.webp",
+    "stars": 2
   },
   {
     "id": "AP3-061",
@@ -1581,7 +1756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-061.webp",
-    "backImage": "images/back/AP3-061.webp"
+    "backImage": "images/back/AP3-061.webp",
+    "stars": 2
   },
   {
     "id": "AP3-062",
@@ -1590,7 +1766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第3彈",
     "category": "一般卡",
     "frontImage": "images/front/AP3-062.webp",
-    "backImage": "images/back/AP3-062.webp"
+    "backImage": "images/back/AP3-062.webp",
+    "stars": 2
   },
   {
     "id": "AP4-001",
@@ -1599,7 +1776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-001.webp",
-    "backImage": "images/back/AP4-001.webp"
+    "backImage": "images/back/AP4-001.webp",
+    "stars": 4
   },
   {
     "id": "AP4-002",
@@ -1608,7 +1786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-002.webp",
-    "backImage": "images/back/AP4-002.webp"
+    "backImage": "images/back/AP4-002.webp",
+    "stars": 4
   },
   {
     "id": "AP4-003",
@@ -1617,7 +1796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-003.webp",
-    "backImage": "images/back/AP4-003.webp"
+    "backImage": "images/back/AP4-003.webp",
+    "stars": 4
   },
   {
     "id": "AP4-004",
@@ -1626,7 +1806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-004.webp",
-    "backImage": "images/back/AP4-004.webp"
+    "backImage": "images/back/AP4-004.webp",
+    "stars": 4
   },
   {
     "id": "AP4-005",
@@ -1635,7 +1816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-005.webp",
-    "backImage": "images/back/AP4-005.webp"
+    "backImage": "images/back/AP4-005.webp",
+    "stars": 4
   },
   {
     "id": "AP4-006",
@@ -1644,7 +1826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-006.webp",
-    "backImage": "images/back/AP4-006.webp"
+    "backImage": "images/back/AP4-006.webp",
+    "stars": 4
   },
   {
     "id": "AP4-007",
@@ -1653,7 +1836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-007.webp",
-    "backImage": "images/back/AP4-007.webp"
+    "backImage": "images/back/AP4-007.webp",
+    "stars": 4
   },
   {
     "id": "AP4-008",
@@ -1662,7 +1846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-008.webp",
-    "backImage": "images/back/AP4-008.webp"
+    "backImage": "images/back/AP4-008.webp",
+    "stars": 4
   },
   {
     "id": "AP4-009",
@@ -1671,7 +1856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-009.webp",
-    "backImage": "images/back/AP4-009.webp"
+    "backImage": "images/back/AP4-009.webp",
+    "stars": 4
   },
   {
     "id": "AP4-010",
@@ -1680,7 +1866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-010.webp",
-    "backImage": "images/back/AP4-010.webp"
+    "backImage": "images/back/AP4-010.webp",
+    "stars": 4
   },
   {
     "id": "AP4-011",
@@ -1689,7 +1876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-011.webp",
-    "backImage": "images/back/AP4-011.webp"
+    "backImage": "images/back/AP4-011.webp",
+    "stars": 4
   },
   {
     "id": "AP4-012",
@@ -1698,7 +1886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-012.webp",
-    "backImage": "images/back/AP4-012.webp"
+    "backImage": "images/back/AP4-012.webp",
+    "stars": 4
   },
   {
     "id": "AP4-013",
@@ -1707,7 +1896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-013.webp",
-    "backImage": "images/back/AP4-013.webp"
+    "backImage": "images/back/AP4-013.webp",
+    "stars": 4
   },
   {
     "id": "AP4-014",
@@ -1716,7 +1906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-014.webp",
-    "backImage": "images/back/AP4-014.webp"
+    "backImage": "images/back/AP4-014.webp",
+    "stars": 4
   },
   {
     "id": "AP4-015",
@@ -1725,7 +1916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-015.webp",
-    "backImage": "images/back/AP4-015.webp"
+    "backImage": "images/back/AP4-015.webp",
+    "stars": 4
   },
   {
     "id": "AP4-016",
@@ -1734,7 +1926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-016.webp",
-    "backImage": "images/back/AP4-016.webp"
+    "backImage": "images/back/AP4-016.webp",
+    "stars": 4
   },
   {
     "id": "AP4-017",
@@ -1743,7 +1936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-017.webp",
-    "backImage": "images/back/AP4-017.webp"
+    "backImage": "images/back/AP4-017.webp",
+    "stars": 4
   },
   {
     "id": "AP4-018",
@@ -1752,7 +1946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-018.webp",
-    "backImage": "images/back/AP4-018.webp"
+    "backImage": "images/back/AP4-018.webp",
+    "stars": 4
   },
   {
     "id": "AP4-019",
@@ -1761,7 +1956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-019.webp",
-    "backImage": "images/back/AP4-019.webp"
+    "backImage": "images/back/AP4-019.webp",
+    "stars": 4
   },
   {
     "id": "AP4-020",
@@ -1770,7 +1966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-020.webp",
-    "backImage": "images/back/AP4-020.webp"
+    "backImage": "images/back/AP4-020.webp",
+    "stars": 4
   },
   {
     "id": "AP4-021",
@@ -1779,7 +1976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-021.webp",
-    "backImage": "images/back/AP4-021.webp"
+    "backImage": "images/back/AP4-021.webp",
+    "stars": 3
   },
   {
     "id": "AP4-022",
@@ -1788,7 +1986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-022.webp",
-    "backImage": "images/back/AP4-022.webp"
+    "backImage": "images/back/AP4-022.webp",
+    "stars": 3
   },
   {
     "id": "AP4-023",
@@ -1797,7 +1996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-023.webp",
-    "backImage": "images/back/AP4-023.webp"
+    "backImage": "images/back/AP4-023.webp",
+    "stars": 3
   },
   {
     "id": "AP4-024",
@@ -1806,7 +2006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-024.webp",
-    "backImage": "images/back/AP4-024.webp"
+    "backImage": "images/back/AP4-024.webp",
+    "stars": 3
   },
   {
     "id": "AP4-025",
@@ -1815,7 +2016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-025.webp",
-    "backImage": "images/back/AP4-025.webp"
+    "backImage": "images/back/AP4-025.webp",
+    "stars": 3
   },
   {
     "id": "AP4-026",
@@ -1824,7 +2026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-026.webp",
-    "backImage": "images/back/AP4-026.webp"
+    "backImage": "images/back/AP4-026.webp",
+    "stars": 3
   },
   {
     "id": "AP4-027",
@@ -1833,7 +2036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-027.webp",
-    "backImage": "images/back/AP4-027.webp"
+    "backImage": "images/back/AP4-027.webp",
+    "stars": 3
   },
   {
     "id": "AP4-028",
@@ -1842,7 +2046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-028.webp",
-    "backImage": "images/back/AP4-028.webp"
+    "backImage": "images/back/AP4-028.webp",
+    "stars": 3
   },
   {
     "id": "AP4-029",
@@ -1851,7 +2056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-029.webp",
-    "backImage": "images/back/AP4-029.webp"
+    "backImage": "images/back/AP4-029.webp",
+    "stars": 3
   },
   {
     "id": "AP4-030",
@@ -1860,7 +2066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-030.webp",
-    "backImage": "images/back/AP4-030.webp"
+    "backImage": "images/back/AP4-030.webp",
+    "stars": 3
   },
   {
     "id": "AP4-031",
@@ -1869,7 +2076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-031.webp",
-    "backImage": "images/back/AP4-031.webp"
+    "backImage": "images/back/AP4-031.webp",
+    "stars": 3
   },
   {
     "id": "AP4-032",
@@ -1878,7 +2086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-032.webp",
-    "backImage": "images/back/AP4-032.webp"
+    "backImage": "images/back/AP4-032.webp",
+    "stars": 3
   },
   {
     "id": "AP4-033",
@@ -1887,7 +2096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-033.webp",
-    "backImage": "images/back/AP4-033.webp"
+    "backImage": "images/back/AP4-033.webp",
+    "stars": 3
   },
   {
     "id": "AP4-034",
@@ -1896,7 +2106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-034.webp",
-    "backImage": "images/back/AP4-034.webp"
+    "backImage": "images/back/AP4-034.webp",
+    "stars": 3
   },
   {
     "id": "AP4-035",
@@ -1905,7 +2116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-035.webp",
-    "backImage": "images/back/AP4-035.webp"
+    "backImage": "images/back/AP4-035.webp",
+    "stars": 3
   },
   {
     "id": "AP4-036",
@@ -1914,7 +2126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-036.webp",
-    "backImage": "images/back/AP4-036.webp"
+    "backImage": "images/back/AP4-036.webp",
+    "stars": 3
   },
   {
     "id": "AP4-037",
@@ -1923,7 +2136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-037.webp",
-    "backImage": "images/back/AP4-037.webp"
+    "backImage": "images/back/AP4-037.webp",
+    "stars": 3
   },
   {
     "id": "AP4-038",
@@ -1932,7 +2146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-038.webp",
-    "backImage": "images/back/AP4-038.webp"
+    "backImage": "images/back/AP4-038.webp",
+    "stars": 3
   },
   {
     "id": "AP4-039",
@@ -1941,7 +2156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-039.webp",
-    "backImage": "images/back/AP4-039.webp"
+    "backImage": "images/back/AP4-039.webp",
+    "stars": 3
   },
   {
     "id": "AP4-040",
@@ -1950,7 +2166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-040.webp",
-    "backImage": "images/back/AP4-040.webp"
+    "backImage": "images/back/AP4-040.webp",
+    "stars": 3
   },
   {
     "id": "AP4-041",
@@ -1959,7 +2176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-041.webp",
-    "backImage": "images/back/AP4-041.webp"
+    "backImage": "images/back/AP4-041.webp",
+    "stars": 3
   },
   {
     "id": "AP4-042",
@@ -1968,7 +2186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-042.webp",
-    "backImage": "images/back/AP4-042.webp"
+    "backImage": "images/back/AP4-042.webp",
+    "stars": 3
   },
   {
     "id": "AP4-043",
@@ -1977,7 +2196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-043.webp",
-    "backImage": "images/back/AP4-043.webp"
+    "backImage": "images/back/AP4-043.webp",
+    "stars": 3
   },
   {
     "id": "AP4-044",
@@ -1986,7 +2206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-044.webp",
-    "backImage": "images/back/AP4-044.webp"
+    "backImage": "images/back/AP4-044.webp",
+    "stars": 3
   },
   {
     "id": "AP4-045",
@@ -1995,7 +2216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-045.webp",
-    "backImage": "images/back/AP4-045.webp"
+    "backImage": "images/back/AP4-045.webp",
+    "stars": 3
   },
   {
     "id": "AP4-046",
@@ -2004,7 +2226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-046.webp",
-    "backImage": "images/back/AP4-046.webp"
+    "backImage": "images/back/AP4-046.webp",
+    "stars": 3
   },
   {
     "id": "AP4-047",
@@ -2013,7 +2236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-047.webp",
-    "backImage": "images/back/AP4-047.webp"
+    "backImage": "images/back/AP4-047.webp",
+    "stars": 2
   },
   {
     "id": "AP4-048",
@@ -2022,7 +2246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-048.webp",
-    "backImage": "images/back/AP4-048.webp"
+    "backImage": "images/back/AP4-048.webp",
+    "stars": 2
   },
   {
     "id": "AP4-049",
@@ -2031,7 +2256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-049.webp",
-    "backImage": "images/back/AP4-049.webp"
+    "backImage": "images/back/AP4-049.webp",
+    "stars": 2
   },
   {
     "id": "AP4-050",
@@ -2040,7 +2266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-050.webp",
-    "backImage": "images/back/AP4-050.webp"
+    "backImage": "images/back/AP4-050.webp",
+    "stars": 2
   },
   {
     "id": "AP4-051",
@@ -2049,7 +2276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-051.webp",
-    "backImage": "images/back/AP4-051.webp"
+    "backImage": "images/back/AP4-051.webp",
+    "stars": 2
   },
   {
     "id": "AP4-052",
@@ -2058,7 +2286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-052.webp",
-    "backImage": "images/back/AP4-052.webp"
+    "backImage": "images/back/AP4-052.webp",
+    "stars": 2
   },
   {
     "id": "AP4-053",
@@ -2067,7 +2296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-053.webp",
-    "backImage": "images/back/AP4-053.webp"
+    "backImage": "images/back/AP4-053.webp",
+    "stars": 2
   },
   {
     "id": "AP4-054",
@@ -2076,7 +2306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-054.webp",
-    "backImage": "images/back/AP4-054.webp"
+    "backImage": "images/back/AP4-054.webp",
+    "stars": 2
   },
   {
     "id": "AP4-055",
@@ -2085,7 +2316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-055.webp",
-    "backImage": "images/back/AP4-055.webp"
+    "backImage": "images/back/AP4-055.webp",
+    "stars": 2
   },
   {
     "id": "AP4-056",
@@ -2094,7 +2326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-056.webp",
-    "backImage": "images/back/AP4-056.webp"
+    "backImage": "images/back/AP4-056.webp",
+    "stars": 2
   },
   {
     "id": "AP4-057",
@@ -2103,7 +2336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-057.webp",
-    "backImage": "images/back/AP4-057.webp"
+    "backImage": "images/back/AP4-057.webp",
+    "stars": 2
   },
   {
     "id": "AP4-058",
@@ -2112,7 +2346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-058.webp",
-    "backImage": "images/back/AP4-058.webp"
+    "backImage": "images/back/AP4-058.webp",
+    "stars": 2
   },
   {
     "id": "AP4-059",
@@ -2121,7 +2356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-059.webp",
-    "backImage": "images/back/AP4-059.webp"
+    "backImage": "images/back/AP4-059.webp",
+    "stars": 2
   },
   {
     "id": "AP4-060",
@@ -2130,7 +2366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-060.webp",
-    "backImage": "images/back/AP4-060.webp"
+    "backImage": "images/back/AP4-060.webp",
+    "stars": 2
   },
   {
     "id": "AP4-061",
@@ -2139,7 +2376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-061.webp",
-    "backImage": "images/back/AP4-061.webp"
+    "backImage": "images/back/AP4-061.webp",
+    "stars": 2
   },
   {
     "id": "AP4-062",
@@ -2148,7 +2386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-062.webp",
-    "backImage": "images/back/AP4-062.webp"
+    "backImage": "images/back/AP4-062.webp",
+    "stars": 2
   },
   {
     "id": "AP4-063",
@@ -2157,7 +2396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-063.webp",
-    "backImage": "images/back/AP4-063.webp"
+    "backImage": "images/back/AP4-063.webp",
+    "stars": 2
   },
   {
     "id": "AP4-064",
@@ -2166,7 +2406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-064.webp",
-    "backImage": "images/back/AP4-064.webp"
+    "backImage": "images/back/AP4-064.webp",
+    "stars": 2
   },
   {
     "id": "AP4-065",
@@ -2175,7 +2416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第4彈",
     "category": "一般卡",
     "frontImage": "images/front/AP4-065.webp",
-    "backImage": "images/back/AP4-065.webp"
+    "backImage": "images/back/AP4-065.webp",
+    "stars": 2
   },
   {
     "id": "AP5-001",
@@ -2184,7 +2426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-001.webp",
-    "backImage": "images/back/AP5-001.webp"
+    "backImage": "images/back/AP5-001.webp",
+    "stars": 4
   },
   {
     "id": "AP5-002",
@@ -2193,7 +2436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-002.webp",
-    "backImage": "images/back/AP5-002.webp"
+    "backImage": "images/back/AP5-002.webp",
+    "stars": 4
   },
   {
     "id": "AP5-003",
@@ -2202,7 +2446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-003.webp",
-    "backImage": "images/back/AP5-003.webp"
+    "backImage": "images/back/AP5-003.webp",
+    "stars": 4
   },
   {
     "id": "AP5-004",
@@ -2211,7 +2456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-004.webp",
-    "backImage": "images/back/AP5-004.webp"
+    "backImage": "images/back/AP5-004.webp",
+    "stars": 4
   },
   {
     "id": "AP5-005",
@@ -2220,7 +2466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-005.webp",
-    "backImage": "images/back/AP5-005.webp"
+    "backImage": "images/back/AP5-005.webp",
+    "stars": 4
   },
   {
     "id": "AP5-006",
@@ -2229,7 +2476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-006.webp",
-    "backImage": "images/back/AP5-006.webp"
+    "backImage": "images/back/AP5-006.webp",
+    "stars": 4
   },
   {
     "id": "AP5-007",
@@ -2238,7 +2486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-007.webp",
-    "backImage": "images/back/AP5-007.webp"
+    "backImage": "images/back/AP5-007.webp",
+    "stars": 4
   },
   {
     "id": "AP5-008",
@@ -2247,7 +2496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-008.webp",
-    "backImage": "images/back/AP5-008.webp"
+    "backImage": "images/back/AP5-008.webp",
+    "stars": 4
   },
   {
     "id": "AP5-009",
@@ -2256,7 +2506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-009.webp",
-    "backImage": "images/back/AP5-009.webp"
+    "backImage": "images/back/AP5-009.webp",
+    "stars": 4
   },
   {
     "id": "AP5-010",
@@ -2265,7 +2516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-010.webp",
-    "backImage": "images/back/AP5-010.webp"
+    "backImage": "images/back/AP5-010.webp",
+    "stars": 4
   },
   {
     "id": "AP5-011",
@@ -2274,7 +2526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-011.webp",
-    "backImage": "images/back/AP5-011.webp"
+    "backImage": "images/back/AP5-011.webp",
+    "stars": 4
   },
   {
     "id": "AP5-012",
@@ -2283,7 +2536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-012.webp",
-    "backImage": "images/back/AP5-012.webp"
+    "backImage": "images/back/AP5-012.webp",
+    "stars": 4
   },
   {
     "id": "AP5-013",
@@ -2292,7 +2546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-013.webp",
-    "backImage": "images/back/AP5-013.webp"
+    "backImage": "images/back/AP5-013.webp",
+    "stars": 4
   },
   {
     "id": "AP5-014",
@@ -2301,7 +2556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-014.webp",
-    "backImage": "images/back/AP5-014.webp"
+    "backImage": "images/back/AP5-014.webp",
+    "stars": 4
   },
   {
     "id": "AP5-015",
@@ -2310,7 +2566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-015.webp",
-    "backImage": "images/back/AP5-015.webp"
+    "backImage": "images/back/AP5-015.webp",
+    "stars": 4
   },
   {
     "id": "AP5-016",
@@ -2319,7 +2576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-016.webp",
-    "backImage": "images/back/AP5-016.webp"
+    "backImage": "images/back/AP5-016.webp",
+    "stars": 4
   },
   {
     "id": "AP5-017",
@@ -2328,7 +2586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-017.webp",
-    "backImage": "images/back/AP5-017.webp"
+    "backImage": "images/back/AP5-017.webp",
+    "stars": 4
   },
   {
     "id": "AP5-018",
@@ -2337,7 +2596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-018.webp",
-    "backImage": "images/back/AP5-018.webp"
+    "backImage": "images/back/AP5-018.webp",
+    "stars": 4
   },
   {
     "id": "AP5-019",
@@ -2346,7 +2606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-019.webp",
-    "backImage": "images/back/AP5-019.webp"
+    "backImage": "images/back/AP5-019.webp",
+    "stars": 4
   },
   {
     "id": "AP5-020",
@@ -2355,7 +2616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-020.webp",
-    "backImage": "images/back/AP5-020.webp"
+    "backImage": "images/back/AP5-020.webp",
+    "stars": 4
   },
   {
     "id": "AP5-021",
@@ -2364,7 +2626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-021.webp",
-    "backImage": "images/back/AP5-021.webp"
+    "backImage": "images/back/AP5-021.webp",
+    "stars": 4
   },
   {
     "id": "AP5-022",
@@ -2373,7 +2636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-022.webp",
-    "backImage": "images/back/AP5-022.webp"
+    "backImage": "images/back/AP5-022.webp",
+    "stars": 3
   },
   {
     "id": "AP5-023",
@@ -2382,7 +2646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-023.webp",
-    "backImage": "images/back/AP5-023.webp"
+    "backImage": "images/back/AP5-023.webp",
+    "stars": 3
   },
   {
     "id": "AP5-024",
@@ -2391,7 +2656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-024.webp",
-    "backImage": "images/back/AP5-024.webp"
+    "backImage": "images/back/AP5-024.webp",
+    "stars": 3
   },
   {
     "id": "AP5-025",
@@ -2400,7 +2666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-025.webp",
-    "backImage": "images/back/AP5-025.webp"
+    "backImage": "images/back/AP5-025.webp",
+    "stars": 3
   },
   {
     "id": "AP5-026",
@@ -2409,7 +2676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-026.webp",
-    "backImage": "images/back/AP5-026.webp"
+    "backImage": "images/back/AP5-026.webp",
+    "stars": 3
   },
   {
     "id": "AP5-027",
@@ -2418,7 +2686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-027.webp",
-    "backImage": "images/back/AP5-027.webp"
+    "backImage": "images/back/AP5-027.webp",
+    "stars": 3
   },
   {
     "id": "AP5-028",
@@ -2427,7 +2696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-028.webp",
-    "backImage": "images/back/AP5-028.webp"
+    "backImage": "images/back/AP5-028.webp",
+    "stars": 3
   },
   {
     "id": "AP5-029",
@@ -2436,7 +2706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-029.webp",
-    "backImage": "images/back/AP5-029.webp"
+    "backImage": "images/back/AP5-029.webp",
+    "stars": 3
   },
   {
     "id": "AP5-030",
@@ -2445,7 +2716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-030.webp",
-    "backImage": "images/back/AP5-030.webp"
+    "backImage": "images/back/AP5-030.webp",
+    "stars": 3
   },
   {
     "id": "AP5-031",
@@ -2454,7 +2726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-031.webp",
-    "backImage": "images/back/AP5-031.webp"
+    "backImage": "images/back/AP5-031.webp",
+    "stars": 3
   },
   {
     "id": "AP5-032",
@@ -2463,7 +2736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-032.webp",
-    "backImage": "images/back/AP5-032.webp"
+    "backImage": "images/back/AP5-032.webp",
+    "stars": 3
   },
   {
     "id": "AP5-033",
@@ -2472,7 +2746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-033.webp",
-    "backImage": "images/back/AP5-033.webp"
+    "backImage": "images/back/AP5-033.webp",
+    "stars": 3
   },
   {
     "id": "AP5-034",
@@ -2481,7 +2756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-034.webp",
-    "backImage": "images/back/AP5-034.webp"
+    "backImage": "images/back/AP5-034.webp",
+    "stars": 3
   },
   {
     "id": "AP5-035",
@@ -2490,7 +2766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-035.webp",
-    "backImage": "images/back/AP5-035.webp"
+    "backImage": "images/back/AP5-035.webp",
+    "stars": 3
   },
   {
     "id": "AP5-036",
@@ -2499,7 +2776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-036.webp",
-    "backImage": "images/back/AP5-036.webp"
+    "backImage": "images/back/AP5-036.webp",
+    "stars": 3
   },
   {
     "id": "AP5-037",
@@ -2508,7 +2786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-037.webp",
-    "backImage": "images/back/AP5-037.webp"
+    "backImage": "images/back/AP5-037.webp",
+    "stars": 3
   },
   {
     "id": "AP5-038",
@@ -2517,7 +2796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-038.webp",
-    "backImage": "images/back/AP5-038.webp"
+    "backImage": "images/back/AP5-038.webp",
+    "stars": 3
   },
   {
     "id": "AP5-039",
@@ -2526,7 +2806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-039.webp",
-    "backImage": "images/back/AP5-039.webp"
+    "backImage": "images/back/AP5-039.webp",
+    "stars": 3
   },
   {
     "id": "AP5-040",
@@ -2535,7 +2816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-040.webp",
-    "backImage": "images/back/AP5-040.webp"
+    "backImage": "images/back/AP5-040.webp",
+    "stars": 3
   },
   {
     "id": "AP5-041",
@@ -2544,7 +2826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-041.webp",
-    "backImage": "images/back/AP5-041.webp"
+    "backImage": "images/back/AP5-041.webp",
+    "stars": 3
   },
   {
     "id": "AP5-042",
@@ -2553,7 +2836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-042.webp",
-    "backImage": "images/back/AP5-042.webp"
+    "backImage": "images/back/AP5-042.webp",
+    "stars": 3
   },
   {
     "id": "AP5-043",
@@ -2562,7 +2846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-043.webp",
-    "backImage": "images/back/AP5-043.webp"
+    "backImage": "images/back/AP5-043.webp",
+    "stars": 3
   },
   {
     "id": "AP5-044",
@@ -2571,7 +2856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-044.webp",
-    "backImage": "images/back/AP5-044.webp"
+    "backImage": "images/back/AP5-044.webp",
+    "stars": 3
   },
   {
     "id": "AP5-045",
@@ -2580,7 +2866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-045.webp",
-    "backImage": "images/back/AP5-045.webp"
+    "backImage": "images/back/AP5-045.webp",
+    "stars": 2
   },
   {
     "id": "AP5-046",
@@ -2589,7 +2876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-046.webp",
-    "backImage": "images/back/AP5-046.webp"
+    "backImage": "images/back/AP5-046.webp",
+    "stars": 2
   },
   {
     "id": "AP5-047",
@@ -2598,7 +2886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-047.webp",
-    "backImage": "images/back/AP5-047.webp"
+    "backImage": "images/back/AP5-047.webp",
+    "stars": 2
   },
   {
     "id": "AP5-048",
@@ -2607,7 +2896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-048.webp",
-    "backImage": "images/back/AP5-048.webp"
+    "backImage": "images/back/AP5-048.webp",
+    "stars": 2
   },
   {
     "id": "AP5-049",
@@ -2616,7 +2906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-049.webp",
-    "backImage": "images/back/AP5-049.webp"
+    "backImage": "images/back/AP5-049.webp",
+    "stars": 2
   },
   {
     "id": "AP5-050",
@@ -2625,7 +2916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-050.webp",
-    "backImage": "images/back/AP5-050.webp"
+    "backImage": "images/back/AP5-050.webp",
+    "stars": 2
   },
   {
     "id": "AP5-051",
@@ -2634,7 +2926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-051.webp",
-    "backImage": "images/back/AP5-051.webp"
+    "backImage": "images/back/AP5-051.webp",
+    "stars": 2
   },
   {
     "id": "AP5-052",
@@ -2643,7 +2936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-052.webp",
-    "backImage": "images/back/AP5-052.webp"
+    "backImage": "images/back/AP5-052.webp",
+    "stars": 2
   },
   {
     "id": "AP5-053",
@@ -2652,7 +2946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-053.webp",
-    "backImage": "images/back/AP5-053.webp"
+    "backImage": "images/back/AP5-053.webp",
+    "stars": 2
   },
   {
     "id": "AP5-054",
@@ -2661,7 +2956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-054.webp",
-    "backImage": "images/back/AP5-054.webp"
+    "backImage": "images/back/AP5-054.webp",
+    "stars": 2
   },
   {
     "id": "AP5-055",
@@ -2670,7 +2966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-055.webp",
-    "backImage": "images/back/AP5-055.webp"
+    "backImage": "images/back/AP5-055.webp",
+    "stars": 2
   },
   {
     "id": "AP5-056",
@@ -2679,7 +2976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-056.webp",
-    "backImage": "images/back/AP5-056.webp"
+    "backImage": "images/back/AP5-056.webp",
+    "stars": 2
   },
   {
     "id": "AP5-057",
@@ -2688,7 +2986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-057.webp",
-    "backImage": "images/back/AP5-057.webp"
+    "backImage": "images/back/AP5-057.webp",
+    "stars": 2
   },
   {
     "id": "AP5-058",
@@ -2697,7 +2996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-058.webp",
-    "backImage": "images/back/AP5-058.webp"
+    "backImage": "images/back/AP5-058.webp",
+    "stars": 2
   },
   {
     "id": "AP5-059",
@@ -2706,7 +3006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-059.webp",
-    "backImage": "images/back/AP5-059.webp"
+    "backImage": "images/back/AP5-059.webp",
+    "stars": 2
   },
   {
     "id": "AP5-060",
@@ -2715,7 +3016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第5彈",
     "category": "一般卡",
     "frontImage": "images/front/AP5-060.webp",
-    "backImage": "images/back/AP5-060.webp"
+    "backImage": "images/back/AP5-060.webp",
+    "stars": 2
   },
   {
     "id": "AP6-001",
@@ -2724,7 +3026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-001.webp",
-    "backImage": "images/back/AP6-001.webp"
+    "backImage": "images/back/AP6-001.webp",
+    "stars": 4
   },
   {
     "id": "AP6-002",
@@ -2733,7 +3036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-002.webp",
-    "backImage": "images/back/AP6-002.webp"
+    "backImage": "images/back/AP6-002.webp",
+    "stars": 4
   },
   {
     "id": "AP6-003",
@@ -2742,7 +3046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-003.webp",
-    "backImage": "images/back/AP6-003.webp"
+    "backImage": "images/back/AP6-003.webp",
+    "stars": 4
   },
   {
     "id": "AP6-004",
@@ -2751,7 +3056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-004.webp",
-    "backImage": "images/back/AP6-004.webp"
+    "backImage": "images/back/AP6-004.webp",
+    "stars": 4
   },
   {
     "id": "AP6-005",
@@ -2760,7 +3066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-005.webp",
-    "backImage": "images/back/AP6-005.webp"
+    "backImage": "images/back/AP6-005.webp",
+    "stars": 4
   },
   {
     "id": "AP6-006",
@@ -2769,7 +3076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-006.webp",
-    "backImage": "images/back/AP6-006.webp"
+    "backImage": "images/back/AP6-006.webp",
+    "stars": 4
   },
   {
     "id": "AP6-007",
@@ -2778,7 +3086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-007.webp",
-    "backImage": "images/back/AP6-007.webp"
+    "backImage": "images/back/AP6-007.webp",
+    "stars": 4
   },
   {
     "id": "AP6-008",
@@ -2787,7 +3096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-008.webp",
-    "backImage": "images/back/AP6-008.webp"
+    "backImage": "images/back/AP6-008.webp",
+    "stars": 4
   },
   {
     "id": "AP6-009",
@@ -2796,7 +3106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-009.webp",
-    "backImage": "images/back/AP6-009.webp"
+    "backImage": "images/back/AP6-009.webp",
+    "stars": 4
   },
   {
     "id": "AP6-010",
@@ -2805,7 +3116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-010.webp",
-    "backImage": "images/back/AP6-010.webp"
+    "backImage": "images/back/AP6-010.webp",
+    "stars": 4
   },
   {
     "id": "AP6-011",
@@ -2814,7 +3126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-011.webp",
-    "backImage": "images/back/AP6-011.webp"
+    "backImage": "images/back/AP6-011.webp",
+    "stars": 4
   },
   {
     "id": "AP6-012",
@@ -2823,7 +3136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-012.webp",
-    "backImage": "images/back/AP6-012.webp"
+    "backImage": "images/back/AP6-012.webp",
+    "stars": 4
   },
   {
     "id": "AP6-013",
@@ -2832,7 +3146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-013.webp",
-    "backImage": "images/back/AP6-013.webp"
+    "backImage": "images/back/AP6-013.webp",
+    "stars": 4
   },
   {
     "id": "AP6-014",
@@ -2841,7 +3156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-014.webp",
-    "backImage": "images/back/AP6-014.webp"
+    "backImage": "images/back/AP6-014.webp",
+    "stars": 4
   },
   {
     "id": "AP6-015",
@@ -2850,7 +3166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-015.webp",
-    "backImage": "images/back/AP6-015.webp"
+    "backImage": "images/back/AP6-015.webp",
+    "stars": 4
   },
   {
     "id": "AP6-016",
@@ -2859,7 +3176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-016.webp",
-    "backImage": "images/back/AP6-016.webp"
+    "backImage": "images/back/AP6-016.webp",
+    "stars": 4
   },
   {
     "id": "AP6-017",
@@ -2868,7 +3186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-017.webp",
-    "backImage": "images/back/AP6-017.webp"
+    "backImage": "images/back/AP6-017.webp",
+    "stars": 4
   },
   {
     "id": "AP6-018",
@@ -2877,7 +3196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-018.webp",
-    "backImage": "images/back/AP6-018.webp"
+    "backImage": "images/back/AP6-018.webp",
+    "stars": 4
   },
   {
     "id": "AP6-019",
@@ -2886,7 +3206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-019.webp",
-    "backImage": "images/back/AP6-019.webp"
+    "backImage": "images/back/AP6-019.webp",
+    "stars": 4
   },
   {
     "id": "AP6-020",
@@ -2895,7 +3216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-020.webp",
-    "backImage": "images/back/AP6-020.webp"
+    "backImage": "images/back/AP6-020.webp",
+    "stars": 4
   },
   {
     "id": "AP6-021",
@@ -2904,7 +3226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-021.webp",
-    "backImage": "images/back/AP6-021.webp"
+    "backImage": "images/back/AP6-021.webp",
+    "stars": 4
   },
   {
     "id": "AP6-022",
@@ -2913,7 +3236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-022.webp",
-    "backImage": "images/back/AP6-022.webp"
+    "backImage": "images/back/AP6-022.webp",
+    "stars": 3
   },
   {
     "id": "AP6-023",
@@ -2922,7 +3246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-023.webp",
-    "backImage": "images/back/AP6-023.webp"
+    "backImage": "images/back/AP6-023.webp",
+    "stars": 3
   },
   {
     "id": "AP6-024",
@@ -2931,7 +3256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-024.webp",
-    "backImage": "images/back/AP6-024.webp"
+    "backImage": "images/back/AP6-024.webp",
+    "stars": 3
   },
   {
     "id": "AP6-025",
@@ -2940,7 +3266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-025.webp",
-    "backImage": "images/back/AP6-025.webp"
+    "backImage": "images/back/AP6-025.webp",
+    "stars": 3
   },
   {
     "id": "AP6-026",
@@ -2949,7 +3276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-026.webp",
-    "backImage": "images/back/AP6-026.webp"
+    "backImage": "images/back/AP6-026.webp",
+    "stars": 3
   },
   {
     "id": "AP6-027",
@@ -2958,7 +3286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-027.webp",
-    "backImage": "images/back/AP6-027.webp"
+    "backImage": "images/back/AP6-027.webp",
+    "stars": 3
   },
   {
     "id": "AP6-028",
@@ -2967,7 +3296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-028.webp",
-    "backImage": "images/back/AP6-028.webp"
+    "backImage": "images/back/AP6-028.webp",
+    "stars": 3
   },
   {
     "id": "AP6-029",
@@ -2976,7 +3306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-029.webp",
-    "backImage": "images/back/AP6-029.webp"
+    "backImage": "images/back/AP6-029.webp",
+    "stars": 3
   },
   {
     "id": "AP6-030",
@@ -2985,7 +3316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-030.webp",
-    "backImage": "images/back/AP6-030.webp"
+    "backImage": "images/back/AP6-030.webp",
+    "stars": 3
   },
   {
     "id": "AP6-031",
@@ -2994,7 +3326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-031.webp",
-    "backImage": "images/back/AP6-031.webp"
+    "backImage": "images/back/AP6-031.webp",
+    "stars": 3
   },
   {
     "id": "AP6-032",
@@ -3003,7 +3336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-032.webp",
-    "backImage": "images/back/AP6-032.webp"
+    "backImage": "images/back/AP6-032.webp",
+    "stars": 3
   },
   {
     "id": "AP6-033",
@@ -3012,7 +3346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-033.webp",
-    "backImage": "images/back/AP6-033.webp"
+    "backImage": "images/back/AP6-033.webp",
+    "stars": 3
   },
   {
     "id": "AP6-034",
@@ -3021,7 +3356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-034.webp",
-    "backImage": "images/back/AP6-034.webp"
+    "backImage": "images/back/AP6-034.webp",
+    "stars": 3
   },
   {
     "id": "AP6-035",
@@ -3030,7 +3366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-035.webp",
-    "backImage": "images/back/AP6-035.webp"
+    "backImage": "images/back/AP6-035.webp",
+    "stars": 3
   },
   {
     "id": "AP6-036",
@@ -3039,7 +3376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-036.webp",
-    "backImage": "images/back/AP6-036.webp"
+    "backImage": "images/back/AP6-036.webp",
+    "stars": 3
   },
   {
     "id": "AP6-037",
@@ -3048,7 +3386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-037.webp",
-    "backImage": "images/back/AP6-037.webp"
+    "backImage": "images/back/AP6-037.webp",
+    "stars": 3
   },
   {
     "id": "AP6-038",
@@ -3057,7 +3396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-038.webp",
-    "backImage": "images/back/AP6-038.webp"
+    "backImage": "images/back/AP6-038.webp",
+    "stars": 3
   },
   {
     "id": "AP6-039",
@@ -3066,7 +3406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-039.webp",
-    "backImage": "images/back/AP6-039.webp"
+    "backImage": "images/back/AP6-039.webp",
+    "stars": 3
   },
   {
     "id": "AP6-040",
@@ -3075,7 +3416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-040.webp",
-    "backImage": "images/back/AP6-040.webp"
+    "backImage": "images/back/AP6-040.webp",
+    "stars": 3
   },
   {
     "id": "AP6-041",
@@ -3084,7 +3426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-041.webp",
-    "backImage": "images/back/AP6-041.webp"
+    "backImage": "images/back/AP6-041.webp",
+    "stars": 2
   },
   {
     "id": "AP6-042",
@@ -3093,7 +3436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-042.webp",
-    "backImage": "images/back/AP6-042.webp"
+    "backImage": "images/back/AP6-042.webp",
+    "stars": 2
   },
   {
     "id": "AP6-043",
@@ -3102,7 +3446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-043.webp",
-    "backImage": "images/back/AP6-043.webp"
+    "backImage": "images/back/AP6-043.webp",
+    "stars": 2
   },
   {
     "id": "AP6-044",
@@ -3111,7 +3456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-044.webp",
-    "backImage": "images/back/AP6-044.webp"
+    "backImage": "images/back/AP6-044.webp",
+    "stars": 2
   },
   {
     "id": "AP6-045",
@@ -3120,7 +3466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-045.webp",
-    "backImage": "images/back/AP6-045.webp"
+    "backImage": "images/back/AP6-045.webp",
+    "stars": 2
   },
   {
     "id": "AP6-046",
@@ -3129,7 +3476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-046.webp",
-    "backImage": "images/back/AP6-046.webp"
+    "backImage": "images/back/AP6-046.webp",
+    "stars": 2
   },
   {
     "id": "AP6-047",
@@ -3138,7 +3486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-047.webp",
-    "backImage": "images/back/AP6-047.webp"
+    "backImage": "images/back/AP6-047.webp",
+    "stars": 2
   },
   {
     "id": "AP6-048",
@@ -3147,7 +3496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-048.webp",
-    "backImage": "images/back/AP6-048.webp"
+    "backImage": "images/back/AP6-048.webp",
+    "stars": 2
   },
   {
     "id": "AP6-049",
@@ -3156,7 +3506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-049.webp",
-    "backImage": "images/back/AP6-049.webp"
+    "backImage": "images/back/AP6-049.webp",
+    "stars": 2
   },
   {
     "id": "AP6-050",
@@ -3165,7 +3516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-050.webp",
-    "backImage": "images/back/AP6-050.webp"
+    "backImage": "images/back/AP6-050.webp",
+    "stars": 2
   },
   {
     "id": "AP6-051",
@@ -3174,7 +3526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-051.webp",
-    "backImage": "images/back/AP6-051.webp"
+    "backImage": "images/back/AP6-051.webp",
+    "stars": 2
   },
   {
     "id": "AP6-052",
@@ -3183,7 +3536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-052.webp",
-    "backImage": "images/back/AP6-052.webp"
+    "backImage": "images/back/AP6-052.webp",
+    "stars": 2
   },
   {
     "id": "AP6-053",
@@ -3192,7 +3546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-053.webp",
-    "backImage": "images/back/AP6-053.webp"
+    "backImage": "images/back/AP6-053.webp",
+    "stars": 2
   },
   {
     "id": "AP6-054",
@@ -3201,7 +3556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-054.webp",
-    "backImage": "images/back/AP6-054.webp"
+    "backImage": "images/back/AP6-054.webp",
+    "stars": 2
   },
   {
     "id": "AP6-055",
@@ -3210,7 +3566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-055.webp",
-    "backImage": "images/back/AP6-055.webp"
+    "backImage": "images/back/AP6-055.webp",
+    "stars": 2
   },
   {
     "id": "AP6-056",
@@ -3219,7 +3576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-056.webp",
-    "backImage": "images/back/AP6-056.webp"
+    "backImage": "images/back/AP6-056.webp",
+    "stars": 4
   },
   {
     "id": "AP6-057",
@@ -3228,7 +3586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-057.webp",
-    "backImage": "images/back/AP6-057.webp"
+    "backImage": "images/back/AP6-057.webp",
+    "stars": 4
   },
   {
     "id": "AP6-058",
@@ -3237,7 +3596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-058.webp",
-    "backImage": "images/back/AP6-058.webp"
+    "backImage": "images/back/AP6-058.webp",
+    "stars": 4
   },
   {
     "id": "AP6-059",
@@ -3246,7 +3606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-059.webp",
-    "backImage": "images/back/AP6-059.webp"
+    "backImage": "images/back/AP6-059.webp",
+    "stars": 3
   },
   {
     "id": "AP6-060",
@@ -3255,7 +3616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "第6彈",
     "category": "一般卡",
     "frontImage": "images/front/AP6-060.webp",
-    "backImage": "images/back/AP6-060.webp"
+    "backImage": "images/back/AP6-060.webp",
+    "stars": 3
   },
   {
     "id": "APR1-001",
@@ -3264,7 +3626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-001.webp",
-    "backImage": "images/back/APR1-001.webp"
+    "backImage": "images/back/APR1-001.webp",
+    "stars": 4
   },
   {
     "id": "APR1-002",
@@ -3273,7 +3636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-002.webp",
-    "backImage": "images/back/APR1-002.webp"
+    "backImage": "images/back/APR1-002.webp",
+    "stars": 4
   },
   {
     "id": "APR1-003",
@@ -3282,7 +3646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-003.webp",
-    "backImage": "images/back/APR1-003.webp"
+    "backImage": "images/back/APR1-003.webp",
+    "stars": 4
   },
   {
     "id": "APR1-004",
@@ -3291,7 +3656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-004.webp",
-    "backImage": "images/back/APR1-004.webp"
+    "backImage": "images/back/APR1-004.webp",
+    "stars": 4
   },
   {
     "id": "APR1-005",
@@ -3300,7 +3666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-005.webp",
-    "backImage": "images/back/APR1-005.webp"
+    "backImage": "images/back/APR1-005.webp",
+    "stars": 4
   },
   {
     "id": "APR1-006",
@@ -3309,7 +3676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-006.webp",
-    "backImage": "images/back/APR1-006.webp"
+    "backImage": "images/back/APR1-006.webp",
+    "stars": 4
   },
   {
     "id": "APR1-007",
@@ -3318,7 +3686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-007.webp",
-    "backImage": "images/back/APR1-007.webp"
+    "backImage": "images/back/APR1-007.webp",
+    "stars": 4
   },
   {
     "id": "APR1-008",
@@ -3327,7 +3696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-008.webp",
-    "backImage": "images/back/APR1-008.webp"
+    "backImage": "images/back/APR1-008.webp",
+    "stars": 4
   },
   {
     "id": "APR1-009",
@@ -3336,7 +3706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-009.webp",
-    "backImage": "images/back/APR1-009.webp"
+    "backImage": "images/back/APR1-009.webp",
+    "stars": 4
   },
   {
     "id": "APR1-010",
@@ -3345,7 +3716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-010.webp",
-    "backImage": "images/back/APR1-010.webp"
+    "backImage": "images/back/APR1-010.webp",
+    "stars": 4
   },
   {
     "id": "APR1-011",
@@ -3354,7 +3726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-011.webp",
-    "backImage": "images/back/APR1-011.webp"
+    "backImage": "images/back/APR1-011.webp",
+    "stars": 4
   },
   {
     "id": "APR1-012",
@@ -3363,7 +3736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-012.webp",
-    "backImage": "images/back/APR1-012.webp"
+    "backImage": "images/back/APR1-012.webp",
+    "stars": 4
   },
   {
     "id": "APR1-013",
@@ -3372,7 +3746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-013.webp",
-    "backImage": "images/back/APR1-013.webp"
+    "backImage": "images/back/APR1-013.webp",
+    "stars": 4
   },
   {
     "id": "APR1-014",
@@ -3381,7 +3756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-014.webp",
-    "backImage": "images/back/APR1-014.webp"
+    "backImage": "images/back/APR1-014.webp",
+    "stars": 4
   },
   {
     "id": "APR1-015",
@@ -3390,7 +3766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-015.webp",
-    "backImage": "images/back/APR1-015.webp"
+    "backImage": "images/back/APR1-015.webp",
+    "stars": 4
   },
   {
     "id": "APR1-016",
@@ -3399,7 +3776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-016.webp",
-    "backImage": "images/back/APR1-016.webp"
+    "backImage": "images/back/APR1-016.webp",
+    "stars": 4
   },
   {
     "id": "APR1-017",
@@ -3408,7 +3786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-017.webp",
-    "backImage": "images/back/APR1-017.webp"
+    "backImage": "images/back/APR1-017.webp",
+    "stars": 4
   },
   {
     "id": "APR1-018",
@@ -3417,7 +3796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-018.webp",
-    "backImage": "images/back/APR1-018.webp"
+    "backImage": "images/back/APR1-018.webp",
+    "stars": 4
   },
   {
     "id": "APR1-019",
@@ -3426,7 +3806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-019.webp",
-    "backImage": "images/back/APR1-019.webp"
+    "backImage": "images/back/APR1-019.webp",
+    "stars": 4
   },
   {
     "id": "APR1-020",
@@ -3435,7 +3816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-020.webp",
-    "backImage": "images/back/APR1-020.webp"
+    "backImage": "images/back/APR1-020.webp",
+    "stars": 4
   },
   {
     "id": "APR1-021",
@@ -3444,7 +3826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-021.webp",
-    "backImage": "images/back/APR1-021.webp"
+    "backImage": "images/back/APR1-021.webp",
+    "stars": 4
   },
   {
     "id": "APR1-022",
@@ -3453,7 +3836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-022.webp",
-    "backImage": "images/back/APR1-022.webp"
+    "backImage": "images/back/APR1-022.webp",
+    "stars": 3
   },
   {
     "id": "APR1-023",
@@ -3462,7 +3846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-023.webp",
-    "backImage": "images/back/APR1-023.webp"
+    "backImage": "images/back/APR1-023.webp",
+    "stars": 3
   },
   {
     "id": "APR1-024",
@@ -3471,7 +3856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-024.webp",
-    "backImage": "images/back/APR1-024.webp"
+    "backImage": "images/back/APR1-024.webp",
+    "stars": 3
   },
   {
     "id": "APR1-025",
@@ -3480,7 +3866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-025.webp",
-    "backImage": "images/back/APR1-025.webp"
+    "backImage": "images/back/APR1-025.webp",
+    "stars": 3
   },
   {
     "id": "APR1-026",
@@ -3489,7 +3876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-026.webp",
-    "backImage": "images/back/APR1-026.webp"
+    "backImage": "images/back/APR1-026.webp",
+    "stars": 3
   },
   {
     "id": "APR1-027",
@@ -3498,7 +3886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-027.webp",
-    "backImage": "images/back/APR1-027.webp"
+    "backImage": "images/back/APR1-027.webp",
+    "stars": 3
   },
   {
     "id": "APR1-028",
@@ -3507,7 +3896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-028.webp",
-    "backImage": "images/back/APR1-028.webp"
+    "backImage": "images/back/APR1-028.webp",
+    "stars": 3
   },
   {
     "id": "APR1-029",
@@ -3516,7 +3906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-029.webp",
-    "backImage": "images/back/APR1-029.webp"
+    "backImage": "images/back/APR1-029.webp",
+    "stars": 3
   },
   {
     "id": "APR1-030",
@@ -3525,7 +3916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-030.webp",
-    "backImage": "images/back/APR1-030.webp"
+    "backImage": "images/back/APR1-030.webp",
+    "stars": 3
   },
   {
     "id": "APR1-031",
@@ -3534,7 +3926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-031.webp",
-    "backImage": "images/back/APR1-031.webp"
+    "backImage": "images/back/APR1-031.webp",
+    "stars": 3
   },
   {
     "id": "APR1-032",
@@ -3543,7 +3936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-032.webp",
-    "backImage": "images/back/APR1-032.webp"
+    "backImage": "images/back/APR1-032.webp",
+    "stars": 3
   },
   {
     "id": "APR1-033",
@@ -3552,7 +3946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-033.webp",
-    "backImage": "images/back/APR1-033.webp"
+    "backImage": "images/back/APR1-033.webp",
+    "stars": 3
   },
   {
     "id": "APR1-034",
@@ -3561,7 +3956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-034.webp",
-    "backImage": "images/back/APR1-034.webp"
+    "backImage": "images/back/APR1-034.webp",
+    "stars": 3
   },
   {
     "id": "APR1-035",
@@ -3570,7 +3966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-035.webp",
-    "backImage": "images/back/APR1-035.webp"
+    "backImage": "images/back/APR1-035.webp",
+    "stars": 3
   },
   {
     "id": "APR1-036",
@@ -3579,7 +3976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-036.webp",
-    "backImage": "images/back/APR1-036.webp"
+    "backImage": "images/back/APR1-036.webp",
+    "stars": 3
   },
   {
     "id": "APR1-037",
@@ -3588,7 +3986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-037.webp",
-    "backImage": "images/back/APR1-037.webp"
+    "backImage": "images/back/APR1-037.webp",
+    "stars": 3
   },
   {
     "id": "APR1-038",
@@ -3597,7 +3996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-038.webp",
-    "backImage": "images/back/APR1-038.webp"
+    "backImage": "images/back/APR1-038.webp",
+    "stars": 3
   },
   {
     "id": "APR1-039",
@@ -3606,7 +4006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-039.webp",
-    "backImage": "images/back/APR1-039.webp"
+    "backImage": "images/back/APR1-039.webp",
+    "stars": 3
   },
   {
     "id": "APR1-040",
@@ -3615,7 +4016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-040.webp",
-    "backImage": "images/back/APR1-040.webp"
+    "backImage": "images/back/APR1-040.webp",
+    "stars": 3
   },
   {
     "id": "APR1-041",
@@ -3624,7 +4026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-041.webp",
-    "backImage": "images/back/APR1-041.webp"
+    "backImage": "images/back/APR1-041.webp",
+    "stars": 2
   },
   {
     "id": "APR1-042",
@@ -3633,7 +4036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-042.webp",
-    "backImage": "images/back/APR1-042.webp"
+    "backImage": "images/back/APR1-042.webp",
+    "stars": 2
   },
   {
     "id": "APR1-043",
@@ -3642,7 +4046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-043.webp",
-    "backImage": "images/back/APR1-043.webp"
+    "backImage": "images/back/APR1-043.webp",
+    "stars": 2
   },
   {
     "id": "APR1-044",
@@ -3651,7 +4056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-044.webp",
-    "backImage": "images/back/APR1-044.webp"
+    "backImage": "images/back/APR1-044.webp",
+    "stars": 2
   },
   {
     "id": "APR1-045",
@@ -3660,7 +4066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-045.webp",
-    "backImage": "images/back/APR1-045.webp"
+    "backImage": "images/back/APR1-045.webp",
+    "stars": 2
   },
   {
     "id": "APR1-046",
@@ -3669,7 +4076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-046.webp",
-    "backImage": "images/back/APR1-046.webp"
+    "backImage": "images/back/APR1-046.webp",
+    "stars": 2
   },
   {
     "id": "APR1-047",
@@ -3678,7 +4086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-047.webp",
-    "backImage": "images/back/APR1-047.webp"
+    "backImage": "images/back/APR1-047.webp",
+    "stars": 2
   },
   {
     "id": "APR1-048",
@@ -3687,7 +4096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-048.webp",
-    "backImage": "images/back/APR1-048.webp"
+    "backImage": "images/back/APR1-048.webp",
+    "stars": 2
   },
   {
     "id": "APR1-049",
@@ -3696,7 +4106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-049.webp",
-    "backImage": "images/back/APR1-049.webp"
+    "backImage": "images/back/APR1-049.webp",
+    "stars": 2
   },
   {
     "id": "APR1-050",
@@ -3705,7 +4116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-050.webp",
-    "backImage": "images/back/APR1-050.webp"
+    "backImage": "images/back/APR1-050.webp",
+    "stars": 2
   },
   {
     "id": "APR1-051",
@@ -3714,7 +4126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-051.webp",
-    "backImage": "images/back/APR1-051.webp"
+    "backImage": "images/back/APR1-051.webp",
+    "stars": 2
   },
   {
     "id": "APR1-052",
@@ -3723,7 +4136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-052.webp",
-    "backImage": "images/back/APR1-052.webp"
+    "backImage": "images/back/APR1-052.webp",
+    "stars": 2
   },
   {
     "id": "APR1-053",
@@ -3732,7 +4146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-053.webp",
-    "backImage": "images/back/APR1-053.webp"
+    "backImage": "images/back/APR1-053.webp",
+    "stars": 2
   },
   {
     "id": "APR1-054",
@@ -3741,7 +4156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-054.webp",
-    "backImage": "images/back/APR1-054.webp"
+    "backImage": "images/back/APR1-054.webp",
+    "stars": 2
   },
   {
     "id": "APR1-055",
@@ -3750,7 +4166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第1彈",
     "category": "リング卡",
     "frontImage": "images/front/APR1-055.webp",
-    "backImage": "images/back/APR1-055.webp"
+    "backImage": "images/back/APR1-055.webp",
+    "stars": 2
   },
   {
     "id": "APR2-001",
@@ -3759,7 +4176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-001.webp",
-    "backImage": "images/back/APR2-001.webp"
+    "backImage": "images/back/APR2-001.webp",
+    "stars": 4
   },
   {
     "id": "APR2-002",
@@ -3768,7 +4186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-002.webp",
-    "backImage": "images/back/APR2-002.webp"
+    "backImage": "images/back/APR2-002.webp",
+    "stars": 4
   },
   {
     "id": "APR2-003",
@@ -3777,7 +4196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-003.webp",
-    "backImage": "images/back/APR2-003.webp"
+    "backImage": "images/back/APR2-003.webp",
+    "stars": 4
   },
   {
     "id": "APR2-004",
@@ -3786,7 +4206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-004.webp",
-    "backImage": "images/back/APR2-004.webp"
+    "backImage": "images/back/APR2-004.webp",
+    "stars": 4
   },
   {
     "id": "APR2-005",
@@ -3795,7 +4216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-005.webp",
-    "backImage": "images/back/APR2-005.webp"
+    "backImage": "images/back/APR2-005.webp",
+    "stars": 4
   },
   {
     "id": "APR2-006",
@@ -3804,7 +4226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-006.webp",
-    "backImage": "images/back/APR2-006.webp"
+    "backImage": "images/back/APR2-006.webp",
+    "stars": 4
   },
   {
     "id": "APR2-007",
@@ -3813,7 +4236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-007.webp",
-    "backImage": "images/back/APR2-007.webp"
+    "backImage": "images/back/APR2-007.webp",
+    "stars": 4
   },
   {
     "id": "APR2-008",
@@ -3822,7 +4246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-008.webp",
-    "backImage": "images/back/APR2-008.webp"
+    "backImage": "images/back/APR2-008.webp",
+    "stars": 4
   },
   {
     "id": "APR2-009",
@@ -3831,7 +4256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-009.webp",
-    "backImage": "images/back/APR2-009.webp"
+    "backImage": "images/back/APR2-009.webp",
+    "stars": 4
   },
   {
     "id": "APR2-010",
@@ -3840,7 +4266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-010.webp",
-    "backImage": "images/back/APR2-010.webp"
+    "backImage": "images/back/APR2-010.webp",
+    "stars": 4
   },
   {
     "id": "APR2-011",
@@ -3849,7 +4276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-011.webp",
-    "backImage": "images/back/APR2-011.webp"
+    "backImage": "images/back/APR2-011.webp",
+    "stars": 4
   },
   {
     "id": "APR2-012",
@@ -3858,7 +4286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-012.webp",
-    "backImage": "images/back/APR2-012.webp"
+    "backImage": "images/back/APR2-012.webp",
+    "stars": 4
   },
   {
     "id": "APR2-013",
@@ -3867,7 +4296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-013.webp",
-    "backImage": "images/back/APR2-013.webp"
+    "backImage": "images/back/APR2-013.webp",
+    "stars": 4
   },
   {
     "id": "APR2-014",
@@ -3876,7 +4306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-014.webp",
-    "backImage": "images/back/APR2-014.webp"
+    "backImage": "images/back/APR2-014.webp",
+    "stars": 4
   },
   {
     "id": "APR2-015",
@@ -3885,7 +4316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-015.webp",
-    "backImage": "images/back/APR2-015.webp"
+    "backImage": "images/back/APR2-015.webp",
+    "stars": 4
   },
   {
     "id": "APR2-016",
@@ -3894,7 +4326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-016.webp",
-    "backImage": "images/back/APR2-016.webp"
+    "backImage": "images/back/APR2-016.webp",
+    "stars": 4
   },
   {
     "id": "APR2-017",
@@ -3903,7 +4336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-017.webp",
-    "backImage": "images/back/APR2-017.webp"
+    "backImage": "images/back/APR2-017.webp",
+    "stars": 4
   },
   {
     "id": "APR2-018",
@@ -3912,7 +4346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-018.webp",
-    "backImage": "images/back/APR2-018.webp"
+    "backImage": "images/back/APR2-018.webp",
+    "stars": 4
   },
   {
     "id": "APR2-019",
@@ -3921,7 +4356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-019.webp",
-    "backImage": "images/back/APR2-019.webp"
+    "backImage": "images/back/APR2-019.webp",
+    "stars": 4
   },
   {
     "id": "APR2-020",
@@ -3930,7 +4366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-020.webp",
-    "backImage": "images/back/APR2-020.webp"
+    "backImage": "images/back/APR2-020.webp",
+    "stars": 4
   },
   {
     "id": "APR2-021",
@@ -3939,7 +4376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-021.webp",
-    "backImage": "images/back/APR2-021.webp"
+    "backImage": "images/back/APR2-021.webp",
+    "stars": 4
   },
   {
     "id": "APR2-022",
@@ -3948,7 +4386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-022.webp",
-    "backImage": "images/back/APR2-022.webp"
+    "backImage": "images/back/APR2-022.webp",
+    "stars": 3
   },
   {
     "id": "APR2-023",
@@ -3957,7 +4396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-023.webp",
-    "backImage": "images/back/APR2-023.webp"
+    "backImage": "images/back/APR2-023.webp",
+    "stars": 3
   },
   {
     "id": "APR2-024",
@@ -3966,7 +4406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-024.webp",
-    "backImage": "images/back/APR2-024.webp"
+    "backImage": "images/back/APR2-024.webp",
+    "stars": 3
   },
   {
     "id": "APR2-025",
@@ -3975,7 +4416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-025.webp",
-    "backImage": "images/back/APR2-025.webp"
+    "backImage": "images/back/APR2-025.webp",
+    "stars": 3
   },
   {
     "id": "APR2-026",
@@ -3984,7 +4426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-026.webp",
-    "backImage": "images/back/APR2-026.webp"
+    "backImage": "images/back/APR2-026.webp",
+    "stars": 3
   },
   {
     "id": "APR2-027",
@@ -3993,7 +4436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-027.webp",
-    "backImage": "images/back/APR2-027.webp"
+    "backImage": "images/back/APR2-027.webp",
+    "stars": 3
   },
   {
     "id": "APR2-028",
@@ -4002,7 +4446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-028.webp",
-    "backImage": "images/back/APR2-028.webp"
+    "backImage": "images/back/APR2-028.webp",
+    "stars": 3
   },
   {
     "id": "APR2-029",
@@ -4011,7 +4456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-029.webp",
-    "backImage": "images/back/APR2-029.webp"
+    "backImage": "images/back/APR2-029.webp",
+    "stars": 3
   },
   {
     "id": "APR2-030",
@@ -4020,7 +4466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-030.webp",
-    "backImage": "images/back/APR2-030.webp"
+    "backImage": "images/back/APR2-030.webp",
+    "stars": 3
   },
   {
     "id": "APR2-031",
@@ -4029,7 +4476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-031.webp",
-    "backImage": "images/back/APR2-031.webp"
+    "backImage": "images/back/APR2-031.webp",
+    "stars": 3
   },
   {
     "id": "APR2-032",
@@ -4038,7 +4486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-032.webp",
-    "backImage": "images/back/APR2-032.webp"
+    "backImage": "images/back/APR2-032.webp",
+    "stars": 3
   },
   {
     "id": "APR2-033",
@@ -4047,7 +4496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-033.webp",
-    "backImage": "images/back/APR2-033.webp"
+    "backImage": "images/back/APR2-033.webp",
+    "stars": 3
   },
   {
     "id": "APR2-034",
@@ -4056,7 +4506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-034.webp",
-    "backImage": "images/back/APR2-034.webp"
+    "backImage": "images/back/APR2-034.webp",
+    "stars": 3
   },
   {
     "id": "APR2-035",
@@ -4065,7 +4516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-035.webp",
-    "backImage": "images/back/APR2-035.webp"
+    "backImage": "images/back/APR2-035.webp",
+    "stars": 3
   },
   {
     "id": "APR2-036",
@@ -4074,7 +4526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-036.webp",
-    "backImage": "images/back/APR2-036.webp"
+    "backImage": "images/back/APR2-036.webp",
+    "stars": 3
   },
   {
     "id": "APR2-037",
@@ -4083,7 +4536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-037.webp",
-    "backImage": "images/back/APR2-037.webp"
+    "backImage": "images/back/APR2-037.webp",
+    "stars": 3
   },
   {
     "id": "APR2-038",
@@ -4092,7 +4546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-038.webp",
-    "backImage": "images/back/APR2-038.webp"
+    "backImage": "images/back/APR2-038.webp",
+    "stars": 3
   },
   {
     "id": "APR2-039",
@@ -4101,7 +4556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-039.webp",
-    "backImage": "images/back/APR2-039.webp"
+    "backImage": "images/back/APR2-039.webp",
+    "stars": 3
   },
   {
     "id": "APR2-040",
@@ -4110,7 +4566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-040.webp",
-    "backImage": "images/back/APR2-040.webp"
+    "backImage": "images/back/APR2-040.webp",
+    "stars": 3
   },
   {
     "id": "APR2-041",
@@ -4119,7 +4576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-041.webp",
-    "backImage": "images/back/APR2-041.webp"
+    "backImage": "images/back/APR2-041.webp",
+    "stars": 3
   },
   {
     "id": "APR2-042",
@@ -4128,7 +4586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-042.webp",
-    "backImage": "images/back/APR2-042.webp"
+    "backImage": "images/back/APR2-042.webp",
+    "stars": 2
   },
   {
     "id": "APR2-043",
@@ -4137,7 +4596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-043.webp",
-    "backImage": "images/back/APR2-043.webp"
+    "backImage": "images/back/APR2-043.webp",
+    "stars": 2
   },
   {
     "id": "APR2-044",
@@ -4146,7 +4606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-044.webp",
-    "backImage": "images/back/APR2-044.webp"
+    "backImage": "images/back/APR2-044.webp",
+    "stars": 2
   },
   {
     "id": "APR2-045",
@@ -4155,7 +4616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-045.webp",
-    "backImage": "images/back/APR2-045.webp"
+    "backImage": "images/back/APR2-045.webp",
+    "stars": 2
   },
   {
     "id": "APR2-046",
@@ -4164,7 +4626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-046.webp",
-    "backImage": "images/back/APR2-046.webp"
+    "backImage": "images/back/APR2-046.webp",
+    "stars": 2
   },
   {
     "id": "APR2-047",
@@ -4173,7 +4636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-047.webp",
-    "backImage": "images/back/APR2-047.webp"
+    "backImage": "images/back/APR2-047.webp",
+    "stars": 2
   },
   {
     "id": "APR2-048",
@@ -4182,7 +4646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-048.webp",
-    "backImage": "images/back/APR2-048.webp"
+    "backImage": "images/back/APR2-048.webp",
+    "stars": 2
   },
   {
     "id": "APR2-049",
@@ -4191,7 +4656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-049.webp",
-    "backImage": "images/back/APR2-049.webp"
+    "backImage": "images/back/APR2-049.webp",
+    "stars": 2
   },
   {
     "id": "APR2-050",
@@ -4200,7 +4666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-050.webp",
-    "backImage": "images/back/APR2-050.webp"
+    "backImage": "images/back/APR2-050.webp",
+    "stars": 2
   },
   {
     "id": "APR2-051",
@@ -4209,7 +4676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-051.webp",
-    "backImage": "images/back/APR2-051.webp"
+    "backImage": "images/back/APR2-051.webp",
+    "stars": 2
   },
   {
     "id": "APR2-052",
@@ -4218,7 +4686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-052.webp",
-    "backImage": "images/back/APR2-052.webp"
+    "backImage": "images/back/APR2-052.webp",
+    "stars": 2
   },
   {
     "id": "APR2-053",
@@ -4227,7 +4696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-053.webp",
-    "backImage": "images/back/APR2-053.webp"
+    "backImage": "images/back/APR2-053.webp",
+    "stars": 2
   },
   {
     "id": "APR2-054",
@@ -4236,7 +4706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-054.webp",
-    "backImage": "images/back/APR2-054.webp"
+    "backImage": "images/back/APR2-054.webp",
+    "stars": 2
   },
   {
     "id": "APR2-055",
@@ -4245,7 +4716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-055.webp",
-    "backImage": "images/back/APR2-055.webp"
+    "backImage": "images/back/APR2-055.webp",
+    "stars": 2
   },
   {
     "id": "APR2-056",
@@ -4254,7 +4726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-056.webp",
-    "backImage": "images/back/APR2-056.webp"
+    "backImage": "images/back/APR2-056.webp",
+    "stars": 2
   },
   {
     "id": "APR2-057",
@@ -4263,7 +4736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-057.webp",
-    "backImage": "images/back/APR2-057.webp"
+    "backImage": "images/back/APR2-057.webp",
+    "stars": 2
   },
   {
     "id": "APR2-058",
@@ -4272,7 +4746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第2彈",
     "category": "リング卡",
     "frontImage": "images/front/APR2-058.webp",
-    "backImage": "images/back/APR2-058.webp"
+    "backImage": "images/back/APR2-058.webp",
+    "stars": 2
   },
   {
     "id": "APR3-001",
@@ -4281,7 +4756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-001.webp",
-    "backImage": "images/back/APR3-001.webp"
+    "backImage": "images/back/APR3-001.webp",
+    "stars": 4
   },
   {
     "id": "APR3-002",
@@ -4290,7 +4766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-002.webp",
-    "backImage": "images/back/APR3-002.webp"
+    "backImage": "images/back/APR3-002.webp",
+    "stars": 4
   },
   {
     "id": "APR3-003",
@@ -4299,7 +4776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-003.webp",
-    "backImage": "images/back/APR3-003.webp"
+    "backImage": "images/back/APR3-003.webp",
+    "stars": 4
   },
   {
     "id": "APR3-004",
@@ -4308,7 +4786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-004.webp",
-    "backImage": "images/back/APR3-004.webp"
+    "backImage": "images/back/APR3-004.webp",
+    "stars": 4
   },
   {
     "id": "APR3-005",
@@ -4317,7 +4796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-005.webp",
-    "backImage": "images/back/APR3-005.webp"
+    "backImage": "images/back/APR3-005.webp",
+    "stars": 4
   },
   {
     "id": "APR3-006",
@@ -4326,7 +4806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-006.webp",
-    "backImage": "images/back/APR3-006.webp"
+    "backImage": "images/back/APR3-006.webp",
+    "stars": 4
   },
   {
     "id": "APR3-007",
@@ -4335,7 +4816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-007.webp",
-    "backImage": "images/back/APR3-007.webp"
+    "backImage": "images/back/APR3-007.webp",
+    "stars": 4
   },
   {
     "id": "APR3-008",
@@ -4344,7 +4826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-008.webp",
-    "backImage": "images/back/APR3-008.webp"
+    "backImage": "images/back/APR3-008.webp",
+    "stars": 4
   },
   {
     "id": "APR3-009",
@@ -4353,7 +4836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-009.webp",
-    "backImage": "images/back/APR3-009.webp"
+    "backImage": "images/back/APR3-009.webp",
+    "stars": 4
   },
   {
     "id": "APR3-010",
@@ -4362,7 +4846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-010.webp",
-    "backImage": "images/back/APR3-010.webp"
+    "backImage": "images/back/APR3-010.webp",
+    "stars": 4
   },
   {
     "id": "APR3-011",
@@ -4371,7 +4856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-011.webp",
-    "backImage": "images/back/APR3-011.webp"
+    "backImage": "images/back/APR3-011.webp",
+    "stars": 4
   },
   {
     "id": "APR3-012",
@@ -4380,7 +4866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-012.webp",
-    "backImage": "images/back/APR3-012.webp"
+    "backImage": "images/back/APR3-012.webp",
+    "stars": 4
   },
   {
     "id": "APR3-013",
@@ -4389,7 +4876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-013.webp",
-    "backImage": "images/back/APR3-013.webp"
+    "backImage": "images/back/APR3-013.webp",
+    "stars": 4
   },
   {
     "id": "APR3-014",
@@ -4398,7 +4886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-014.webp",
-    "backImage": "images/back/APR3-014.webp"
+    "backImage": "images/back/APR3-014.webp",
+    "stars": 4
   },
   {
     "id": "APR3-015",
@@ -4407,7 +4896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-015.webp",
-    "backImage": "images/back/APR3-015.webp"
+    "backImage": "images/back/APR3-015.webp",
+    "stars": 4
   },
   {
     "id": "APR3-016",
@@ -4416,7 +4906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-016.webp",
-    "backImage": "images/back/APR3-016.webp"
+    "backImage": "images/back/APR3-016.webp",
+    "stars": 4
   },
   {
     "id": "APR3-017",
@@ -4425,7 +4916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-017.webp",
-    "backImage": "images/back/APR3-017.webp"
+    "backImage": "images/back/APR3-017.webp",
+    "stars": 4
   },
   {
     "id": "APR3-018",
@@ -4434,7 +4926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-018.webp",
-    "backImage": "images/back/APR3-018.webp"
+    "backImage": "images/back/APR3-018.webp",
+    "stars": 4
   },
   {
     "id": "APR3-019",
@@ -4443,7 +4936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-019.webp",
-    "backImage": "images/back/APR3-019.webp"
+    "backImage": "images/back/APR3-019.webp",
+    "stars": 4
   },
   {
     "id": "APR3-020",
@@ -4452,7 +4946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-020.webp",
-    "backImage": "images/back/APR3-020.webp"
+    "backImage": "images/back/APR3-020.webp",
+    "stars": 4
   },
   {
     "id": "APR3-021",
@@ -4461,7 +4956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-021.webp",
-    "backImage": "images/back/APR3-021.webp"
+    "backImage": "images/back/APR3-021.webp",
+    "stars": 3
   },
   {
     "id": "APR3-022",
@@ -4470,7 +4966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-022.webp",
-    "backImage": "images/back/APR3-022.webp"
+    "backImage": "images/back/APR3-022.webp",
+    "stars": 3
   },
   {
     "id": "APR3-023",
@@ -4479,7 +4976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-023.webp",
-    "backImage": "images/back/APR3-023.webp"
+    "backImage": "images/back/APR3-023.webp",
+    "stars": 3
   },
   {
     "id": "APR3-024",
@@ -4488,7 +4986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-024.webp",
-    "backImage": "images/back/APR3-024.webp"
+    "backImage": "images/back/APR3-024.webp",
+    "stars": 3
   },
   {
     "id": "APR3-025",
@@ -4497,7 +4996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-025.webp",
-    "backImage": "images/back/APR3-025.webp"
+    "backImage": "images/back/APR3-025.webp",
+    "stars": 3
   },
   {
     "id": "APR3-026",
@@ -4506,7 +5006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-026.webp",
-    "backImage": "images/back/APR3-026.webp"
+    "backImage": "images/back/APR3-026.webp",
+    "stars": 3
   },
   {
     "id": "APR3-027",
@@ -4515,7 +5016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-027.webp",
-    "backImage": "images/back/APR3-027.webp"
+    "backImage": "images/back/APR3-027.webp",
+    "stars": 3
   },
   {
     "id": "APR3-028",
@@ -4524,7 +5026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-028.webp",
-    "backImage": "images/back/APR3-028.webp"
+    "backImage": "images/back/APR3-028.webp",
+    "stars": 3
   },
   {
     "id": "APR3-029",
@@ -4533,7 +5036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-029.webp",
-    "backImage": "images/back/APR3-029.webp"
+    "backImage": "images/back/APR3-029.webp",
+    "stars": 3
   },
   {
     "id": "APR3-030",
@@ -4542,7 +5046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-030.webp",
-    "backImage": "images/back/APR3-030.webp"
+    "backImage": "images/back/APR3-030.webp",
+    "stars": 3
   },
   {
     "id": "APR3-031",
@@ -4551,7 +5056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-031.webp",
-    "backImage": "images/back/APR3-031.webp"
+    "backImage": "images/back/APR3-031.webp",
+    "stars": 3
   },
   {
     "id": "APR3-032",
@@ -4560,7 +5066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-032.webp",
-    "backImage": "images/back/APR3-032.webp"
+    "backImage": "images/back/APR3-032.webp",
+    "stars": 3
   },
   {
     "id": "APR3-033",
@@ -4569,7 +5076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-033.webp",
-    "backImage": "images/back/APR3-033.webp"
+    "backImage": "images/back/APR3-033.webp",
+    "stars": 3
   },
   {
     "id": "APR3-034",
@@ -4578,7 +5086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-034.webp",
-    "backImage": "images/back/APR3-034.webp"
+    "backImage": "images/back/APR3-034.webp",
+    "stars": 3
   },
   {
     "id": "APR3-035",
@@ -4587,7 +5096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-035.webp",
-    "backImage": "images/back/APR3-035.webp"
+    "backImage": "images/back/APR3-035.webp",
+    "stars": 3
   },
   {
     "id": "APR3-036",
@@ -4596,7 +5106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-036.webp",
-    "backImage": "images/back/APR3-036.webp"
+    "backImage": "images/back/APR3-036.webp",
+    "stars": 3
   },
   {
     "id": "APR3-037",
@@ -4605,7 +5116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-037.webp",
-    "backImage": "images/back/APR3-037.webp"
+    "backImage": "images/back/APR3-037.webp",
+    "stars": 3
   },
   {
     "id": "APR3-038",
@@ -4614,7 +5126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-038.webp",
-    "backImage": "images/back/APR3-038.webp"
+    "backImage": "images/back/APR3-038.webp",
+    "stars": 3
   },
   {
     "id": "APR3-039",
@@ -4623,7 +5136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-039.webp",
-    "backImage": "images/back/APR3-039.webp"
+    "backImage": "images/back/APR3-039.webp",
+    "stars": 3
   },
   {
     "id": "APR3-040",
@@ -4632,7 +5146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-040.webp",
-    "backImage": "images/back/APR3-040.webp"
+    "backImage": "images/back/APR3-040.webp",
+    "stars": 3
   },
   {
     "id": "APR3-041",
@@ -4641,7 +5156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-041.webp",
-    "backImage": "images/back/APR3-041.webp"
+    "backImage": "images/back/APR3-041.webp",
+    "stars": 3
   },
   {
     "id": "APR3-042",
@@ -4650,7 +5166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-042.webp",
-    "backImage": "images/back/APR3-042.webp"
+    "backImage": "images/back/APR3-042.webp",
+    "stars": 3
   },
   {
     "id": "APR3-043",
@@ -4659,7 +5176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-043.webp",
-    "backImage": "images/back/APR3-043.webp"
+    "backImage": "images/back/APR3-043.webp",
+    "stars": 2
   },
   {
     "id": "APR3-044",
@@ -4668,7 +5186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-044.webp",
-    "backImage": "images/back/APR3-044.webp"
+    "backImage": "images/back/APR3-044.webp",
+    "stars": 2
   },
   {
     "id": "APR3-045",
@@ -4677,7 +5196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-045.webp",
-    "backImage": "images/back/APR3-045.webp"
+    "backImage": "images/back/APR3-045.webp",
+    "stars": 2
   },
   {
     "id": "APR3-046",
@@ -4686,7 +5206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-046.webp",
-    "backImage": "images/back/APR3-046.webp"
+    "backImage": "images/back/APR3-046.webp",
+    "stars": 2
   },
   {
     "id": "APR3-047",
@@ -4695,7 +5216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-047.webp",
-    "backImage": "images/back/APR3-047.webp"
+    "backImage": "images/back/APR3-047.webp",
+    "stars": 2
   },
   {
     "id": "APR3-048",
@@ -4704,7 +5226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-048.webp",
-    "backImage": "images/back/APR3-048.webp"
+    "backImage": "images/back/APR3-048.webp",
+    "stars": 2
   },
   {
     "id": "APR3-049",
@@ -4713,7 +5236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-049.webp",
-    "backImage": "images/back/APR3-049.webp"
+    "backImage": "images/back/APR3-049.webp",
+    "stars": 2
   },
   {
     "id": "APR3-050",
@@ -4722,7 +5246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-050.webp",
-    "backImage": "images/back/APR3-050.webp"
+    "backImage": "images/back/APR3-050.webp",
+    "stars": 2
   },
   {
     "id": "APR3-051",
@@ -4731,7 +5256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-051.webp",
-    "backImage": "images/back/APR3-051.webp"
+    "backImage": "images/back/APR3-051.webp",
+    "stars": 2
   },
   {
     "id": "APR3-052",
@@ -4740,7 +5266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-052.webp",
-    "backImage": "images/back/APR3-052.webp"
+    "backImage": "images/back/APR3-052.webp",
+    "stars": 2
   },
   {
     "id": "APR3-053",
@@ -4749,7 +5276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-053.webp",
-    "backImage": "images/back/APR3-053.webp"
+    "backImage": "images/back/APR3-053.webp",
+    "stars": 2
   },
   {
     "id": "APR3-054",
@@ -4758,7 +5286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-054.webp",
-    "backImage": "images/back/APR3-054.webp"
+    "backImage": "images/back/APR3-054.webp",
+    "stars": 2
   },
   {
     "id": "APR3-055",
@@ -4767,7 +5296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-055.webp",
-    "backImage": "images/back/APR3-055.webp"
+    "backImage": "images/back/APR3-055.webp",
+    "stars": 2
   },
   {
     "id": "APR3-056",
@@ -4776,7 +5306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-056.webp",
-    "backImage": "images/back/APR3-056.webp"
+    "backImage": "images/back/APR3-056.webp",
+    "stars": 2
   },
   {
     "id": "APR3-057",
@@ -4785,7 +5316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-057.webp",
-    "backImage": "images/back/APR3-057.webp"
+    "backImage": "images/back/APR3-057.webp",
+    "stars": 2
   },
   {
     "id": "APR3-058",
@@ -4794,7 +5326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "リング卡",
     "frontImage": "images/front/APR3-058.webp",
-    "backImage": "images/back/APR3-058.webp"
+    "backImage": "images/back/APR3-058.webp",
+    "stars": 2
   },
   {
     "id": "APR3M-001",
@@ -4803,7 +5336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "其他",
     "frontImage": "images/front/APR3M-001.webp",
-    "backImage": "images/back/APR3M-001.webp"
+    "backImage": "images/back/APR3M-001.webp",
+    "stars": 2
   },
   {
     "id": "APR3M-002",
@@ -4812,7 +5346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "其他",
     "frontImage": "images/front/APR3M-002.webp",
-    "backImage": "images/back/APR3M-002.webp"
+    "backImage": "images/back/APR3M-002.webp",
+    "stars": 2
   },
   {
     "id": "APR3M-003",
@@ -4821,7 +5356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "其他",
     "frontImage": "images/front/APR3M-003.webp",
-    "backImage": "images/back/APR3M-003.webp"
+    "backImage": "images/back/APR3M-003.webp",
+    "stars": 2
   },
   {
     "id": "APR3M-004",
@@ -4830,7 +5366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "其他",
     "frontImage": "images/front/APR3M-004.webp",
-    "backImage": "images/back/APR3M-004.webp"
+    "backImage": "images/back/APR3M-004.webp",
+    "stars": 2
   },
   {
     "id": "APR3M-005",
@@ -4839,7 +5376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "其他",
     "frontImage": "images/front/APR3M-005.webp",
-    "backImage": "images/back/APR3M-005.webp"
+    "backImage": "images/back/APR3M-005.webp",
+    "stars": 2
   },
   {
     "id": "APR3M-006",
@@ -4848,7 +5386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第3彈",
     "category": "其他",
     "frontImage": "images/front/APR3M-006.webp",
-    "backImage": "images/back/APR3M-006.webp"
+    "backImage": "images/back/APR3M-006.webp",
+    "stars": 2
   },
   {
     "id": "APR4-001",
@@ -4857,7 +5396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-001.webp",
-    "backImage": "images/back/APR4-001.webp"
+    "backImage": "images/back/APR4-001.webp",
+    "stars": 4
   },
   {
     "id": "APR4-002",
@@ -4866,7 +5406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-002.webp",
-    "backImage": "images/back/APR4-002.webp"
+    "backImage": "images/back/APR4-002.webp",
+    "stars": 4
   },
   {
     "id": "APR4-003",
@@ -4875,7 +5416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-003.webp",
-    "backImage": "images/back/APR4-003.webp"
+    "backImage": "images/back/APR4-003.webp",
+    "stars": 4
   },
   {
     "id": "APR4-004",
@@ -4884,7 +5426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-004.webp",
-    "backImage": "images/back/APR4-004.webp"
+    "backImage": "images/back/APR4-004.webp",
+    "stars": 4
   },
   {
     "id": "APR4-005",
@@ -4893,7 +5436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-005.webp",
-    "backImage": "images/back/APR4-005.webp"
+    "backImage": "images/back/APR4-005.webp",
+    "stars": 4
   },
   {
     "id": "APR4-006",
@@ -4902,7 +5446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-006.webp",
-    "backImage": "images/back/APR4-006.webp"
+    "backImage": "images/back/APR4-006.webp",
+    "stars": 4
   },
   {
     "id": "APR4-007",
@@ -4911,7 +5456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-007.webp",
-    "backImage": "images/back/APR4-007.webp"
+    "backImage": "images/back/APR4-007.webp",
+    "stars": 4
   },
   {
     "id": "APR4-008",
@@ -4920,7 +5466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-008.webp",
-    "backImage": "images/back/APR4-008.webp"
+    "backImage": "images/back/APR4-008.webp",
+    "stars": 4
   },
   {
     "id": "APR4-009",
@@ -4929,7 +5476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-009.webp",
-    "backImage": "images/back/APR4-009.webp"
+    "backImage": "images/back/APR4-009.webp",
+    "stars": 4
   },
   {
     "id": "APR4-010",
@@ -4938,7 +5486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-010.webp",
-    "backImage": "images/back/APR4-010.webp"
+    "backImage": "images/back/APR4-010.webp",
+    "stars": 4
   },
   {
     "id": "APR4-011",
@@ -4947,7 +5496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-011.webp",
-    "backImage": "images/back/APR4-011.webp"
+    "backImage": "images/back/APR4-011.webp",
+    "stars": 4
   },
   {
     "id": "APR4-012",
@@ -4956,7 +5506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-012.webp",
-    "backImage": "images/back/APR4-012.webp"
+    "backImage": "images/back/APR4-012.webp",
+    "stars": 4
   },
   {
     "id": "APR4-013",
@@ -4965,7 +5516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-013.webp",
-    "backImage": "images/back/APR4-013.webp"
+    "backImage": "images/back/APR4-013.webp",
+    "stars": 4
   },
   {
     "id": "APR4-014",
@@ -4974,7 +5526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-014.webp",
-    "backImage": "images/back/APR4-014.webp"
+    "backImage": "images/back/APR4-014.webp",
+    "stars": 4
   },
   {
     "id": "APR4-015",
@@ -4983,7 +5536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-015.webp",
-    "backImage": "images/back/APR4-015.webp"
+    "backImage": "images/back/APR4-015.webp",
+    "stars": 4
   },
   {
     "id": "APR4-016",
@@ -4992,7 +5546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-016.webp",
-    "backImage": "images/back/APR4-016.webp"
+    "backImage": "images/back/APR4-016.webp",
+    "stars": 4
   },
   {
     "id": "APR4-017",
@@ -5001,7 +5556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-017.webp",
-    "backImage": "images/back/APR4-017.webp"
+    "backImage": "images/back/APR4-017.webp",
+    "stars": 4
   },
   {
     "id": "APR4-018",
@@ -5010,7 +5566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-018.webp",
-    "backImage": "images/back/APR4-018.webp"
+    "backImage": "images/back/APR4-018.webp",
+    "stars": 4
   },
   {
     "id": "APR4-019",
@@ -5019,7 +5576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-019.webp",
-    "backImage": "images/back/APR4-019.webp"
+    "backImage": "images/back/APR4-019.webp",
+    "stars": 4
   },
   {
     "id": "APR4-020",
@@ -5028,7 +5586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-020.webp",
-    "backImage": "images/back/APR4-020.webp"
+    "backImage": "images/back/APR4-020.webp",
+    "stars": 4
   },
   {
     "id": "APR4-021",
@@ -5037,7 +5596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-021.webp",
-    "backImage": "images/back/APR4-021.webp"
+    "backImage": "images/back/APR4-021.webp",
+    "stars": 3
   },
   {
     "id": "APR4-022",
@@ -5046,7 +5606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-022.webp",
-    "backImage": "images/back/APR4-022.webp"
+    "backImage": "images/back/APR4-022.webp",
+    "stars": 3
   },
   {
     "id": "APR4-023",
@@ -5055,7 +5616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-023.webp",
-    "backImage": "images/back/APR4-023.webp"
+    "backImage": "images/back/APR4-023.webp",
+    "stars": 3
   },
   {
     "id": "APR4-024",
@@ -5064,7 +5626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-024.webp",
-    "backImage": "images/back/APR4-024.webp"
+    "backImage": "images/back/APR4-024.webp",
+    "stars": 3
   },
   {
     "id": "APR4-025",
@@ -5073,7 +5636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-025.webp",
-    "backImage": "images/back/APR4-025.webp"
+    "backImage": "images/back/APR4-025.webp",
+    "stars": 3
   },
   {
     "id": "APR4-026",
@@ -5082,7 +5646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-026.webp",
-    "backImage": "images/back/APR4-026.webp"
+    "backImage": "images/back/APR4-026.webp",
+    "stars": 3
   },
   {
     "id": "APR4-027",
@@ -5091,7 +5656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-027.webp",
-    "backImage": "images/back/APR4-027.webp"
+    "backImage": "images/back/APR4-027.webp",
+    "stars": 3
   },
   {
     "id": "APR4-028",
@@ -5100,7 +5666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-028.webp",
-    "backImage": "images/back/APR4-028.webp"
+    "backImage": "images/back/APR4-028.webp",
+    "stars": 3
   },
   {
     "id": "APR4-029",
@@ -5109,7 +5676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-029.webp",
-    "backImage": "images/back/APR4-029.webp"
+    "backImage": "images/back/APR4-029.webp",
+    "stars": 3
   },
   {
     "id": "APR4-030",
@@ -5118,7 +5686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-030.webp",
-    "backImage": "images/back/APR4-030.webp"
+    "backImage": "images/back/APR4-030.webp",
+    "stars": 3
   },
   {
     "id": "APR4-031",
@@ -5127,7 +5696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-031.webp",
-    "backImage": "images/back/APR4-031.webp"
+    "backImage": "images/back/APR4-031.webp",
+    "stars": 3
   },
   {
     "id": "APR4-032",
@@ -5136,7 +5706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-032.webp",
-    "backImage": "images/back/APR4-032.webp"
+    "backImage": "images/back/APR4-032.webp",
+    "stars": 3
   },
   {
     "id": "APR4-033",
@@ -5145,7 +5716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-033.webp",
-    "backImage": "images/back/APR4-033.webp"
+    "backImage": "images/back/APR4-033.webp",
+    "stars": 3
   },
   {
     "id": "APR4-034",
@@ -5154,7 +5726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-034.webp",
-    "backImage": "images/back/APR4-034.webp"
+    "backImage": "images/back/APR4-034.webp",
+    "stars": 3
   },
   {
     "id": "APR4-035",
@@ -5163,7 +5736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-035.webp",
-    "backImage": "images/back/APR4-035.webp"
+    "backImage": "images/back/APR4-035.webp",
+    "stars": 3
   },
   {
     "id": "APR4-036",
@@ -5172,7 +5746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-036.webp",
-    "backImage": "images/back/APR4-036.webp"
+    "backImage": "images/back/APR4-036.webp",
+    "stars": 3
   },
   {
     "id": "APR4-037",
@@ -5181,7 +5756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-037.webp",
-    "backImage": "images/back/APR4-037.webp"
+    "backImage": "images/back/APR4-037.webp",
+    "stars": 3
   },
   {
     "id": "APR4-038",
@@ -5190,7 +5766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-038.webp",
-    "backImage": "images/back/APR4-038.webp"
+    "backImage": "images/back/APR4-038.webp",
+    "stars": 3
   },
   {
     "id": "APR4-039",
@@ -5199,7 +5776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-039.webp",
-    "backImage": "images/back/APR4-039.webp"
+    "backImage": "images/back/APR4-039.webp",
+    "stars": 3
   },
   {
     "id": "APR4-040",
@@ -5208,7 +5786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-040.webp",
-    "backImage": "images/back/APR4-040.webp"
+    "backImage": "images/back/APR4-040.webp",
+    "stars": 3
   },
   {
     "id": "APR4-041",
@@ -5217,7 +5796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-041.webp",
-    "backImage": "images/back/APR4-041.webp"
+    "backImage": "images/back/APR4-041.webp",
+    "stars": 3
   },
   {
     "id": "APR4-042",
@@ -5226,7 +5806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-042.webp",
-    "backImage": "images/back/APR4-042.webp"
+    "backImage": "images/back/APR4-042.webp",
+    "stars": 3
   },
   {
     "id": "APR4-043",
@@ -5235,7 +5816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-043.webp",
-    "backImage": "images/back/APR4-043.webp"
+    "backImage": "images/back/APR4-043.webp",
+    "stars": 3
   },
   {
     "id": "APR4-044",
@@ -5244,7 +5826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-044.webp",
-    "backImage": "images/back/APR4-044.webp"
+    "backImage": "images/back/APR4-044.webp",
+    "stars": 3
   },
   {
     "id": "APR4-045",
@@ -5253,7 +5836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-045.webp",
-    "backImage": "images/back/APR4-045.webp"
+    "backImage": "images/back/APR4-045.webp",
+    "stars": 3
   },
   {
     "id": "APR4-046",
@@ -5262,7 +5846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-046.webp",
-    "backImage": "images/back/APR4-046.webp"
+    "backImage": "images/back/APR4-046.webp",
+    "stars": 3
   },
   {
     "id": "APR4-047",
@@ -5271,7 +5856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-047.webp",
-    "backImage": "images/back/APR4-047.webp"
+    "backImage": "images/back/APR4-047.webp",
+    "stars": 3
   },
   {
     "id": "APR4-048",
@@ -5280,7 +5866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-048.webp",
-    "backImage": "images/back/APR4-048.webp"
+    "backImage": "images/back/APR4-048.webp",
+    "stars": 3
   },
   {
     "id": "APR4-049",
@@ -5289,7 +5876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-049.webp",
-    "backImage": "images/back/APR4-049.webp"
+    "backImage": "images/back/APR4-049.webp",
+    "stars": 2
   },
   {
     "id": "APR4-050",
@@ -5298,7 +5886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-050.webp",
-    "backImage": "images/back/APR4-050.webp"
+    "backImage": "images/back/APR4-050.webp",
+    "stars": 2
   },
   {
     "id": "APR4-051",
@@ -5307,7 +5896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-051.webp",
-    "backImage": "images/back/APR4-051.webp"
+    "backImage": "images/back/APR4-051.webp",
+    "stars": 2
   },
   {
     "id": "APR4-052",
@@ -5316,7 +5906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-052.webp",
-    "backImage": "images/back/APR4-052.webp"
+    "backImage": "images/back/APR4-052.webp",
+    "stars": 2
   },
   {
     "id": "APR4-053",
@@ -5325,7 +5916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-053.webp",
-    "backImage": "images/back/APR4-053.webp"
+    "backImage": "images/back/APR4-053.webp",
+    "stars": 2
   },
   {
     "id": "APR4-054",
@@ -5334,7 +5926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-054.webp",
-    "backImage": "images/back/APR4-054.webp"
+    "backImage": "images/back/APR4-054.webp",
+    "stars": 2
   },
   {
     "id": "APR4-055",
@@ -5343,7 +5936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-055.webp",
-    "backImage": "images/back/APR4-055.webp"
+    "backImage": "images/back/APR4-055.webp",
+    "stars": 2
   },
   {
     "id": "APR4-056",
@@ -5352,7 +5946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-056.webp",
-    "backImage": "images/back/APR4-056.webp"
+    "backImage": "images/back/APR4-056.webp",
+    "stars": 2
   },
   {
     "id": "APR4-057",
@@ -5361,7 +5956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-057.webp",
-    "backImage": "images/back/APR4-057.webp"
+    "backImage": "images/back/APR4-057.webp",
+    "stars": 2
   },
   {
     "id": "APR4-058",
@@ -5370,7 +5966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-058.webp",
-    "backImage": "images/back/APR4-058.webp"
+    "backImage": "images/back/APR4-058.webp",
+    "stars": 2
   },
   {
     "id": "APR4-059",
@@ -5379,7 +5976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-059.webp",
-    "backImage": "images/back/APR4-059.webp"
+    "backImage": "images/back/APR4-059.webp",
+    "stars": 2
   },
   {
     "id": "APR4-060",
@@ -5388,7 +5986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-060.webp",
-    "backImage": "images/back/APR4-060.webp"
+    "backImage": "images/back/APR4-060.webp",
+    "stars": 2
   },
   {
     "id": "APR4-061",
@@ -5397,7 +5996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "リング卡",
     "frontImage": "images/front/APR4-061.webp",
-    "backImage": "images/back/APR4-061.webp"
+    "backImage": "images/back/APR4-061.webp",
+    "stars": 2
   },
   {
     "id": "APR4M-001",
@@ -5406,7 +6006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "其他",
     "frontImage": "images/front/APR4M-001.webp",
-    "backImage": "images/back/APR4M-001.webp"
+    "backImage": "images/back/APR4M-001.webp",
+    "stars": 2
   },
   {
     "id": "APR4M-002",
@@ -5415,7 +6016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "其他",
     "frontImage": "images/front/APR4M-002.webp",
-    "backImage": "images/back/APR4M-002.webp"
+    "backImage": "images/back/APR4M-002.webp",
+    "stars": 2
   },
   {
     "id": "APR4M-003",
@@ -5424,7 +6026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "其他",
     "frontImage": "images/front/APR4M-003.webp",
-    "backImage": "images/back/APR4M-003.webp"
+    "backImage": "images/back/APR4M-003.webp",
+    "stars": 2
   },
   {
     "id": "APR4M-004",
@@ -5433,7 +6036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "其他",
     "frontImage": "images/front/APR4M-004.webp",
-    "backImage": "images/back/APR4M-004.webp"
+    "backImage": "images/back/APR4M-004.webp",
+    "stars": 2
   },
   {
     "id": "APR4M-005",
@@ -5442,7 +6046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "其他",
     "frontImage": "images/front/APR4M-005.webp",
-    "backImage": "images/back/APR4M-005.webp"
+    "backImage": "images/back/APR4M-005.webp",
+    "stars": 2
   },
   {
     "id": "APR4M-006",
@@ -5451,7 +6056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第4彈",
     "category": "其他",
     "frontImage": "images/front/APR4M-006.webp",
-    "backImage": "images/back/APR4M-006.webp"
+    "backImage": "images/back/APR4M-006.webp",
+    "stars": 2
   },
   {
     "id": "APR5-001",
@@ -5460,7 +6066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-001.webp",
-    "backImage": "images/back/APR5-001.webp"
+    "backImage": "images/back/APR5-001.webp",
+    "stars": 4
   },
   {
     "id": "APR5-002",
@@ -5469,7 +6076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-002.webp",
-    "backImage": "images/back/APR5-002.webp"
+    "backImage": "images/back/APR5-002.webp",
+    "stars": 4
   },
   {
     "id": "APR5-003",
@@ -5478,7 +6086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-003.webp",
-    "backImage": "images/back/APR5-003.webp"
+    "backImage": "images/back/APR5-003.webp",
+    "stars": 4
   },
   {
     "id": "APR5-004",
@@ -5487,7 +6096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-004.webp",
-    "backImage": "images/back/APR5-004.webp"
+    "backImage": "images/back/APR5-004.webp",
+    "stars": 4
   },
   {
     "id": "APR5-005",
@@ -5496,7 +6106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-005.webp",
-    "backImage": "images/back/APR5-005.webp"
+    "backImage": "images/back/APR5-005.webp",
+    "stars": 4
   },
   {
     "id": "APR5-006",
@@ -5505,7 +6116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-006.webp",
-    "backImage": "images/back/APR5-006.webp"
+    "backImage": "images/back/APR5-006.webp",
+    "stars": 4
   },
   {
     "id": "APR5-007",
@@ -5514,7 +6126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-007.webp",
-    "backImage": "images/back/APR5-007.webp"
+    "backImage": "images/back/APR5-007.webp",
+    "stars": 4
   },
   {
     "id": "APR5-008",
@@ -5523,7 +6136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-008.webp",
-    "backImage": "images/back/APR5-008.webp"
+    "backImage": "images/back/APR5-008.webp",
+    "stars": 4
   },
   {
     "id": "APR5-009",
@@ -5532,7 +6146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-009.webp",
-    "backImage": "images/back/APR5-009.webp"
+    "backImage": "images/back/APR5-009.webp",
+    "stars": 4
   },
   {
     "id": "APR5-010",
@@ -5541,7 +6156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-010.webp",
-    "backImage": "images/back/APR5-010.webp"
+    "backImage": "images/back/APR5-010.webp",
+    "stars": 4
   },
   {
     "id": "APR5-011",
@@ -5550,7 +6166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-011.webp",
-    "backImage": "images/back/APR5-011.webp"
+    "backImage": "images/back/APR5-011.webp",
+    "stars": 4
   },
   {
     "id": "APR5-012",
@@ -5559,7 +6176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-012.webp",
-    "backImage": "images/back/APR5-012.webp"
+    "backImage": "images/back/APR5-012.webp",
+    "stars": 4
   },
   {
     "id": "APR5-013",
@@ -5568,7 +6186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-013.webp",
-    "backImage": "images/back/APR5-013.webp"
+    "backImage": "images/back/APR5-013.webp",
+    "stars": 4
   },
   {
     "id": "APR5-014",
@@ -5577,7 +6196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-014.webp",
-    "backImage": "images/back/APR5-014.webp"
+    "backImage": "images/back/APR5-014.webp",
+    "stars": 4
   },
   {
     "id": "APR5-015",
@@ -5586,7 +6206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-015.webp",
-    "backImage": "images/back/APR5-015.webp"
+    "backImage": "images/back/APR5-015.webp",
+    "stars": 4
   },
   {
     "id": "APR5-016",
@@ -5595,7 +6216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-016.webp",
-    "backImage": "images/back/APR5-016.webp"
+    "backImage": "images/back/APR5-016.webp",
+    "stars": 4
   },
   {
     "id": "APR5-017",
@@ -5604,7 +6226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-017.webp",
-    "backImage": "images/back/APR5-017.webp"
+    "backImage": "images/back/APR5-017.webp",
+    "stars": 4
   },
   {
     "id": "APR5-018",
@@ -5613,7 +6236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-018.webp",
-    "backImage": "images/back/APR5-018.webp"
+    "backImage": "images/back/APR5-018.webp",
+    "stars": 4
   },
   {
     "id": "APR5-019",
@@ -5622,7 +6246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-019.webp",
-    "backImage": "images/back/APR5-019.webp"
+    "backImage": "images/back/APR5-019.webp",
+    "stars": 4
   },
   {
     "id": "APR5-020",
@@ -5631,7 +6256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-020.webp",
-    "backImage": "images/back/APR5-020.webp"
+    "backImage": "images/back/APR5-020.webp",
+    "stars": 4
   },
   {
     "id": "APR5-021",
@@ -5640,7 +6266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-021.webp",
-    "backImage": "images/back/APR5-021.webp"
+    "backImage": "images/back/APR5-021.webp",
+    "stars": 4
   },
   {
     "id": "APR5-022",
@@ -5649,7 +6276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-022.webp",
-    "backImage": "images/back/APR5-022.webp"
+    "backImage": "images/back/APR5-022.webp",
+    "stars": 3
   },
   {
     "id": "APR5-023",
@@ -5658,7 +6286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-023.webp",
-    "backImage": "images/back/APR5-023.webp"
+    "backImage": "images/back/APR5-023.webp",
+    "stars": 3
   },
   {
     "id": "APR5-024",
@@ -5667,7 +6296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-024.webp",
-    "backImage": "images/back/APR5-024.webp"
+    "backImage": "images/back/APR5-024.webp",
+    "stars": 3
   },
   {
     "id": "APR5-025",
@@ -5676,7 +6306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-025.webp",
-    "backImage": "images/back/APR5-025.webp"
+    "backImage": "images/back/APR5-025.webp",
+    "stars": 3
   },
   {
     "id": "APR5-026",
@@ -5685,7 +6316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-026.webp",
-    "backImage": "images/back/APR5-026.webp"
+    "backImage": "images/back/APR5-026.webp",
+    "stars": 3
   },
   {
     "id": "APR5-027",
@@ -5694,7 +6326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-027.webp",
-    "backImage": "images/back/APR5-027.webp"
+    "backImage": "images/back/APR5-027.webp",
+    "stars": 3
   },
   {
     "id": "APR5-028",
@@ -5703,7 +6336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-028.webp",
-    "backImage": "images/back/APR5-028.webp"
+    "backImage": "images/back/APR5-028.webp",
+    "stars": 3
   },
   {
     "id": "APR5-029",
@@ -5712,7 +6346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-029.webp",
-    "backImage": "images/back/APR5-029.webp"
+    "backImage": "images/back/APR5-029.webp",
+    "stars": 3
   },
   {
     "id": "APR5-030",
@@ -5721,7 +6356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-030.webp",
-    "backImage": "images/back/APR5-030.webp"
+    "backImage": "images/back/APR5-030.webp",
+    "stars": 3
   },
   {
     "id": "APR5-031",
@@ -5730,7 +6366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-031.webp",
-    "backImage": "images/back/APR5-031.webp"
+    "backImage": "images/back/APR5-031.webp",
+    "stars": 3
   },
   {
     "id": "APR5-032",
@@ -5739,7 +6376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-032.webp",
-    "backImage": "images/back/APR5-032.webp"
+    "backImage": "images/back/APR5-032.webp",
+    "stars": 3
   },
   {
     "id": "APR5-033",
@@ -5748,7 +6386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-033.webp",
-    "backImage": "images/back/APR5-033.webp"
+    "backImage": "images/back/APR5-033.webp",
+    "stars": 3
   },
   {
     "id": "APR5-034",
@@ -5757,7 +6396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-034.webp",
-    "backImage": "images/back/APR5-034.webp"
+    "backImage": "images/back/APR5-034.webp",
+    "stars": 3
   },
   {
     "id": "APR5-035",
@@ -5766,7 +6406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-035.webp",
-    "backImage": "images/back/APR5-035.webp"
+    "backImage": "images/back/APR5-035.webp",
+    "stars": 3
   },
   {
     "id": "APR5-036",
@@ -5775,7 +6416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-036.webp",
-    "backImage": "images/back/APR5-036.webp"
+    "backImage": "images/back/APR5-036.webp",
+    "stars": 3
   },
   {
     "id": "APR5-037",
@@ -5784,7 +6426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-037.webp",
-    "backImage": "images/back/APR5-037.webp"
+    "backImage": "images/back/APR5-037.webp",
+    "stars": 3
   },
   {
     "id": "APR5-038",
@@ -5793,7 +6436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-038.webp",
-    "backImage": "images/back/APR5-038.webp"
+    "backImage": "images/back/APR5-038.webp",
+    "stars": 3
   },
   {
     "id": "APR5-039",
@@ -5802,7 +6446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-039.webp",
-    "backImage": "images/back/APR5-039.webp"
+    "backImage": "images/back/APR5-039.webp",
+    "stars": 3
   },
   {
     "id": "APR5-040",
@@ -5811,7 +6456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-040.webp",
-    "backImage": "images/back/APR5-040.webp"
+    "backImage": "images/back/APR5-040.webp",
+    "stars": 3
   },
   {
     "id": "APR5-041",
@@ -5820,7 +6466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-041.webp",
-    "backImage": "images/back/APR5-041.webp"
+    "backImage": "images/back/APR5-041.webp",
+    "stars": 3
   },
   {
     "id": "APR5-042",
@@ -5829,7 +6476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-042.webp",
-    "backImage": "images/back/APR5-042.webp"
+    "backImage": "images/back/APR5-042.webp",
+    "stars": 3
   },
   {
     "id": "APR5-043",
@@ -5838,7 +6486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-043.webp",
-    "backImage": "images/back/APR5-043.webp"
+    "backImage": "images/back/APR5-043.webp",
+    "stars": 3
   },
   {
     "id": "APR5-044",
@@ -5847,7 +6496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-044.webp",
-    "backImage": "images/back/APR5-044.webp"
+    "backImage": "images/back/APR5-044.webp",
+    "stars": 3
   },
   {
     "id": "APR5-045",
@@ -5856,7 +6506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-045.webp",
-    "backImage": "images/back/APR5-045.webp"
+    "backImage": "images/back/APR5-045.webp",
+    "stars": 3
   },
   {
     "id": "APR5-046",
@@ -5865,7 +6516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-046.webp",
-    "backImage": "images/back/APR5-046.webp"
+    "backImage": "images/back/APR5-046.webp",
+    "stars": 3
   },
   {
     "id": "APR5-047",
@@ -5874,7 +6526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-047.webp",
-    "backImage": "images/back/APR5-047.webp"
+    "backImage": "images/back/APR5-047.webp",
+    "stars": 2
   },
   {
     "id": "APR5-048",
@@ -5883,7 +6536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-048.webp",
-    "backImage": "images/back/APR5-048.webp"
+    "backImage": "images/back/APR5-048.webp",
+    "stars": 2
   },
   {
     "id": "APR5-049",
@@ -5892,7 +6546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-049.webp",
-    "backImage": "images/back/APR5-049.webp"
+    "backImage": "images/back/APR5-049.webp",
+    "stars": 2
   },
   {
     "id": "APR5-050",
@@ -5901,7 +6556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-050.webp",
-    "backImage": "images/back/APR5-050.webp"
+    "backImage": "images/back/APR5-050.webp",
+    "stars": 2
   },
   {
     "id": "APR5-051",
@@ -5910,7 +6566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-051.webp",
-    "backImage": "images/back/APR5-051.webp"
+    "backImage": "images/back/APR5-051.webp",
+    "stars": 2
   },
   {
     "id": "APR5-052",
@@ -5919,7 +6576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-052.webp",
-    "backImage": "images/back/APR5-052.webp"
+    "backImage": "images/back/APR5-052.webp",
+    "stars": 2
   },
   {
     "id": "APR5-053",
@@ -5928,7 +6586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-053.webp",
-    "backImage": "images/back/APR5-053.webp"
+    "backImage": "images/back/APR5-053.webp",
+    "stars": 2
   },
   {
     "id": "APR5-054",
@@ -5937,7 +6596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-054.webp",
-    "backImage": "images/back/APR5-054.webp"
+    "backImage": "images/back/APR5-054.webp",
+    "stars": 2
   },
   {
     "id": "APR5-055",
@@ -5946,7 +6606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-055.webp",
-    "backImage": "images/back/APR5-055.webp"
+    "backImage": "images/back/APR5-055.webp",
+    "stars": 2
   },
   {
     "id": "APR5-056",
@@ -5955,7 +6616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-056.webp",
-    "backImage": "images/back/APR5-056.webp"
+    "backImage": "images/back/APR5-056.webp",
+    "stars": 2
   },
   {
     "id": "APR5-057",
@@ -5964,7 +6626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-057.webp",
-    "backImage": "images/back/APR5-057.webp"
+    "backImage": "images/back/APR5-057.webp",
+    "stars": 2
   },
   {
     "id": "APR5-058",
@@ -5973,7 +6636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-058.webp",
-    "backImage": "images/back/APR5-058.webp"
+    "backImage": "images/back/APR5-058.webp",
+    "stars": 2
   },
   {
     "id": "APR5-059",
@@ -5982,7 +6646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-059.webp",
-    "backImage": "images/back/APR5-059.webp"
+    "backImage": "images/back/APR5-059.webp",
+    "stars": 2
   },
   {
     "id": "APR5-060",
@@ -5991,7 +6656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-060.webp",
-    "backImage": "images/back/APR5-060.webp"
+    "backImage": "images/back/APR5-060.webp",
+    "stars": 2
   },
   {
     "id": "APR5-061",
@@ -6000,7 +6666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "リング卡",
     "frontImage": "images/front/APR5-061.webp",
-    "backImage": "images/back/APR5-061.webp"
+    "backImage": "images/back/APR5-061.webp",
+    "stars": 2
   },
   {
     "id": "APR5M-001",
@@ -6009,7 +6676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "其他",
     "frontImage": "images/front/APR5M-001.webp",
-    "backImage": "images/back/APR5M-001.webp"
+    "backImage": "images/back/APR5M-001.webp",
+    "stars": 2
   },
   {
     "id": "APR5M-002",
@@ -6018,7 +6686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "其他",
     "frontImage": "images/front/APR5M-002.webp",
-    "backImage": "images/back/APR5M-002.webp"
+    "backImage": "images/back/APR5M-002.webp",
+    "stars": 2
   },
   {
     "id": "APR5M-003",
@@ -6027,7 +6696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "其他",
     "frontImage": "images/front/APR5M-003.webp",
-    "backImage": "images/back/APR5M-003.webp"
+    "backImage": "images/back/APR5M-003.webp",
+    "stars": 2
   },
   {
     "id": "APR5M-004",
@@ -6036,7 +6706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "其他",
     "frontImage": "images/front/APR5M-004.webp",
-    "backImage": "images/back/APR5M-004.webp"
+    "backImage": "images/back/APR5M-004.webp",
+    "stars": 2
   },
   {
     "id": "APR5M-005",
@@ -6045,7 +6716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "其他",
     "frontImage": "images/front/APR5M-005.webp",
-    "backImage": "images/back/APR5M-005.webp"
+    "backImage": "images/back/APR5M-005.webp",
+    "stars": 2
   },
   {
     "id": "APR5M-006",
@@ -6054,7 +6726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第5彈",
     "category": "其他",
     "frontImage": "images/front/APR5M-006.webp",
-    "backImage": "images/back/APR5M-006.webp"
+    "backImage": "images/back/APR5M-006.webp",
+    "stars": 2
   },
   {
     "id": "APR6-001",
@@ -6063,7 +6736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-001.webp",
-    "backImage": "images/back/APR6-001.webp"
+    "backImage": "images/back/APR6-001.webp",
+    "stars": 4
   },
   {
     "id": "APR6-002",
@@ -6072,7 +6746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-002.webp",
-    "backImage": "images/back/APR6-002.webp"
+    "backImage": "images/back/APR6-002.webp",
+    "stars": 4
   },
   {
     "id": "APR6-003",
@@ -6081,7 +6756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-003.webp",
-    "backImage": "images/back/APR6-003.webp"
+    "backImage": "images/back/APR6-003.webp",
+    "stars": 4
   },
   {
     "id": "APR6-004",
@@ -6090,7 +6766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-004.webp",
-    "backImage": "images/back/APR6-004.webp"
+    "backImage": "images/back/APR6-004.webp",
+    "stars": 4
   },
   {
     "id": "APR6-005",
@@ -6099,7 +6776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-005.webp",
-    "backImage": "images/back/APR6-005.webp"
+    "backImage": "images/back/APR6-005.webp",
+    "stars": 4
   },
   {
     "id": "APR6-006",
@@ -6108,7 +6786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-006.webp",
-    "backImage": "images/back/APR6-006.webp"
+    "backImage": "images/back/APR6-006.webp",
+    "stars": 4
   },
   {
     "id": "APR6-007",
@@ -6117,7 +6796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-007.webp",
-    "backImage": "images/back/APR6-007.webp"
+    "backImage": "images/back/APR6-007.webp",
+    "stars": 4
   },
   {
     "id": "APR6-008",
@@ -6126,7 +6806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-008.webp",
-    "backImage": "images/back/APR6-008.webp"
+    "backImage": "images/back/APR6-008.webp",
+    "stars": 4
   },
   {
     "id": "APR6-009",
@@ -6135,7 +6816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-009.webp",
-    "backImage": "images/back/APR6-009.webp"
+    "backImage": "images/back/APR6-009.webp",
+    "stars": 4
   },
   {
     "id": "APR6-010",
@@ -6144,7 +6826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-010.webp",
-    "backImage": "images/back/APR6-010.webp"
+    "backImage": "images/back/APR6-010.webp",
+    "stars": 4
   },
   {
     "id": "APR6-011",
@@ -6153,7 +6836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-011.webp",
-    "backImage": "images/back/APR6-011.webp"
+    "backImage": "images/back/APR6-011.webp",
+    "stars": 4
   },
   {
     "id": "APR6-012",
@@ -6162,7 +6846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-012.webp",
-    "backImage": "images/back/APR6-012.webp"
+    "backImage": "images/back/APR6-012.webp",
+    "stars": 4
   },
   {
     "id": "APR6-013",
@@ -6171,7 +6856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-013.webp",
-    "backImage": "images/back/APR6-013.webp"
+    "backImage": "images/back/APR6-013.webp",
+    "stars": 4
   },
   {
     "id": "APR6-014",
@@ -6180,7 +6866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-014.webp",
-    "backImage": "images/back/APR6-014.webp"
+    "backImage": "images/back/APR6-014.webp",
+    "stars": 4
   },
   {
     "id": "APR6-015",
@@ -6189,7 +6876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-015.webp",
-    "backImage": "images/back/APR6-015.webp"
+    "backImage": "images/back/APR6-015.webp",
+    "stars": 4
   },
   {
     "id": "APR6-016",
@@ -6198,7 +6886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-016.webp",
-    "backImage": "images/back/APR6-016.webp"
+    "backImage": "images/back/APR6-016.webp",
+    "stars": 4
   },
   {
     "id": "APR6-017",
@@ -6207,7 +6896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-017.webp",
-    "backImage": "images/back/APR6-017.webp"
+    "backImage": "images/back/APR6-017.webp",
+    "stars": 4
   },
   {
     "id": "APR6-018",
@@ -6216,7 +6906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-018.webp",
-    "backImage": "images/back/APR6-018.webp"
+    "backImage": "images/back/APR6-018.webp",
+    "stars": 4
   },
   {
     "id": "APR6-019",
@@ -6225,7 +6916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-019.webp",
-    "backImage": "images/back/APR6-019.webp"
+    "backImage": "images/back/APR6-019.webp",
+    "stars": 4
   },
   {
     "id": "APR6-020",
@@ -6234,7 +6926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-020.webp",
-    "backImage": "images/back/APR6-020.webp"
+    "backImage": "images/back/APR6-020.webp",
+    "stars": 4
   },
   {
     "id": "APR6-021",
@@ -6243,7 +6936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-021.webp",
-    "backImage": "images/back/APR6-021.webp"
+    "backImage": "images/back/APR6-021.webp",
+    "stars": 4
   },
   {
     "id": "APR6-022",
@@ -6252,7 +6946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-022.webp",
-    "backImage": "images/back/APR6-022.webp"
+    "backImage": "images/back/APR6-022.webp",
+    "stars": 3
   },
   {
     "id": "APR6-023",
@@ -6261,7 +6956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-023.webp",
-    "backImage": "images/back/APR6-023.webp"
+    "backImage": "images/back/APR6-023.webp",
+    "stars": 3
   },
   {
     "id": "APR6-024",
@@ -6270,7 +6966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-024.webp",
-    "backImage": "images/back/APR6-024.webp"
+    "backImage": "images/back/APR6-024.webp",
+    "stars": 3
   },
   {
     "id": "APR6-025",
@@ -6279,7 +6976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-025.webp",
-    "backImage": "images/back/APR6-025.webp"
+    "backImage": "images/back/APR6-025.webp",
+    "stars": 3
   },
   {
     "id": "APR6-026",
@@ -6288,7 +6986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-026.webp",
-    "backImage": "images/back/APR6-026.webp"
+    "backImage": "images/back/APR6-026.webp",
+    "stars": 3
   },
   {
     "id": "APR6-027",
@@ -6297,7 +6996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-027.webp",
-    "backImage": "images/back/APR6-027.webp"
+    "backImage": "images/back/APR6-027.webp",
+    "stars": 3
   },
   {
     "id": "APR6-028",
@@ -6306,7 +7006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-028.webp",
-    "backImage": "images/back/APR6-028.webp"
+    "backImage": "images/back/APR6-028.webp",
+    "stars": 3
   },
   {
     "id": "APR6-029",
@@ -6315,7 +7016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-029.webp",
-    "backImage": "images/back/APR6-029.webp"
+    "backImage": "images/back/APR6-029.webp",
+    "stars": 3
   },
   {
     "id": "APR6-030",
@@ -6324,7 +7026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-030.webp",
-    "backImage": "images/back/APR6-030.webp"
+    "backImage": "images/back/APR6-030.webp",
+    "stars": 3
   },
   {
     "id": "APR6-031",
@@ -6333,7 +7036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-031.webp",
-    "backImage": "images/back/APR6-031.webp"
+    "backImage": "images/back/APR6-031.webp",
+    "stars": 3
   },
   {
     "id": "APR6-032",
@@ -6342,7 +7046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-032.webp",
-    "backImage": "images/back/APR6-032.webp"
+    "backImage": "images/back/APR6-032.webp",
+    "stars": 3
   },
   {
     "id": "APR6-033",
@@ -6351,7 +7056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-033.webp",
-    "backImage": "images/back/APR6-033.webp"
+    "backImage": "images/back/APR6-033.webp",
+    "stars": 3
   },
   {
     "id": "APR6-034",
@@ -6360,7 +7066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-034.webp",
-    "backImage": "images/back/APR6-034.webp"
+    "backImage": "images/back/APR6-034.webp",
+    "stars": 3
   },
   {
     "id": "APR6-035",
@@ -6369,7 +7076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-035.webp",
-    "backImage": "images/back/APR6-035.webp"
+    "backImage": "images/back/APR6-035.webp",
+    "stars": 3
   },
   {
     "id": "APR6-036",
@@ -6378,7 +7086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-036.webp",
-    "backImage": "images/back/APR6-036.webp"
+    "backImage": "images/back/APR6-036.webp",
+    "stars": 3
   },
   {
     "id": "APR6-037",
@@ -6387,7 +7096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-037.webp",
-    "backImage": "images/back/APR6-037.webp"
+    "backImage": "images/back/APR6-037.webp",
+    "stars": 3
   },
   {
     "id": "APR6-038",
@@ -6396,7 +7106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-038.webp",
-    "backImage": "images/back/APR6-038.webp"
+    "backImage": "images/back/APR6-038.webp",
+    "stars": 3
   },
   {
     "id": "APR6-039",
@@ -6405,7 +7116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-039.webp",
-    "backImage": "images/back/APR6-039.webp"
+    "backImage": "images/back/APR6-039.webp",
+    "stars": 3
   },
   {
     "id": "APR6-040",
@@ -6414,7 +7126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-040.webp",
-    "backImage": "images/back/APR6-040.webp"
+    "backImage": "images/back/APR6-040.webp",
+    "stars": 3
   },
   {
     "id": "APR6-041",
@@ -6423,7 +7136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-041.webp",
-    "backImage": "images/back/APR6-041.webp"
+    "backImage": "images/back/APR6-041.webp",
+    "stars": 3
   },
   {
     "id": "APR6-042",
@@ -6432,7 +7146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-042.webp",
-    "backImage": "images/back/APR6-042.webp"
+    "backImage": "images/back/APR6-042.webp",
+    "stars": 3
   },
   {
     "id": "APR6-043",
@@ -6441,7 +7156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-043.webp",
-    "backImage": "images/back/APR6-043.webp"
+    "backImage": "images/back/APR6-043.webp",
+    "stars": 3
   },
   {
     "id": "APR6-044",
@@ -6450,7 +7166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-044.webp",
-    "backImage": "images/back/APR6-044.webp"
+    "backImage": "images/back/APR6-044.webp",
+    "stars": 3
   },
   {
     "id": "APR6-045",
@@ -6459,7 +7176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-045.webp",
-    "backImage": "images/back/APR6-045.webp"
+    "backImage": "images/back/APR6-045.webp",
+    "stars": 3
   },
   {
     "id": "APR6-046",
@@ -6468,7 +7186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-046.webp",
-    "backImage": "images/back/APR6-046.webp"
+    "backImage": "images/back/APR6-046.webp",
+    "stars": 3
   },
   {
     "id": "APR6-047",
@@ -6477,7 +7196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-047.webp",
-    "backImage": "images/back/APR6-047.webp"
+    "backImage": "images/back/APR6-047.webp",
+    "stars": 3
   },
   {
     "id": "APR6-048",
@@ -6486,7 +7206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-048.webp",
-    "backImage": "images/back/APR6-048.webp"
+    "backImage": "images/back/APR6-048.webp",
+    "stars": 3
   },
   {
     "id": "APR6-049",
@@ -6495,7 +7216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-049.webp",
-    "backImage": "images/back/APR6-049.webp"
+    "backImage": "images/back/APR6-049.webp",
+    "stars": 3
   },
   {
     "id": "APR6-050",
@@ -6504,7 +7226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-050.webp",
-    "backImage": "images/back/APR6-050.webp"
+    "backImage": "images/back/APR6-050.webp",
+    "stars": 3
   },
   {
     "id": "APR6-051",
@@ -6513,7 +7236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-051.webp",
-    "backImage": "images/back/APR6-051.webp"
+    "backImage": "images/back/APR6-051.webp",
+    "stars": 2
   },
   {
     "id": "APR6-052",
@@ -6522,7 +7246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-052.webp",
-    "backImage": "images/back/APR6-052.webp"
+    "backImage": "images/back/APR6-052.webp",
+    "stars": 2
   },
   {
     "id": "APR6-053",
@@ -6531,7 +7256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-053.webp",
-    "backImage": "images/back/APR6-053.webp"
+    "backImage": "images/back/APR6-053.webp",
+    "stars": 2
   },
   {
     "id": "APR6-054",
@@ -6540,7 +7266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-054.webp",
-    "backImage": "images/back/APR6-054.webp"
+    "backImage": "images/back/APR6-054.webp",
+    "stars": 2
   },
   {
     "id": "APR6-055",
@@ -6549,7 +7276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-055.webp",
-    "backImage": "images/back/APR6-055.webp"
+    "backImage": "images/back/APR6-055.webp",
+    "stars": 2
   },
   {
     "id": "APR6-056",
@@ -6558,7 +7286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-056.webp",
-    "backImage": "images/back/APR6-056.webp"
+    "backImage": "images/back/APR6-056.webp",
+    "stars": 2
   },
   {
     "id": "APR6-057",
@@ -6567,7 +7296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-057.webp",
-    "backImage": "images/back/APR6-057.webp"
+    "backImage": "images/back/APR6-057.webp",
+    "stars": 2
   },
   {
     "id": "APR6-058",
@@ -6576,7 +7306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-058.webp",
-    "backImage": "images/back/APR6-058.webp"
+    "backImage": "images/back/APR6-058.webp",
+    "stars": 2
   },
   {
     "id": "APR6-059",
@@ -6585,7 +7316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-059.webp",
-    "backImage": "images/back/APR6-059.webp"
+    "backImage": "images/back/APR6-059.webp",
+    "stars": 2
   },
   {
     "id": "APR6-060",
@@ -6594,7 +7326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-060.webp",
-    "backImage": "images/back/APR6-060.webp"
+    "backImage": "images/back/APR6-060.webp",
+    "stars": 2
   },
   {
     "id": "APR6-061",
@@ -6603,7 +7336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-061.webp",
-    "backImage": "images/back/APR6-061.webp"
+    "backImage": "images/back/APR6-061.webp",
+    "stars": 2
   },
   {
     "id": "APR6-062",
@@ -6612,7 +7346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-062.webp",
-    "backImage": "images/back/APR6-062.webp"
+    "backImage": "images/back/APR6-062.webp",
+    "stars": 2
   },
   {
     "id": "APR6-063",
@@ -6621,7 +7356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "リング卡",
     "frontImage": "images/front/APR6-063.webp",
-    "backImage": "images/back/APR6-063.webp"
+    "backImage": "images/back/APR6-063.webp",
+    "stars": 2
   },
   {
     "id": "APR6M-001",
@@ -6630,7 +7366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "其他",
     "frontImage": "images/front/APR6M-001.webp",
-    "backImage": "images/back/APR6M-001.webp"
+    "backImage": "images/back/APR6M-001.webp",
+    "stars": 2
   },
   {
     "id": "APR6M-002",
@@ -6639,7 +7376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "其他",
     "frontImage": "images/front/APR6M-002.webp",
-    "backImage": "images/back/APR6M-002.webp"
+    "backImage": "images/back/APR6M-002.webp",
+    "stars": 2
   },
   {
     "id": "APR6M-003",
@@ -6648,7 +7386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "其他",
     "frontImage": "images/front/APR6M-003.webp",
-    "backImage": "images/back/APR6M-003.webp"
+    "backImage": "images/back/APR6M-003.webp",
+    "stars": 2
   },
   {
     "id": "APR6M-004",
@@ -6657,7 +7396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "其他",
     "frontImage": "images/front/APR6M-004.webp",
-    "backImage": "images/back/APR6M-004.webp"
+    "backImage": "images/back/APR6M-004.webp",
+    "stars": 2
   },
   {
     "id": "APR6M-005",
@@ -6666,7 +7406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "其他",
     "frontImage": "images/front/APR6M-005.webp",
-    "backImage": "images/back/APR6M-005.webp"
+    "backImage": "images/back/APR6M-005.webp",
+    "stars": 2
   },
   {
     "id": "APR6M-006",
@@ -6675,7 +7416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "Ring第6彈",
     "category": "其他",
     "frontImage": "images/front/APR6M-006.webp",
-    "backImage": "images/back/APR6M-006.webp"
+    "backImage": "images/back/APR6M-006.webp",
+    "stars": 2
   },
   {
     "id": "G1-001",
@@ -6684,7 +7426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-001.webp",
-    "backImage": "images/back/G1-001.webp"
+    "backImage": "images/back/G1-001.webp",
+    "stars": null
   },
   {
     "id": "G1-002",
@@ -6693,7 +7436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-002.webp",
-    "backImage": "images/back/G1-002.webp"
+    "backImage": "images/back/G1-002.webp",
+    "stars": null
   },
   {
     "id": "G1-003",
@@ -6702,7 +7446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-003.webp",
-    "backImage": "images/back/G1-003.webp"
+    "backImage": "images/back/G1-003.webp",
+    "stars": null
   },
   {
     "id": "G1-004",
@@ -6711,7 +7456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-004.webp",
-    "backImage": "images/back/G1-004.webp"
+    "backImage": "images/back/G1-004.webp",
+    "stars": null
   },
   {
     "id": "G1-005",
@@ -6720,7 +7466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-005.webp",
-    "backImage": "images/back/G1-005.webp"
+    "backImage": "images/back/G1-005.webp",
+    "stars": null
   },
   {
     "id": "G1-006",
@@ -6729,7 +7476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-006.webp",
-    "backImage": "images/back/G1-006.webp"
+    "backImage": "images/back/G1-006.webp",
+    "stars": null
   },
   {
     "id": "G1-007",
@@ -6738,7 +7486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-007.webp",
-    "backImage": "images/back/G1-007.webp"
+    "backImage": "images/back/G1-007.webp",
+    "stars": null
   },
   {
     "id": "G1-008",
@@ -6747,7 +7496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-008.webp",
-    "backImage": "images/back/G1-008.webp"
+    "backImage": "images/back/G1-008.webp",
+    "stars": null
   },
   {
     "id": "G1-009",
@@ -6756,7 +7506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-009.webp",
-    "backImage": "images/back/G1-009.webp"
+    "backImage": "images/back/G1-009.webp",
+    "stars": null
   },
   {
     "id": "G1-010",
@@ -6765,7 +7516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-010.webp",
-    "backImage": "images/back/G1-010.webp"
+    "backImage": "images/back/G1-010.webp",
+    "stars": null
   },
   {
     "id": "G1-011",
@@ -6774,7 +7526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-011.webp",
-    "backImage": "images/back/G1-011.webp"
+    "backImage": "images/back/G1-011.webp",
+    "stars": null
   },
   {
     "id": "G1-012",
@@ -6783,7 +7536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-012.webp",
-    "backImage": "images/back/G1-012.webp"
+    "backImage": "images/back/G1-012.webp",
+    "stars": null
   },
   {
     "id": "G1-013",
@@ -6792,7 +7546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-013.webp",
-    "backImage": "images/back/G1-013.webp"
+    "backImage": "images/back/G1-013.webp",
+    "stars": null
   },
   {
     "id": "G1-014",
@@ -6801,7 +7556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第1彈",
     "category": "グミ",
     "frontImage": "images/front/G1-014.webp",
-    "backImage": "images/back/G1-014.webp"
+    "backImage": "images/back/G1-014.webp",
+    "stars": null
   },
   {
     "id": "G2-001",
@@ -6810,7 +7566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-001.webp",
-    "backImage": "images/back/G2-001.webp"
+    "backImage": "images/back/G2-001.webp",
+    "stars": null
   },
   {
     "id": "G2-002",
@@ -6819,7 +7576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-002.webp",
-    "backImage": "images/back/G2-002.webp"
+    "backImage": "images/back/G2-002.webp",
+    "stars": null
   },
   {
     "id": "G2-003",
@@ -6828,7 +7586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-003.webp",
-    "backImage": "images/back/G2-003.webp"
+    "backImage": "images/back/G2-003.webp",
+    "stars": null
   },
   {
     "id": "G2-004",
@@ -6837,7 +7596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-004.webp",
-    "backImage": "images/back/G2-004.webp"
+    "backImage": "images/back/G2-004.webp",
+    "stars": null
   },
   {
     "id": "G2-006",
@@ -6846,7 +7606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-006.webp",
-    "backImage": "images/back/G2-006.webp"
+    "backImage": "images/back/G2-006.webp",
+    "stars": null
   },
   {
     "id": "G2-007",
@@ -6855,7 +7616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-007.webp",
-    "backImage": "images/back/G2-007.webp"
+    "backImage": "images/back/G2-007.webp",
+    "stars": null
   },
   {
     "id": "G2-008",
@@ -6864,7 +7626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-008.webp",
-    "backImage": "images/back/G2-008.webp"
+    "backImage": "images/back/G2-008.webp",
+    "stars": null
   },
   {
     "id": "G2-009",
@@ -6873,7 +7636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-009.webp",
-    "backImage": "images/back/G2-009.webp"
+    "backImage": "images/back/G2-009.webp",
+    "stars": null
   },
   {
     "id": "G2-010",
@@ -6882,7 +7646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-010.webp",
-    "backImage": "images/back/G2-010.webp"
+    "backImage": "images/back/G2-010.webp",
+    "stars": null
   },
   {
     "id": "G2-011",
@@ -6891,7 +7656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-011.webp",
-    "backImage": "images/back/G2-011.webp"
+    "backImage": "images/back/G2-011.webp",
+    "stars": null
   },
   {
     "id": "G2-012",
@@ -6900,7 +7666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-012.webp",
-    "backImage": "images/back/G2-012.webp"
+    "backImage": "images/back/G2-012.webp",
+    "stars": null
   },
   {
     "id": "G2-013",
@@ -6909,7 +7676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-013.webp",
-    "backImage": "images/back/G2-013.webp"
+    "backImage": "images/back/G2-013.webp",
+    "stars": null
   },
   {
     "id": "G2-014",
@@ -6918,7 +7686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第2彈",
     "category": "グミ",
     "frontImage": "images/front/G2-014.webp",
-    "backImage": "images/back/G2-014.webp"
+    "backImage": "images/back/G2-014.webp",
+    "stars": null
   },
   {
     "id": "G3-001",
@@ -6927,7 +7696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-001.webp",
-    "backImage": "images/back/G3-001.webp"
+    "backImage": "images/back/G3-001.webp",
+    "stars": null
   },
   {
     "id": "G3-002",
@@ -6936,7 +7706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-002.webp",
-    "backImage": "images/back/G3-002.webp"
+    "backImage": "images/back/G3-002.webp",
+    "stars": null
   },
   {
     "id": "G3-003",
@@ -6945,7 +7716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-003.webp",
-    "backImage": "images/back/G3-003.webp"
+    "backImage": "images/back/G3-003.webp",
+    "stars": null
   },
   {
     "id": "G3-004",
@@ -6954,7 +7726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-004.webp",
-    "backImage": "images/back/G3-004.webp"
+    "backImage": "images/back/G3-004.webp",
+    "stars": null
   },
   {
     "id": "G3-006",
@@ -6963,7 +7736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-006.webp",
-    "backImage": "images/back/G3-006.webp"
+    "backImage": "images/back/G3-006.webp",
+    "stars": null
   },
   {
     "id": "G3-007",
@@ -6972,7 +7746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-007.webp",
-    "backImage": "images/back/G3-007.webp"
+    "backImage": "images/back/G3-007.webp",
+    "stars": null
   },
   {
     "id": "G3-008",
@@ -6981,7 +7756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-008.webp",
-    "backImage": "images/back/G3-008.webp"
+    "backImage": "images/back/G3-008.webp",
+    "stars": null
   },
   {
     "id": "G3-009",
@@ -6990,7 +7766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-009.webp",
-    "backImage": "images/back/G3-009.webp"
+    "backImage": "images/back/G3-009.webp",
+    "stars": null
   },
   {
     "id": "G3-010",
@@ -6999,7 +7776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-010.webp",
-    "backImage": "images/back/G3-010.webp"
+    "backImage": "images/back/G3-010.webp",
+    "stars": null
   },
   {
     "id": "G3-011",
@@ -7008,7 +7786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-011.webp",
-    "backImage": "images/back/G3-011.webp"
+    "backImage": "images/back/G3-011.webp",
+    "stars": null
   },
   {
     "id": "G3-012",
@@ -7017,7 +7796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-012.webp",
-    "backImage": "images/back/G3-012.webp"
+    "backImage": "images/back/G3-012.webp",
+    "stars": null
   },
   {
     "id": "G3-013",
@@ -7026,7 +7806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-013.webp",
-    "backImage": "images/back/G3-013.webp"
+    "backImage": "images/back/G3-013.webp",
+    "stars": null
   },
   {
     "id": "G3-014",
@@ -7035,7 +7816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第3彈",
     "category": "グミ",
     "frontImage": "images/front/G3-014.webp",
-    "backImage": "images/back/G3-014.webp"
+    "backImage": "images/back/G3-014.webp",
+    "stars": null
   },
   {
     "id": "G4-001",
@@ -7044,7 +7826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-001.webp",
-    "backImage": "images/back/G4-001.webp"
+    "backImage": "images/back/G4-001.webp",
+    "stars": null
   },
   {
     "id": "G4-002",
@@ -7053,7 +7836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-002.webp",
-    "backImage": "images/back/G4-002.webp"
+    "backImage": "images/back/G4-002.webp",
+    "stars": null
   },
   {
     "id": "G4-003",
@@ -7062,7 +7846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-003.webp",
-    "backImage": "images/back/G4-003.webp"
+    "backImage": "images/back/G4-003.webp",
+    "stars": null
   },
   {
     "id": "G4-005",
@@ -7071,7 +7856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-005.webp",
-    "backImage": "images/back/G4-005.webp"
+    "backImage": "images/back/G4-005.webp",
+    "stars": null
   },
   {
     "id": "G4-006",
@@ -7080,7 +7866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-006.webp",
-    "backImage": "images/back/G4-006.webp"
+    "backImage": "images/back/G4-006.webp",
+    "stars": null
   },
   {
     "id": "G4-007",
@@ -7089,7 +7876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-007.webp",
-    "backImage": "images/back/G4-007.webp"
+    "backImage": "images/back/G4-007.webp",
+    "stars": null
   },
   {
     "id": "G4-008",
@@ -7098,7 +7886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-008.webp",
-    "backImage": "images/back/G4-008.webp"
+    "backImage": "images/back/G4-008.webp",
+    "stars": null
   },
   {
     "id": "G4-009",
@@ -7107,7 +7896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-009.webp",
-    "backImage": "images/back/G4-009.webp"
+    "backImage": "images/back/G4-009.webp",
+    "stars": null
   },
   {
     "id": "G4-010",
@@ -7116,7 +7906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-010.webp",
-    "backImage": "images/back/G4-010.webp"
+    "backImage": "images/back/G4-010.webp",
+    "stars": null
   },
   {
     "id": "G4-011",
@@ -7125,7 +7916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-011.webp",
-    "backImage": "images/back/G4-011.webp"
+    "backImage": "images/back/G4-011.webp",
+    "stars": null
   },
   {
     "id": "G4-012",
@@ -7134,7 +7926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-012.webp",
-    "backImage": "images/back/G4-012.webp"
+    "backImage": "images/back/G4-012.webp",
+    "stars": null
   },
   {
     "id": "G4-013",
@@ -7143,7 +7936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-013.webp",
-    "backImage": "images/back/G4-013.webp"
+    "backImage": "images/back/G4-013.webp",
+    "stars": null
   },
   {
     "id": "G4-014",
@@ -7152,7 +7946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第4彈",
     "category": "グミ",
     "frontImage": "images/front/G4-014.webp",
-    "backImage": "images/back/G4-014.webp"
+    "backImage": "images/back/G4-014.webp",
+    "stars": null
   },
   {
     "id": "G5-001",
@@ -7161,7 +7956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-001.webp",
-    "backImage": "images/back/G5-001.webp"
+    "backImage": "images/back/G5-001.webp",
+    "stars": null
   },
   {
     "id": "G5-002",
@@ -7170,7 +7966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-002.webp",
-    "backImage": "images/back/G5-002.webp"
+    "backImage": "images/back/G5-002.webp",
+    "stars": null
   },
   {
     "id": "G5-003",
@@ -7179,7 +7976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-003.webp",
-    "backImage": "images/back/G5-003.webp"
+    "backImage": "images/back/G5-003.webp",
+    "stars": null
   },
   {
     "id": "G5-005",
@@ -7188,7 +7986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-005.webp",
-    "backImage": "images/back/G5-005.webp"
+    "backImage": "images/back/G5-005.webp",
+    "stars": null
   },
   {
     "id": "G5-006",
@@ -7197,7 +7996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-006.webp",
-    "backImage": "images/back/G5-006.webp"
+    "backImage": "images/back/G5-006.webp",
+    "stars": null
   },
   {
     "id": "G5-007",
@@ -7206,7 +8006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-007.webp",
-    "backImage": "images/back/G5-007.webp"
+    "backImage": "images/back/G5-007.webp",
+    "stars": null
   },
   {
     "id": "G5-008",
@@ -7215,7 +8016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-008.webp",
-    "backImage": "images/back/G5-008.webp"
+    "backImage": "images/back/G5-008.webp",
+    "stars": null
   },
   {
     "id": "G5-009",
@@ -7224,7 +8026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-009.webp",
-    "backImage": "images/back/G5-009.webp"
+    "backImage": "images/back/G5-009.webp",
+    "stars": null
   },
   {
     "id": "G5-010",
@@ -7233,7 +8036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-010.webp",
-    "backImage": "images/back/G5-010.webp"
+    "backImage": "images/back/G5-010.webp",
+    "stars": null
   },
   {
     "id": "G5-011",
@@ -7242,7 +8046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-011.webp",
-    "backImage": "images/back/G5-011.webp"
+    "backImage": "images/back/G5-011.webp",
+    "stars": null
   },
   {
     "id": "G5-012",
@@ -7251,7 +8056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-012.webp",
-    "backImage": "images/back/G5-012.webp"
+    "backImage": "images/back/G5-012.webp",
+    "stars": null
   },
   {
     "id": "G5-013",
@@ -7260,7 +8066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-013.webp",
-    "backImage": "images/back/G5-013.webp"
+    "backImage": "images/back/G5-013.webp",
+    "stars": null
   },
   {
     "id": "G5-014",
@@ -7269,7 +8076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第5彈",
     "category": "グミ",
     "frontImage": "images/front/G5-014.webp",
-    "backImage": "images/back/G5-014.webp"
+    "backImage": "images/back/G5-014.webp",
+    "stars": null
   },
   {
     "id": "G6-001",
@@ -7278,7 +8086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-001.webp",
-    "backImage": "images/back/G6-001.webp"
+    "backImage": "images/back/G6-001.webp",
+    "stars": null
   },
   {
     "id": "G6-002",
@@ -7287,7 +8096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-002.webp",
-    "backImage": "images/back/G6-002.webp"
+    "backImage": "images/back/G6-002.webp",
+    "stars": null
   },
   {
     "id": "G6-003",
@@ -7296,7 +8106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-003.webp",
-    "backImage": "images/back/G6-003.webp"
+    "backImage": "images/back/G6-003.webp",
+    "stars": null
   },
   {
     "id": "G6-005",
@@ -7305,7 +8116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-005.webp",
-    "backImage": "images/back/G6-005.webp"
+    "backImage": "images/back/G6-005.webp",
+    "stars": null
   },
   {
     "id": "G6-006",
@@ -7314,7 +8126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-006.webp",
-    "backImage": "images/back/G6-006.webp"
+    "backImage": "images/back/G6-006.webp",
+    "stars": null
   },
   {
     "id": "G6-007",
@@ -7323,7 +8136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-007.webp",
-    "backImage": "images/back/G6-007.webp"
+    "backImage": "images/back/G6-007.webp",
+    "stars": null
   },
   {
     "id": "G6-008",
@@ -7332,7 +8146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-008.webp",
-    "backImage": "images/back/G6-008.webp"
+    "backImage": "images/back/G6-008.webp",
+    "stars": null
   },
   {
     "id": "G6-009",
@@ -7341,7 +8156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-009.webp",
-    "backImage": "images/back/G6-009.webp"
+    "backImage": "images/back/G6-009.webp",
+    "stars": null
   },
   {
     "id": "G6-010",
@@ -7350,7 +8166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-010.webp",
-    "backImage": "images/back/G6-010.webp"
+    "backImage": "images/back/G6-010.webp",
+    "stars": null
   },
   {
     "id": "G6-011",
@@ -7359,7 +8176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-011.webp",
-    "backImage": "images/back/G6-011.webp"
+    "backImage": "images/back/G6-011.webp",
+    "stars": null
   },
   {
     "id": "G6-012",
@@ -7368,7 +8186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-012.webp",
-    "backImage": "images/back/G6-012.webp"
+    "backImage": "images/back/G6-012.webp",
+    "stars": null
   },
   {
     "id": "G6-013",
@@ -7377,7 +8196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-013.webp",
-    "backImage": "images/back/G6-013.webp"
+    "backImage": "images/back/G6-013.webp",
+    "stars": null
   },
   {
     "id": "G6-014",
@@ -7386,7 +8206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "グミ第6彈",
     "category": "グミ",
     "frontImage": "images/front/G6-014.webp",
-    "backImage": "images/back/G6-014.webp"
+    "backImage": "images/back/G6-014.webp",
+    "stars": null
   },
   {
     "id": "P-001",
@@ -7395,7 +8216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-001.webp",
-    "backImage": "images/back/P-001.webp"
+    "backImage": "images/back/P-001.webp",
+    "stars": null
   },
   {
     "id": "P-002",
@@ -7404,7 +8226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-002.webp",
-    "backImage": "images/back/P-002.webp"
+    "backImage": "images/back/P-002.webp",
+    "stars": null
   },
   {
     "id": "P-003",
@@ -7413,7 +8236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-003.webp",
-    "backImage": "images/back/P-003.webp"
+    "backImage": "images/back/P-003.webp",
+    "stars": null
   },
   {
     "id": "P-004",
@@ -7422,7 +8246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-004.webp",
-    "backImage": "images/back/P-004.webp"
+    "backImage": "images/back/P-004.webp",
+    "stars": null
   },
   {
     "id": "P-005",
@@ -7431,7 +8256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-005.webp",
-    "backImage": "images/back/P-005.webp"
+    "backImage": "images/back/P-005.webp",
+    "stars": null
   },
   {
     "id": "P-006",
@@ -7440,7 +8266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-006.webp",
-    "backImage": "images/back/P-006.webp"
+    "backImage": "images/back/P-006.webp",
+    "stars": null
   },
   {
     "id": "P-021",
@@ -7449,7 +8276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-021.webp",
-    "backImage": "images/back/P-021.webp"
+    "backImage": "images/back/P-021.webp",
+    "stars": null
   },
   {
     "id": "P-022",
@@ -7458,7 +8286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-022.webp",
-    "backImage": "images/back/P-022.webp"
+    "backImage": "images/back/P-022.webp",
+    "stars": null
   },
   {
     "id": "P-023",
@@ -7467,7 +8296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-023.webp",
-    "backImage": "images/back/P-023.webp"
+    "backImage": "images/back/P-023.webp",
+    "stars": null
   },
   {
     "id": "P-024",
@@ -7476,7 +8306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-024.webp",
-    "backImage": "images/back/P-024.webp"
+    "backImage": "images/back/P-024.webp",
+    "stars": null
   },
   {
     "id": "P-026",
@@ -7485,7 +8316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-026.webp",
-    "backImage": "images/back/P-026.webp"
+    "backImage": "images/back/P-026.webp",
+    "stars": null
   },
   {
     "id": "P-027",
@@ -7494,7 +8326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-027.webp",
-    "backImage": "images/back/P-027.webp"
+    "backImage": "images/back/P-027.webp",
+    "stars": null
   },
   {
     "id": "P-028",
@@ -7503,7 +8336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-028.webp",
-    "backImage": "images/back/P-028.webp"
+    "backImage": "images/back/P-028.webp",
+    "stars": null
   },
   {
     "id": "P-029",
@@ -7512,7 +8346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-029.webp",
-    "backImage": "images/back/P-029.webp"
+    "backImage": "images/back/P-029.webp",
+    "stars": null
   },
   {
     "id": "P-031",
@@ -7521,7 +8356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-031.webp",
-    "backImage": "images/back/P-031.webp"
+    "backImage": "images/back/P-031.webp",
+    "stars": null
   },
   {
     "id": "P-033",
@@ -7530,7 +8366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-033.webp",
-    "backImage": "images/back/P-033.webp"
+    "backImage": "images/back/P-033.webp",
+    "stars": null
   },
   {
     "id": "P-036",
@@ -7539,7 +8376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-036.webp",
-    "backImage": "images/back/P-036.webp"
+    "backImage": "images/back/P-036.webp",
+    "stars": null
   },
   {
     "id": "P-036P",
@@ -7548,7 +8386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-036P.webp",
-    "backImage": "images/back/P-036P.webp"
+    "backImage": "images/back/P-036P.webp",
+    "stars": null
   },
   {
     "id": "P-037",
@@ -7557,7 +8396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-037.webp",
-    "backImage": "images/front/P-037.webp"
+    "backImage": "images/front/P-037.webp",
+    "stars": null
   },
   {
     "id": "P-037P",
@@ -7566,7 +8406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-037P.webp",
-    "backImage": "images/back/P-037P.webp"
+    "backImage": "images/back/P-037P.webp",
+    "stars": null
   },
   {
     "id": "P-038",
@@ -7575,7 +8416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-038.webp",
-    "backImage": "images/back/P-038.webp"
+    "backImage": "images/back/P-038.webp",
+    "stars": null
   },
   {
     "id": "P-039",
@@ -7584,7 +8426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-039.webp",
-    "backImage": "images/back/P-039.webp"
+    "backImage": "images/back/P-039.webp",
+    "stars": null
   },
   {
     "id": "P-041",
@@ -7593,7 +8436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-041.webp",
-    "backImage": "images/back/P-041.webp"
+    "backImage": "images/back/P-041.webp",
+    "stars": null
   },
   {
     "id": "P-042",
@@ -7602,7 +8446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-042.webp",
-    "backImage": "images/back/P-042.webp"
+    "backImage": "images/back/P-042.webp",
+    "stars": null
   },
   {
     "id": "P-043",
@@ -7611,7 +8456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-043.webp",
-    "backImage": "images/back/P-043.webp"
+    "backImage": "images/back/P-043.webp",
+    "stars": null
   },
   {
     "id": "P-044",
@@ -7620,7 +8466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-044.webp",
-    "backImage": "images/back/P-044.webp"
+    "backImage": "images/back/P-044.webp",
+    "stars": null
   },
   {
     "id": "P-045",
@@ -7629,7 +8476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-045.webp",
-    "backImage": "images/back/P-045.webp"
+    "backImage": "images/back/P-045.webp",
+    "stars": null
   },
   {
     "id": "P-046",
@@ -7638,7 +8486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-046.webp",
-    "backImage": "images/back/P-046.webp"
+    "backImage": "images/back/P-046.webp",
+    "stars": null
   },
   {
     "id": "P-047",
@@ -7647,7 +8496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-047.webp",
-    "backImage": "images/back/P-047.webp"
+    "backImage": "images/back/P-047.webp",
+    "stars": null
   },
   {
     "id": "P-062",
@@ -7656,7 +8506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-062.webp",
-    "backImage": "images/back/P-062.webp"
+    "backImage": "images/back/P-062.webp",
+    "stars": null
   },
   {
     "id": "P-063",
@@ -7665,7 +8516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-063.webp",
-    "backImage": "images/back/P-063.webp"
+    "backImage": "images/back/P-063.webp",
+    "stars": null
   },
   {
     "id": "P-064",
@@ -7674,7 +8526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-064.webp",
-    "backImage": "images/back/P-064.webp"
+    "backImage": "images/back/P-064.webp",
+    "stars": null
   },
   {
     "id": "P-065",
@@ -7683,7 +8536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-065.webp",
-    "backImage": "images/back/P-065.webp"
+    "backImage": "images/back/P-065.webp",
+    "stars": null
   },
   {
     "id": "P-066",
@@ -7692,7 +8546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-066.webp",
-    "backImage": "images/back/P-066.webp"
+    "backImage": "images/back/P-066.webp",
+    "stars": null
   },
   {
     "id": "P-067",
@@ -7701,7 +8556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-067.webp",
-    "backImage": "images/back/P-067.webp"
+    "backImage": "images/back/P-067.webp",
+    "stars": null
   },
   {
     "id": "P-068",
@@ -7710,7 +8566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-068.webp",
-    "backImage": "images/back/P-068.webp"
+    "backImage": "images/back/P-068.webp",
+    "stars": null
   },
   {
     "id": "P-069",
@@ -7719,7 +8576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-069.webp",
-    "backImage": "images/back/P-069.webp"
+    "backImage": "images/back/P-069.webp",
+    "stars": null
   },
   {
     "id": "P-071",
@@ -7728,7 +8586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-071.webp",
-    "backImage": "images/back/P-071.webp"
+    "backImage": "images/back/P-071.webp",
+    "stars": null
   },
   {
     "id": "P-073",
@@ -7737,7 +8596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-073.webp",
-    "backImage": "images/back/P-073.webp"
+    "backImage": "images/back/P-073.webp",
+    "stars": null
   },
   {
     "id": "P-089",
@@ -7746,7 +8606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-089.webp",
-    "backImage": "images/back/P-089.webp"
+    "backImage": "images/back/P-089.webp",
+    "stars": null
   },
   {
     "id": "P-090",
@@ -7755,7 +8616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-090.webp",
-    "backImage": "images/back/P-090.webp"
+    "backImage": "images/back/P-090.webp",
+    "stars": null
   },
   {
     "id": "P-091",
@@ -7764,7 +8626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-091.webp",
-    "backImage": "images/back/P-091.webp"
+    "backImage": "images/back/P-091.webp",
+    "stars": null
   },
   {
     "id": "P-092",
@@ -7773,7 +8636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-092.webp",
-    "backImage": "images/back/P-092.webp"
+    "backImage": "images/back/P-092.webp",
+    "stars": null
   },
   {
     "id": "P-096",
@@ -7782,7 +8646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-096.webp",
-    "backImage": "images/back/P-096.webp"
+    "backImage": "images/back/P-096.webp",
+    "stars": null
   },
   {
     "id": "P-097",
@@ -7791,7 +8656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-097.webp",
-    "backImage": "images/back/P-097.webp"
+    "backImage": "images/back/P-097.webp",
+    "stars": null
   },
   {
     "id": "P-098",
@@ -7800,7 +8666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-098.webp",
-    "backImage": "images/back/P-098.webp"
+    "backImage": "images/back/P-098.webp",
+    "stars": null
   },
   {
     "id": "P-099",
@@ -7809,7 +8676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-099.webp",
-    "backImage": "images/back/P-099.webp"
+    "backImage": "images/back/P-099.webp",
+    "stars": null
   },
   {
     "id": "P-100",
@@ -7818,7 +8686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-100.webp",
-    "backImage": "images/back/P-100.webp"
+    "backImage": "images/back/P-100.webp",
+    "stars": null
   },
   {
     "id": "P-101",
@@ -7827,7 +8696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-101.webp",
-    "backImage": "images/back/P-101.webp"
+    "backImage": "images/back/P-101.webp",
+    "stars": null
   },
   {
     "id": "P-102",
@@ -7836,7 +8706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-102.webp",
-    "backImage": "images/back/P-102.webp"
+    "backImage": "images/back/P-102.webp",
+    "stars": null
   },
   {
     "id": "P-103",
@@ -7845,7 +8716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-103.webp",
-    "backImage": "images/back/P-103.webp"
+    "backImage": "images/back/P-103.webp",
+    "stars": null
   },
   {
     "id": "P-104",
@@ -7854,7 +8726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-104.webp",
-    "backImage": "images/back/P-104.webp"
+    "backImage": "images/back/P-104.webp",
+    "stars": null
   },
   {
     "id": "P-105",
@@ -7863,7 +8736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-105.webp",
-    "backImage": "images/back/P-105.webp"
+    "backImage": "images/back/P-105.webp",
+    "stars": null
   },
   {
     "id": "P-106",
@@ -7872,7 +8746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-106.webp",
-    "backImage": "images/back/P-106.webp"
+    "backImage": "images/back/P-106.webp",
+    "stars": null
   },
   {
     "id": "P-107",
@@ -7881,7 +8756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-107.webp",
-    "backImage": "images/back/P-107.webp"
+    "backImage": "images/back/P-107.webp",
+    "stars": null
   },
   {
     "id": "P-109",
@@ -7890,7 +8766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-109.webp",
-    "backImage": "images/back/P-109.webp"
+    "backImage": "images/back/P-109.webp",
+    "stars": null
   },
   {
     "id": "P-110",
@@ -7899,7 +8776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-110.webp",
-    "backImage": "images/back/P-110.webp"
+    "backImage": "images/back/P-110.webp",
+    "stars": null
   },
   {
     "id": "P-111",
@@ -7908,7 +8786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-111.webp",
-    "backImage": "images/back/P-111.webp"
+    "backImage": "images/back/P-111.webp",
+    "stars": null
   },
   {
     "id": "P-112",
@@ -7917,7 +8796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-112.webp",
-    "backImage": "images/back/P-112.webp"
+    "backImage": "images/back/P-112.webp",
+    "stars": null
   },
   {
     "id": "P-113",
@@ -7926,7 +8806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-113.webp",
-    "backImage": "images/back/P-113.webp"
+    "backImage": "images/back/P-113.webp",
+    "stars": null
   },
   {
     "id": "P-114",
@@ -7935,7 +8816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-114.webp",
-    "backImage": "images/back/P-114.webp"
+    "backImage": "images/back/P-114.webp",
+    "stars": null
   },
   {
     "id": "P-115",
@@ -7944,7 +8826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-115.webp",
-    "backImage": "images/back/P-115.webp"
+    "backImage": "images/back/P-115.webp",
+    "stars": null
   },
   {
     "id": "P-116",
@@ -7953,7 +8836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-116.webp",
-    "backImage": "images/back/P-116.webp"
+    "backImage": "images/back/P-116.webp",
+    "stars": null
   },
   {
     "id": "P-117",
@@ -7962,7 +8846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-117.webp",
-    "backImage": "images/back/P-117.webp"
+    "backImage": "images/back/P-117.webp",
+    "stars": null
   },
   {
     "id": "P-118",
@@ -7971,7 +8856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-118.webp",
-    "backImage": "images/back/P-118.webp"
+    "backImage": "images/back/P-118.webp",
+    "stars": null
   },
   {
     "id": "P-120",
@@ -7980,7 +8866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-120.webp",
-    "backImage": "images/back/P-120.webp"
+    "backImage": "images/back/P-120.webp",
+    "stars": null
   },
   {
     "id": "P-121",
@@ -7989,7 +8876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-121.webp",
-    "backImage": "images/back/P-121.webp"
+    "backImage": "images/back/P-121.webp",
+    "stars": null
   },
   {
     "id": "P-136",
@@ -7998,7 +8886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-136.webp",
-    "backImage": "images/back/P-136.webp"
+    "backImage": "images/back/P-136.webp",
+    "stars": null
   },
   {
     "id": "P-137",
@@ -8007,7 +8896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-137.webp",
-    "backImage": "images/back/P-137.webp"
+    "backImage": "images/back/P-137.webp",
+    "stars": null
   },
   {
     "id": "P-139",
@@ -8016,7 +8906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-139.webp",
-    "backImage": "images/back/P-139.webp"
+    "backImage": "images/back/P-139.webp",
+    "stars": null
   },
   {
     "id": "P-140",
@@ -8025,7 +8916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-140.webp",
-    "backImage": "images/back/P-140.webp"
+    "backImage": "images/back/P-140.webp",
+    "stars": null
   },
   {
     "id": "P-142",
@@ -8034,7 +8926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-142.webp",
-    "backImage": "images/back/P-142.webp"
+    "backImage": "images/back/P-142.webp",
+    "stars": null
   },
   {
     "id": "P-143",
@@ -8043,7 +8936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-143.webp",
-    "backImage": "images/back/P-143.webp"
+    "backImage": "images/back/P-143.webp",
+    "stars": null
   },
   {
     "id": "P-144",
@@ -8052,7 +8946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-144.webp",
-    "backImage": "images/back/P-144.webp"
+    "backImage": "images/back/P-144.webp",
+    "stars": null
   },
   {
     "id": "P-145",
@@ -8061,7 +8956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-145.webp",
-    "backImage": "images/back/P-145.webp"
+    "backImage": "images/back/P-145.webp",
+    "stars": null
   },
   {
     "id": "P-146",
@@ -8070,7 +8966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-146.webp",
-    "backImage": "images/back/P-146.webp"
+    "backImage": "images/back/P-146.webp",
+    "stars": null
   },
   {
     "id": "P-147",
@@ -8079,7 +8976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-147.webp",
-    "backImage": "images/back/P-147.webp"
+    "backImage": "images/back/P-147.webp",
+    "stars": null
   },
   {
     "id": "P-148",
@@ -8088,7 +8986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-148.webp",
-    "backImage": "images/back/P-148.webp"
+    "backImage": "images/back/P-148.webp",
+    "stars": null
   },
   {
     "id": "P-149",
@@ -8097,7 +8996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-149.webp",
-    "backImage": "images/back/P-149.webp"
+    "backImage": "images/back/P-149.webp",
+    "stars": null
   },
   {
     "id": "P-150",
@@ -8106,7 +9006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-150.webp",
-    "backImage": "images/back/P-150.webp"
+    "backImage": "images/back/P-150.webp",
+    "stars": null
   },
   {
     "id": "P-151",
@@ -8115,7 +9016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-151.webp",
-    "backImage": "images/back/P-151.webp"
+    "backImage": "images/back/P-151.webp",
+    "stars": null
   },
   {
     "id": "P-152",
@@ -8124,7 +9026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-152.webp",
-    "backImage": "images/back/P-152.webp"
+    "backImage": "images/back/P-152.webp",
+    "stars": null
   },
   {
     "id": "P-153",
@@ -8133,7 +9036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-153.webp",
-    "backImage": "images/back/P-153.webp"
+    "backImage": "images/back/P-153.webp",
+    "stars": null
   },
   {
     "id": "P-154",
@@ -8142,7 +9046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-154.webp",
-    "backImage": "images/back/P-154.webp"
+    "backImage": "images/back/P-154.webp",
+    "stars": null
   },
   {
     "id": "P-155",
@@ -8151,7 +9056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-155.webp",
-    "backImage": "images/back/P-155.webp"
+    "backImage": "images/back/P-155.webp",
+    "stars": null
   },
   {
     "id": "P-156",
@@ -8160,7 +9066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-156.webp",
-    "backImage": "images/back/P-156.webp"
+    "backImage": "images/back/P-156.webp",
+    "stars": null
   },
   {
     "id": "P-157",
@@ -8169,7 +9076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-157.webp",
-    "backImage": "images/back/P-157.webp"
+    "backImage": "images/back/P-157.webp",
+    "stars": null
   },
   {
     "id": "P-158",
@@ -8178,7 +9086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-158.webp",
-    "backImage": "images/back/P-158.webp"
+    "backImage": "images/back/P-158.webp",
+    "stars": null
   },
   {
     "id": "P-159",
@@ -8187,7 +9096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-159.webp",
-    "backImage": "images/back/P-159.webp"
+    "backImage": "images/back/P-159.webp",
+    "stars": null
   },
   {
     "id": "P-160",
@@ -8196,7 +9106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-160.webp",
-    "backImage": "images/back/P-160.webp"
+    "backImage": "images/back/P-160.webp",
+    "stars": null
   },
   {
     "id": "P-161",
@@ -8205,7 +9116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-161.webp",
-    "backImage": "images/back/P-161.webp"
+    "backImage": "images/back/P-161.webp",
+    "stars": null
   },
   {
     "id": "P-162",
@@ -8214,7 +9126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-162.webp",
-    "backImage": "images/back/P-162.webp"
+    "backImage": "images/back/P-162.webp",
+    "stars": null
   },
   {
     "id": "P-163",
@@ -8223,7 +9136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-163.webp",
-    "backImage": "images/back/P-163.webp"
+    "backImage": "images/back/P-163.webp",
+    "stars": null
   },
   {
     "id": "P-164",
@@ -8232,7 +9146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-164.webp",
-    "backImage": "images/back/P-164.webp"
+    "backImage": "images/back/P-164.webp",
+    "stars": null
   },
   {
     "id": "P-165",
@@ -8241,7 +9156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-165.webp",
-    "backImage": "images/back/P-165.webp"
+    "backImage": "images/back/P-165.webp",
+    "stars": null
   },
   {
     "id": "P-166",
@@ -8250,7 +9166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-166.webp",
-    "backImage": "images/back/P-166.webp"
+    "backImage": "images/back/P-166.webp",
+    "stars": null
   },
   {
     "id": "P-167",
@@ -8259,7 +9176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-167.webp",
-    "backImage": "images/back/P-167.webp"
+    "backImage": "images/back/P-167.webp",
+    "stars": null
   },
   {
     "id": "P-168",
@@ -8268,7 +9186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-168.webp",
-    "backImage": "images/back/P-168.webp"
+    "backImage": "images/back/P-168.webp",
+    "stars": null
   },
   {
     "id": "P-169",
@@ -8277,7 +9196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-169.webp",
-    "backImage": "images/back/P-169.webp"
+    "backImage": "images/back/P-169.webp",
+    "stars": null
   },
   {
     "id": "P-170",
@@ -8286,7 +9206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "メモリアル",
     "category": "メモリアル",
     "frontImage": "images/front/P-170.webp",
-    "backImage": "images/back/P-170.webp"
+    "backImage": "images/back/P-170.webp",
+    "stars": null
   },
   {
     "id": "P-171",
@@ -8295,7 +9216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-171.webp",
-    "backImage": "images/back/P-171.webp"
+    "backImage": "images/back/P-171.webp",
+    "stars": null
   },
   {
     "id": "P-172",
@@ -8304,7 +9226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-172.webp",
-    "backImage": "images/back/P-172.webp"
+    "backImage": "images/back/P-172.webp",
+    "stars": null
   },
   {
     "id": "P-175",
@@ -8313,7 +9236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-175.webp",
-    "backImage": "images/back/P-175.webp"
+    "backImage": "images/back/P-175.webp",
+    "stars": null
   },
   {
     "id": "P-176",
@@ -8322,7 +9246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-176.webp",
-    "backImage": "images/back/P-176.webp"
+    "backImage": "images/back/P-176.webp",
+    "stars": null
   },
   {
     "id": "P-177",
@@ -8331,7 +9256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-177.webp",
-    "backImage": "images/back/P-177.webp"
+    "backImage": "images/back/P-177.webp",
+    "stars": null
   },
   {
     "id": "P-178",
@@ -8340,7 +9266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-178.webp",
-    "backImage": "images/back/P-178.webp"
+    "backImage": "images/back/P-178.webp",
+    "stars": null
   },
   {
     "id": "P-180",
@@ -8349,7 +9276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-180.webp",
-    "backImage": "images/back/P-180.webp"
+    "backImage": "images/back/P-180.webp",
+    "stars": null
   },
   {
     "id": "P-181",
@@ -8358,7 +9286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-181.webp",
-    "backImage": "images/back/P-181.webp"
+    "backImage": "images/back/P-181.webp",
+    "stars": null
   },
   {
     "id": "P-185",
@@ -8367,7 +9296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-185.webp",
-    "backImage": "images/back/P-185.webp"
+    "backImage": "images/back/P-185.webp",
+    "stars": null
   },
   {
     "id": "P-186",
@@ -8376,7 +9306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-186.webp",
-    "backImage": "images/back/P-186.webp"
+    "backImage": "images/back/P-186.webp",
+    "stars": null
   },
   {
     "id": "P-190",
@@ -8385,7 +9316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-190.webp",
-    "backImage": "images/back/P-190.webp"
+    "backImage": "images/back/P-190.webp",
+    "stars": null
   },
   {
     "id": "P-191",
@@ -8394,7 +9326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-191.webp",
-    "backImage": "images/back/P-191.webp"
+    "backImage": "images/back/P-191.webp",
+    "stars": null
   },
   {
     "id": "P-192",
@@ -8403,7 +9336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-192.webp",
-    "backImage": "images/back/P-192.webp"
+    "backImage": "images/back/P-192.webp",
+    "stars": null
   },
   {
     "id": "P-193",
@@ -8412,7 +9346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-193.webp",
-    "backImage": "images/back/P-193.webp"
+    "backImage": "images/back/P-193.webp",
+    "stars": null
   },
   {
     "id": "P-209",
@@ -8421,7 +9356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-209.webp",
-    "backImage": "images/back/P-209.webp"
+    "backImage": "images/back/P-209.webp",
+    "stars": null
   },
   {
     "id": "P-210",
@@ -8430,7 +9366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-210.webp",
-    "backImage": "images/back/P-210.webp"
+    "backImage": "images/back/P-210.webp",
+    "stars": null
   },
   {
     "id": "P-211",
@@ -8439,7 +9376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-211.webp",
-    "backImage": "images/back/P-211.webp"
+    "backImage": "images/back/P-211.webp",
+    "stars": null
   },
   {
     "id": "P-212",
@@ -8448,7 +9386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-212.webp",
-    "backImage": "images/back/P-212.webp"
+    "backImage": "images/back/P-212.webp",
+    "stars": null
   },
   {
     "id": "P-213",
@@ -8457,7 +9396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-213.webp",
-    "backImage": "images/back/P-213.webp"
+    "backImage": "images/back/P-213.webp",
+    "stars": null
   },
   {
     "id": "P-214",
@@ -8466,7 +9406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-214.webp",
-    "backImage": "images/back/P-214.webp"
+    "backImage": "images/back/P-214.webp",
+    "stars": null
   },
   {
     "id": "P-215",
@@ -8475,7 +9416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-215.webp",
-    "backImage": "images/back/P-215.webp"
+    "backImage": "images/back/P-215.webp",
+    "stars": null
   },
   {
     "id": "P-216",
@@ -8484,7 +9426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-216.webp",
-    "backImage": "images/back/P-216.webp"
+    "backImage": "images/back/P-216.webp",
+    "stars": null
   },
   {
     "id": "P-219",
@@ -8493,7 +9436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-219.webp",
-    "backImage": "images/back/P-219.webp"
+    "backImage": "images/back/P-219.webp",
+    "stars": null
   },
   {
     "id": "P-220",
@@ -8502,7 +9446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-220.webp",
-    "backImage": "images/back/P-220.webp"
+    "backImage": "images/back/P-220.webp",
+    "stars": null
   },
   {
     "id": "P-221",
@@ -8511,7 +9456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-221.webp",
-    "backImage": "images/back/P-221.webp"
+    "backImage": "images/back/P-221.webp",
+    "stars": null
   },
   {
     "id": "P-222",
@@ -8520,7 +9466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-222.webp",
-    "backImage": "images/back/P-222.webp"
+    "backImage": "images/back/P-222.webp",
+    "stars": null
   },
   {
     "id": "P-223",
@@ -8529,7 +9476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-223.webp",
-    "backImage": "images/back/P-223.webp"
+    "backImage": "images/back/P-223.webp",
+    "stars": null
   },
   {
     "id": "P-224",
@@ -8538,7 +9486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-224.webp",
-    "backImage": "images/back/P-224.webp"
+    "backImage": "images/back/P-224.webp",
+    "stars": null
   },
   {
     "id": "P-227",
@@ -8547,7 +9496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-227.webp",
-    "backImage": "images/back/P-227.webp"
+    "backImage": "images/back/P-227.webp",
+    "stars": null
   },
   {
     "id": "P-228",
@@ -8556,7 +9506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-228.webp",
-    "backImage": "images/back/P-228.webp"
+    "backImage": "images/back/P-228.webp",
+    "stars": null
   },
   {
     "id": "P-229",
@@ -8565,7 +9516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-229.webp",
-    "backImage": "images/back/P-229.webp"
+    "backImage": "images/back/P-229.webp",
+    "stars": null
   },
   {
     "id": "P-230",
@@ -8574,7 +9526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-230.webp",
-    "backImage": "images/back/P-230.webp"
+    "backImage": "images/back/P-230.webp",
+    "stars": null
   },
   {
     "id": "P-231",
@@ -8583,7 +9536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-231.webp",
-    "backImage": "images/back/P-231.webp"
+    "backImage": "images/back/P-231.webp",
+    "stars": null
   },
   {
     "id": "P-251",
@@ -8592,7 +9546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-251.webp",
-    "backImage": "images/back/P-251.webp"
+    "backImage": "images/back/P-251.webp",
+    "stars": null
   },
   {
     "id": "P-256",
@@ -8601,7 +9556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-256.webp",
-    "backImage": "images/front/P-256.webp"
+    "backImage": "images/front/P-256.webp",
+    "stars": null
   },
   {
     "id": "P-257",
@@ -8610,7 +9566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-257.webp",
-    "backImage": "images/front/P-257.webp"
+    "backImage": "images/front/P-257.webp",
+    "stars": null
   },
   {
     "id": "P-262",
@@ -8619,7 +9576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-262.webp",
-    "backImage": "images/back/P-262.webp"
+    "backImage": "images/back/P-262.webp",
+    "stars": null
   },
   {
     "id": "P-263",
@@ -8628,7 +9586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-263.webp",
-    "backImage": "images/back/P-263.webp"
+    "backImage": "images/back/P-263.webp",
+    "stars": null
   },
   {
     "id": "P-264",
@@ -8637,7 +9596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-264.webp",
-    "backImage": "images/back/P-264.webp"
+    "backImage": "images/back/P-264.webp",
+    "stars": null
   },
   {
     "id": "P-265",
@@ -8646,7 +9606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-265.webp",
-    "backImage": "images/back/P-265.webp"
+    "backImage": "images/back/P-265.webp",
+    "stars": null
   },
   {
     "id": "P-266",
@@ -8655,7 +9616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-266.webp",
-    "backImage": "images/back/P-266.webp"
+    "backImage": "images/back/P-266.webp",
+    "stars": null
   },
   {
     "id": "P-269",
@@ -8664,7 +9626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-269.webp",
-    "backImage": "images/back/P-269.webp"
+    "backImage": "images/back/P-269.webp",
+    "stars": null
   },
   {
     "id": "P-270",
@@ -8673,7 +9636,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-270.webp",
-    "backImage": "images/back/P-270.webp"
+    "backImage": "images/back/P-270.webp",
+    "stars": null
   },
   {
     "id": "P-271",
@@ -8682,7 +9646,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-271.webp",
-    "backImage": "images/back/P-271.webp"
+    "backImage": "images/back/P-271.webp",
+    "stars": null
   },
   {
     "id": "P-272",
@@ -8691,7 +9656,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-272.webp",
-    "backImage": "images/back/P-272.webp"
+    "backImage": "images/back/P-272.webp",
+    "stars": null
   },
   {
     "id": "P-273",
@@ -8700,7 +9666,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/P-273.webp",
-    "backImage": "images/back/P-273.webp"
+    "backImage": "images/back/P-273.webp",
+    "stars": null
   },
   {
     "id": "TOY-000",
@@ -8709,7 +9676,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-000.webp",
-    "backImage": "images/front/TOY-000.webp"
+    "backImage": "images/front/TOY-000.webp",
+    "stars": null
   },
   {
     "id": "TOY-001",
@@ -8718,7 +9686,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-001.webp",
-    "backImage": "images/front/TOY-001.webp"
+    "backImage": "images/front/TOY-001.webp",
+    "stars": null
   },
   {
     "id": "TOY-002",
@@ -8727,7 +9696,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-002.webp",
-    "backImage": "images/front/TOY-002.webp"
+    "backImage": "images/front/TOY-002.webp",
+    "stars": null
   },
   {
     "id": "TOY-003",
@@ -8736,7 +9706,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-003.webp",
-    "backImage": "images/front/TOY-003.webp"
+    "backImage": "images/front/TOY-003.webp",
+    "stars": null
   },
   {
     "id": "TOY-004",
@@ -8745,7 +9716,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-004.webp",
-    "backImage": "images/front/TOY-004.webp"
+    "backImage": "images/front/TOY-004.webp",
+    "stars": null
   },
   {
     "id": "TOY-005",
@@ -8754,7 +9726,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-005.webp",
-    "backImage": "images/front/TOY-005.webp"
+    "backImage": "images/front/TOY-005.webp",
+    "stars": null
   },
   {
     "id": "TOY-006",
@@ -8763,7 +9736,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-006.webp",
-    "backImage": "images/back/TOY-006.webp"
+    "backImage": "images/back/TOY-006.webp",
+    "stars": null
   },
   {
     "id": "TOY-007",
@@ -8772,7 +9746,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-007.webp",
-    "backImage": "images/back/TOY-007.webp"
+    "backImage": "images/back/TOY-007.webp",
+    "stars": null
   },
   {
     "id": "TOY-008",
@@ -8781,7 +9756,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-008.webp",
-    "backImage": "images/back/TOY-008.webp"
+    "backImage": "images/back/TOY-008.webp",
+    "stars": null
   },
   {
     "id": "TOY-009",
@@ -8790,7 +9766,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-009.webp",
-    "backImage": "images/back/TOY-009.webp"
+    "backImage": "images/back/TOY-009.webp",
+    "stars": null
   },
   {
     "id": "TOY-010",
@@ -8799,7 +9776,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-010.webp",
-    "backImage": "images/back/TOY-010.webp"
+    "backImage": "images/back/TOY-010.webp",
+    "stars": null
   },
   {
     "id": "TOY-011",
@@ -8808,7 +9786,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-011.webp",
-    "backImage": "images/back/TOY-011.webp"
+    "backImage": "images/back/TOY-011.webp",
+    "stars": null
   },
   {
     "id": "TOY-012",
@@ -8817,7 +9796,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-012.webp",
-    "backImage": "images/back/TOY-012.webp"
+    "backImage": "images/back/TOY-012.webp",
+    "stars": null
   },
   {
     "id": "TOY-013",
@@ -8826,7 +9806,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-013.webp",
-    "backImage": "images/back/TOY-013.webp"
+    "backImage": "images/back/TOY-013.webp",
+    "stars": null
   },
   {
     "id": "TOY-014",
@@ -8835,7 +9816,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-014.webp",
-    "backImage": "images/front/TOY-014.webp"
+    "backImage": "images/front/TOY-014.webp",
+    "stars": null
   },
   {
     "id": "TOY-016",
@@ -8844,7 +9826,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-016.webp",
-    "backImage": "images/front/TOY-016.webp"
+    "backImage": "images/front/TOY-016.webp",
+    "stars": null
   },
   {
     "id": "TOY-017",
@@ -8853,7 +9836,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-017.webp",
-    "backImage": "images/front/TOY-017.webp"
+    "backImage": "images/front/TOY-017.webp",
+    "stars": null
   },
   {
     "id": "TOY-018",
@@ -8862,7 +9846,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-018.webp",
-    "backImage": "images/front/TOY-018.webp"
+    "backImage": "images/front/TOY-018.webp",
+    "stars": null
   },
   {
     "id": "TOY-019",
@@ -8871,7 +9856,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-019.webp",
-    "backImage": "images/front/TOY-019.webp"
+    "backImage": "images/front/TOY-019.webp",
+    "stars": null
   },
   {
     "id": "TOY-020",
@@ -8880,7 +9866,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-020.webp",
-    "backImage": "images/front/TOY-020.webp"
+    "backImage": "images/front/TOY-020.webp",
+    "stars": null
   },
   {
     "id": "TOY-021",
@@ -8889,7 +9876,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-021.webp",
-    "backImage": "images/front/TOY-021.webp"
+    "backImage": "images/front/TOY-021.webp",
+    "stars": null
   },
   {
     "id": "TOY-022",
@@ -8898,7 +9886,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-022.webp",
-    "backImage": "images/front/TOY-022.webp"
+    "backImage": "images/front/TOY-022.webp",
+    "stars": null
   },
   {
     "id": "TOY-023",
@@ -8907,7 +9896,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-023.webp",
-    "backImage": "images/front/TOY-023.webp"
+    "backImage": "images/front/TOY-023.webp",
+    "stars": null
   },
   {
     "id": "TOY-024",
@@ -8916,7 +9906,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-024.webp",
-    "backImage": "images/front/TOY-024.webp"
+    "backImage": "images/front/TOY-024.webp",
+    "stars": null
   },
   {
     "id": "TOY-025",
@@ -8925,7 +9916,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-025.webp",
-    "backImage": "images/back/TOY-025.webp"
+    "backImage": "images/back/TOY-025.webp",
+    "stars": null
   },
   {
     "id": "TOY-026",
@@ -8934,7 +9926,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-026.webp",
-    "backImage": "images/back/TOY-026.webp"
+    "backImage": "images/back/TOY-026.webp",
+    "stars": null
   },
   {
     "id": "TOY-027",
@@ -8943,7 +9936,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-027.webp",
-    "backImage": "images/back/TOY-027.webp"
+    "backImage": "images/back/TOY-027.webp",
+    "stars": null
   },
   {
     "id": "TOY-028",
@@ -8952,7 +9946,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-028.webp",
-    "backImage": "images/back/TOY-028.webp"
+    "backImage": "images/back/TOY-028.webp",
+    "stars": null
   },
   {
     "id": "TOY-029",
@@ -8961,7 +9956,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-029.webp",
-    "backImage": "images/back/TOY-029.webp"
+    "backImage": "images/back/TOY-029.webp",
+    "stars": null
   },
   {
     "id": "TOY-030",
@@ -8970,7 +9966,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-030.webp",
-    "backImage": "images/back/TOY-030.webp"
+    "backImage": "images/back/TOY-030.webp",
+    "stars": null
   },
   {
     "id": "TOY-031",
@@ -8979,7 +9976,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-031.webp",
-    "backImage": "images/front/TOY-031.webp"
+    "backImage": "images/front/TOY-031.webp",
+    "stars": null
   },
   {
     "id": "TOY-033",
@@ -8988,7 +9986,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-033.webp",
-    "backImage": "images/front/TOY-033.webp"
+    "backImage": "images/front/TOY-033.webp",
+    "stars": null
   },
   {
     "id": "TOY-034",
@@ -8997,7 +9996,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-034.webp",
-    "backImage": "images/front/TOY-034.webp"
+    "backImage": "images/front/TOY-034.webp",
+    "stars": null
   },
   {
     "id": "TOY-035",
@@ -9006,7 +10006,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-035.webp",
-    "backImage": "images/front/TOY-035.webp"
+    "backImage": "images/front/TOY-035.webp",
+    "stars": null
   },
   {
     "id": "TOY-036",
@@ -9015,7 +10016,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-036.webp",
-    "backImage": "images/front/TOY-036.webp"
+    "backImage": "images/front/TOY-036.webp",
+    "stars": null
   },
   {
     "id": "TOY-037",
@@ -9024,7 +10026,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-037.webp",
-    "backImage": "images/front/TOY-037.webp"
+    "backImage": "images/front/TOY-037.webp",
+    "stars": null
   },
   {
     "id": "TOY-038",
@@ -9033,7 +10036,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-038.webp",
-    "backImage": "images/front/TOY-038.webp"
+    "backImage": "images/front/TOY-038.webp",
+    "stars": null
   },
   {
     "id": "TOY-039",
@@ -9042,7 +10046,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-039.webp",
-    "backImage": "images/back/TOY-039.webp"
+    "backImage": "images/back/TOY-039.webp",
+    "stars": null
   },
   {
     "id": "TOY-040",
@@ -9051,7 +10056,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-040.webp",
-    "backImage": "images/back/TOY-040.webp"
+    "backImage": "images/back/TOY-040.webp",
+    "stars": null
   },
   {
     "id": "TOY-041",
@@ -9060,7 +10066,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-041.webp",
-    "backImage": "images/back/TOY-041.webp"
+    "backImage": "images/back/TOY-041.webp",
+    "stars": null
   },
   {
     "id": "TOY-042",
@@ -9069,7 +10076,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-042.webp",
-    "backImage": "images/front/TOY-042.webp"
+    "backImage": "images/front/TOY-042.webp",
+    "stars": null
   },
   {
     "id": "TOY-043",
@@ -9078,7 +10086,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-043.webp",
-    "backImage": "images/front/TOY-043.webp"
+    "backImage": "images/front/TOY-043.webp",
+    "stars": null
   },
   {
     "id": "TOY-045",
@@ -9087,7 +10096,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-045.webp",
-    "backImage": "images/front/TOY-045.webp"
+    "backImage": "images/front/TOY-045.webp",
+    "stars": null
   },
   {
     "id": "TOY-046",
@@ -9096,7 +10106,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-046.webp",
-    "backImage": "images/front/TOY-046.webp"
+    "backImage": "images/front/TOY-046.webp",
+    "stars": null
   },
   {
     "id": "TOY-047",
@@ -9105,7 +10116,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-047.webp",
-    "backImage": "images/front/TOY-047.webp"
+    "backImage": "images/front/TOY-047.webp",
+    "stars": null
   },
   {
     "id": "TOY-048",
@@ -9114,7 +10126,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-048.webp",
-    "backImage": "images/front/TOY-048.webp"
+    "backImage": "images/front/TOY-048.webp",
+    "stars": null
   },
   {
     "id": "TOY-049",
@@ -9123,7 +10136,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-049.webp",
-    "backImage": "images/front/TOY-049.webp"
+    "backImage": "images/front/TOY-049.webp",
+    "stars": null
   },
   {
     "id": "TOY-050",
@@ -9132,7 +10146,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-050.webp",
-    "backImage": "images/back/TOY-050.webp"
+    "backImage": "images/back/TOY-050.webp",
+    "stars": null
   },
   {
     "id": "TOY-051",
@@ -9141,7 +10156,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-051.webp",
-    "backImage": "images/back/TOY-051.webp"
+    "backImage": "images/back/TOY-051.webp",
+    "stars": null
   },
   {
     "id": "TOY-052",
@@ -9150,7 +10166,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-052.webp",
-    "backImage": "images/back/TOY-052.webp"
+    "backImage": "images/back/TOY-052.webp",
+    "stars": null
   },
   {
     "id": "TOY-053",
@@ -9159,7 +10176,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-053.webp",
-    "backImage": "images/back/TOY-053.webp"
+    "backImage": "images/back/TOY-053.webp",
+    "stars": null
   },
   {
     "id": "TOY-054",
@@ -9168,7 +10186,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-054.webp",
-    "backImage": "images/back/TOY-054.webp"
+    "backImage": "images/back/TOY-054.webp",
+    "stars": null
   },
   {
     "id": "TOY-055",
@@ -9177,7 +10196,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-055.webp",
-    "backImage": "images/back/TOY-055.webp"
+    "backImage": "images/back/TOY-055.webp",
+    "stars": null
   },
   {
     "id": "TOY-056",
@@ -9186,7 +10206,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-056.webp",
-    "backImage": "images/back/TOY-056.webp"
+    "backImage": "images/back/TOY-056.webp",
+    "stars": null
   },
   {
     "id": "TOY-057",
@@ -9195,7 +10216,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-057.webp",
-    "backImage": "images/back/TOY-057.webp"
+    "backImage": "images/back/TOY-057.webp",
+    "stars": null
   },
   {
     "id": "TOY-058",
@@ -9204,7 +10226,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-058.webp",
-    "backImage": "images/back/TOY-058.webp"
+    "backImage": "images/back/TOY-058.webp",
+    "stars": null
   },
   {
     "id": "TOY-059",
@@ -9213,7 +10236,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-059.webp",
-    "backImage": "images/back/TOY-059.webp"
+    "backImage": "images/back/TOY-059.webp",
+    "stars": null
   },
   {
     "id": "TOY-060",
@@ -9222,7 +10246,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-060.webp",
-    "backImage": "images/back/TOY-060.webp"
+    "backImage": "images/back/TOY-060.webp",
+    "stars": null
   },
   {
     "id": "TOY-061",
@@ -9231,7 +10256,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-061.webp",
-    "backImage": "images/back/TOY-061.webp"
+    "backImage": "images/back/TOY-061.webp",
+    "stars": null
   },
   {
     "id": "TOY-062",
@@ -9240,7 +10266,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-062.webp",
-    "backImage": "images/back/TOY-062.webp"
+    "backImage": "images/back/TOY-062.webp",
+    "stars": null
   },
   {
     "id": "TOY-063",
@@ -9249,7 +10276,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-063.webp",
-    "backImage": "images/back/TOY-063.webp"
+    "backImage": "images/back/TOY-063.webp",
+    "stars": null
   },
   {
     "id": "TOY-064",
@@ -9258,7 +10286,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-064.webp",
-    "backImage": "images/back/TOY-064.webp"
+    "backImage": "images/back/TOY-064.webp",
+    "stars": null
   },
   {
     "id": "TOY-065",
@@ -9267,7 +10296,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-065.webp",
-    "backImage": "images/back/TOY-065.webp"
+    "backImage": "images/back/TOY-065.webp",
+    "stars": null
   },
   {
     "id": "TOY-066",
@@ -9276,7 +10306,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-066.webp",
-    "backImage": "images/back/TOY-066.webp"
+    "backImage": "images/back/TOY-066.webp",
+    "stars": null
   },
   {
     "id": "TOY-067",
@@ -9285,7 +10316,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-067.webp",
-    "backImage": "images/back/TOY-067.webp"
+    "backImage": "images/back/TOY-067.webp",
+    "stars": null
   },
   {
     "id": "TOY-068",
@@ -9294,7 +10326,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-068.webp",
-    "backImage": "images/front/TOY-068.webp"
+    "backImage": "images/front/TOY-068.webp",
+    "stars": null
   },
   {
     "id": "TOY-069",
@@ -9303,7 +10336,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-069.webp",
-    "backImage": "images/front/TOY-069.webp"
+    "backImage": "images/front/TOY-069.webp",
+    "stars": null
   },
   {
     "id": "TOY-070",
@@ -9312,7 +10346,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-070.webp",
-    "backImage": "images/front/TOY-070.webp"
+    "backImage": "images/front/TOY-070.webp",
+    "stars": null
   },
   {
     "id": "TOY-071",
@@ -9321,7 +10356,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-071.webp",
-    "backImage": "images/front/TOY-071.webp"
+    "backImage": "images/front/TOY-071.webp",
+    "stars": null
   },
   {
     "id": "TOY-072",
@@ -9330,7 +10366,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-072.webp",
-    "backImage": "images/front/TOY-072.webp"
+    "backImage": "images/front/TOY-072.webp",
+    "stars": null
   },
   {
     "id": "TOY-073",
@@ -9339,7 +10376,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-073.webp",
-    "backImage": "images/front/TOY-073.webp"
+    "backImage": "images/front/TOY-073.webp",
+    "stars": null
   },
   {
     "id": "TOY-074",
@@ -9348,7 +10386,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-074.webp",
-    "backImage": "images/front/TOY-074.webp"
+    "backImage": "images/front/TOY-074.webp",
+    "stars": null
   },
   {
     "id": "TOY-075",
@@ -9357,7 +10396,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-075.webp",
-    "backImage": "images/front/TOY-075.webp"
+    "backImage": "images/front/TOY-075.webp",
+    "stars": null
   },
   {
     "id": "TOY-076",
@@ -9366,7 +10406,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-076.webp",
-    "backImage": "images/back/TOY-076.webp"
+    "backImage": "images/back/TOY-076.webp",
+    "stars": null
   },
   {
     "id": "TOY-077",
@@ -9375,7 +10416,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-077.webp",
-    "backImage": "images/back/TOY-077.webp"
+    "backImage": "images/back/TOY-077.webp",
+    "stars": null
   },
   {
     "id": "TOY-078",
@@ -9384,7 +10426,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-078.webp",
-    "backImage": "images/back/TOY-078.webp"
+    "backImage": "images/back/TOY-078.webp",
+    "stars": null
   },
   {
     "id": "TOY-079",
@@ -9393,7 +10436,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-079.webp",
-    "backImage": "images/back/TOY-079.webp"
+    "backImage": "images/back/TOY-079.webp",
+    "stars": null
   },
   {
     "id": "TOY-080",
@@ -9402,7 +10446,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-080.webp",
-    "backImage": "images/back/TOY-080.webp"
+    "backImage": "images/back/TOY-080.webp",
+    "stars": null
   },
   {
     "id": "TOY-081",
@@ -9411,7 +10456,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-081.webp",
-    "backImage": "images/back/TOY-081.webp"
+    "backImage": "images/back/TOY-081.webp",
+    "stars": null
   },
   {
     "id": "TOY-082",
@@ -9420,7 +10466,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-082.webp",
-    "backImage": "images/front/TOY-082.webp"
+    "backImage": "images/front/TOY-082.webp",
+    "stars": null
   },
   {
     "id": "TOY-083",
@@ -9429,7 +10476,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-083.webp",
-    "backImage": "images/front/TOY-083.webp"
+    "backImage": "images/front/TOY-083.webp",
+    "stars": null
   },
   {
     "id": "TOY-084",
@@ -9438,7 +10486,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-084.webp",
-    "backImage": "images/front/TOY-084.webp"
+    "backImage": "images/front/TOY-084.webp",
+    "stars": null
   },
   {
     "id": "TOY-085",
@@ -9447,7 +10496,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-085.webp",
-    "backImage": "images/front/TOY-085.webp"
+    "backImage": "images/front/TOY-085.webp",
+    "stars": null
   },
   {
     "id": "TOY-086",
@@ -9456,7 +10506,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-086.webp",
-    "backImage": "images/front/TOY-086.webp"
+    "backImage": "images/front/TOY-086.webp",
+    "stars": null
   },
   {
     "id": "TOY-087",
@@ -9465,7 +10516,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-087.webp",
-    "backImage": "images/front/TOY-087.webp"
+    "backImage": "images/front/TOY-087.webp",
+    "stars": null
   },
   {
     "id": "TOY-088",
@@ -9474,7 +10526,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-088.webp",
-    "backImage": "images/front/TOY-088.webp"
+    "backImage": "images/front/TOY-088.webp",
+    "stars": null
   },
   {
     "id": "TOY-089",
@@ -9483,7 +10536,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-089.webp",
-    "backImage": "images/front/TOY-089.webp"
+    "backImage": "images/front/TOY-089.webp",
+    "stars": null
   },
   {
     "id": "TOY-090",
@@ -9492,7 +10546,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-090.webp",
-    "backImage": "images/back/TOY-090.webp"
+    "backImage": "images/back/TOY-090.webp",
+    "stars": null
   },
   {
     "id": "TOY-091",
@@ -9501,7 +10556,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "特典",
     "category": "特典卡",
     "frontImage": "images/front/TOY-091.webp",
-    "backImage": "images/back/TOY-091.webp"
+    "backImage": "images/back/TOY-091.webp",
+    "stars": null
   },
   {
     "id": "TOY-092",
@@ -9510,7 +10566,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-092.webp",
-    "backImage": "images/front/TOY-092.webp"
+    "backImage": "images/front/TOY-092.webp",
+    "stars": null
   },
   {
     "id": "TOY-093",
@@ -9519,7 +10576,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-093.webp",
-    "backImage": "images/front/TOY-093.webp"
+    "backImage": "images/front/TOY-093.webp",
+    "stars": null
   },
   {
     "id": "TOY-094",
@@ -9528,7 +10586,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-094.webp",
-    "backImage": "images/front/TOY-094.webp"
+    "backImage": "images/front/TOY-094.webp",
+    "stars": null
   },
   {
     "id": "TOY-095",
@@ -9537,7 +10596,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-095.webp",
-    "backImage": "images/front/TOY-095.webp"
+    "backImage": "images/front/TOY-095.webp",
+    "stars": null
   },
   {
     "id": "TOY-096",
@@ -9546,7 +10606,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-096.webp",
-    "backImage": "images/front/TOY-096.webp"
+    "backImage": "images/front/TOY-096.webp",
+    "stars": null
   },
   {
     "id": "TOY-097",
@@ -9555,7 +10616,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-097.webp",
-    "backImage": "images/front/TOY-097.webp"
+    "backImage": "images/front/TOY-097.webp",
+    "stars": null
   },
   {
     "id": "TOY-098",
@@ -9564,7 +10626,8 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-098.webp",
-    "backImage": "images/front/TOY-098.webp"
+    "backImage": "images/front/TOY-098.webp",
+    "stars": null
   },
   {
     "id": "TOY-099",
@@ -9573,6 +10636,7 @@ window.__AIPRI_CARDS__ = [
     "generation": "ミルフィーカード",
     "category": "ミルフィーカード",
     "frontImage": "images/front/TOY-099.webp",
-    "backImage": "images/front/TOY-099.webp"
+    "backImage": "images/front/TOY-099.webp",
+    "stars": null
   }
 ];
