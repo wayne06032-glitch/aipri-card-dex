@@ -1,14 +1,14 @@
-const STATIC_CACHE = "aipri-static-v1";
-const IMAGE_CACHE = "aipri-images-v1";
+const STATIC_CACHE = "aipri-static-v2";
+const IMAGE_CACHE = "aipri-images-v2";
 const STATIC_ASSETS = [
   "./",
   "./index.html",
   "./style.css",
   "./app.js",
   "./cards.json",
-  "./manifest.json",
-  "./icons/icon-192.png",
-  "./icons/icon-512.png",
+  "./manifest.json?v=20260501-2",
+  "./icons/icon-192.png?v=20260501-2",
+  "./icons/icon-512.png?v=20260501-2",
 ];
 
 self.addEventListener("install", (event) => {

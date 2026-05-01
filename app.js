@@ -7,9 +7,9 @@ const APP_SHELL_FILES = [
   "./app.js",
   "./cards-data.js",
   "./cards.json",
-  "./manifest.json",
-  "./icons/icon-192.png",
-  "./icons/icon-512.png",
+  "./manifest.json?v=20260501-2",
+  "./icons/icon-192.png?v=20260501-2",
+  "./icons/icon-512.png?v=20260501-2",
 ];
 
 const MAX_NOTE_LENGTH = 200;
@@ -1020,7 +1020,7 @@ async function prewarmShellCache() {
   }
 
   try {
-    const cache = await caches.open("aipri-app-shell-v1");
+    const cache = await caches.open("aipri-app-shell-v2");
     await cache.addAll(APP_SHELL_FILES);
   } catch (error) {
     console.warn("預熱快取失敗", error);
