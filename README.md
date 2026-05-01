@@ -31,8 +31,6 @@
 npx serve .
 ```
 
-或任何等效的靜態伺服器都可以。
-
 ## 部署到 GitHub Pages
 
 請看同資料夾內的 `DEPLOY_GITHUB_PAGES.md`。
