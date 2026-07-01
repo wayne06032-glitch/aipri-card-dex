@@ -1,0 +1,20 @@
+{
+  "name": "aipri-card-dex-capacitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "秘密偶像公主圖鑑，使用 Capacitor 打包成可離線執行的 Android APK。",
+  "scripts": {
+    "build": "node scripts/build-www.mjs",
+    "copy:web": "node scripts/build-www.mjs",
+    "cap:add:android": "npx cap add android",
+    "cap:sync:android": "npm run build && npx cap sync android",
+    "cap:open:android": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

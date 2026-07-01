@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">秘密偶像公主圖鑑</string>
+    <string name="title_activity_main">秘密偶像公主圖鑑</string>
+    <string name="package_name">com.aipri.carddex</string>
+    <string name="custom_url_scheme">com.aipri.carddex</string>
+</resources>

@@ -1,0 +1,433 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#8f6bff" />
+    <meta
+      name="description"
+      content="秘密偶像公主圖鑑 PWA，可搜尋卡片、管理 JP 與 TW 持有數量、收藏與備註。"
+    />
+    <link rel="manifest" href="manifest.json?v=20260501-2" />
+    <link rel="icon" href="icons/icon-192.png?v=20260501-2" sizes="192x192" />
+    <link rel="apple-touch-icon" href="icons/icon-192.png?v=20260501-2" />
+    <link rel="stylesheet" href="style.css" />
+    <title>秘密偶像公主圖鑑</title>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero__backdrop" aria-hidden="true"></div>
+        <div class="hero__stars" aria-hidden="true"></div>
+        <div class="hero__glow hero__glow--left" aria-hidden="true"></div>
+        <div class="hero__glow hero__glow--right" aria-hidden="true"></div>
+
+        <div class="hero__topbar">
+          <button id="openFilterButton" type="button" class="hero__icon-button" aria-label="開啟篩選"></button>
+
+          <div class="hero__brand">
+            <div class="hero__logo" aria-hidden="true"></div>
+            <div class="hero__title-wrap">
+              <h1>秘密偶像公主圖鑑</h1>
+              <p class="hero__eyebrow">ひみつのアイプリ コレクション</p>
+            </div>
+          </div>
+
+          <button id="scrollToSearchButton" type="button" class="hero__icon-button hero__icon-button--search" aria-label="前往搜尋"></button>
+        </div>
+
+        <div class="hero__stats">
+          <article class="stat-card stat-card--lavender">
+            <span class="stat-card__label">總卡片</span>
+            <strong id="totalCount">0</strong>
+            <small id="totalCountMeta">/ 0</small>
+          </article>
+          <article class="stat-card stat-card--mint">
+            <span class="stat-card__label">JP 持有</span>
+            <strong id="jpOwnedCount">0</strong>
+            <small id="jpOwnedMeta">/ 0</small>
+          </article>
+          <article class="stat-card stat-card--amber">
+            <span class="stat-card__label">TW 持有</span>
+            <strong id="twOwnedCount">0</strong>
+            <small id="twOwnedMeta">/ 0</small>
+          </article>
+          <article class="stat-card stat-card--pink">
+            <span class="stat-card__label">收藏</span>
+            <strong id="favoriteCount">0</strong>
+            <small id="favoriteCountMeta">/ 0</small>
+          </article>
+        </div>
+      </header>
+
+      <main class="content">
+        <section class="search-panel" id="searchSection">
+          <div class="search-panel__row">
+            <label class="search-box" for="searchInput">
+              <span class="search-box__icon" aria-hidden="true">⌕</span>
+              <input
+                id="searchInput"
+                type="search"
+                inputmode="search"
+                placeholder="搜尋卡名 / 角色..."
+                autocomplete="off"
+              />
+            </label>
+            <button id="toggleFilterPanelButton" type="button" class="ghost-button ghost-button--filter">
+              篩選
+            </button>
+          </div>
+
+          <div class="quick-pills">
+            <button type="button" class="quick-pill is-active" data-view="all">全部</button>
+            <button type="button" class="quick-pill" data-view="favorites">收藏</button>
+            <button type="button" class="quick-pill" data-ownership-filter="owned">已持有</button>
+            <button type="button" class="quick-pill" data-ownership-filter="partial">部分持有</button>
+            <button type="button" class="quick-pill" data-ownership-filter="none">未持有</button>
+          </div>
+
+          <div id="filterPanel" class="filter-sheet" hidden>
+            <div class="filter-sheet__header">
+              <div>
+                <p class="section-kicker">Filter</p>
+                <h2>篩選條件</h2>
+              </div>
+              <button id="resetFiltersButton" type="button" class="ghost-button ghost-button--reset">
+                重置
+              </button>
+            </div>
+
+            <div class="filter-group-grid">
+              <section class="filter-group">
+                <div class="filter-group__title-row">
+                  <h3>角色</h3>
+                </div>
+                <label class="field">
+                  <select id="characterFilter">
+                    <option value="">全部</option>
+                  </select>
+                </label>
+              </section>
+
+              <section class="filter-group">
+                <div class="filter-group__title-row">
+                  <h3>代數</h3>
+                </div>
+                <label class="field">
+                  <select id="generationFilter">
+                    <option value="">全部</option>
+                  </select>
+                </label>
+              </section>
+
+              <section class="filter-group">
+                <div class="filter-group__title-row">
+                  <h3>分類</h3>
+                </div>
+                <label class="field">
+                  <select id="categoryFilter">
+                    <option value="">全部</option>
+                  </select>
+                </label>
+              </section>
+            </div>
+
+            <section class="filter-group">
+              <div class="filter-group__title-row">
+                <h3>星數</h3>
+              </div>
+              <div class="chip-grid chip-grid--stars">
+                <button type="button" class="filter-chip is-active" data-chip-group="stars" data-chip-value="">全部</button>
+                <button type="button" class="filter-chip" data-chip-group="stars" data-chip-value="1">★</button>
+                <button type="button" class="filter-chip" data-chip-group="stars" data-chip-value="2">★★</button>
+                <button type="button" class="filter-chip" data-chip-group="stars" data-chip-value="3">★★★</button>
+                <button type="button" class="filter-chip" data-chip-group="stars" data-chip-value="4">★★★★</button>
+                <button type="button" class="filter-chip" data-chip-group="stars" data-chip-value="unknown">未知</button>
+              </div>
+              <select id="starsFilter" class="sr-only">
+                <option value="">全部</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="unknown">未知</option>
+              </select>
+            </section>
+
+            <section class="filter-group">
+              <div class="filter-group__title-row">
+                <h3>持有狀態</h3>
+              </div>
+              <div class="chip-grid">
+                <button type="button" class="filter-chip is-active" data-chip-group="ownership" data-chip-value="">全部</button>
+                <button type="button" class="filter-chip" data-chip-group="ownership" data-chip-value="owned">已持有</button>
+                <button type="button" class="filter-chip" data-chip-group="ownership" data-chip-value="partial">部分持有</button>
+                <button type="button" class="filter-chip" data-chip-group="ownership" data-chip-value="none">未持有</button>
+                <button type="button" class="filter-chip" data-chip-group="ownership" data-chip-value="jp-missing">JP 未持有</button>
+                <button type="button" class="filter-chip" data-chip-group="ownership" data-chip-value="tw-missing">TW 未持有</button>
+                <button type="button" class="filter-chip" data-chip-group="ownership" data-chip-value="favorite">收藏</button>
+              </div>
+              <select id="ownershipFilter" class="sr-only">
+                <option value="">全部</option>
+                <option value="owned">已持有</option>
+                <option value="partial">部分持有</option>
+                <option value="none">未持有</option>
+                <option value="jp-missing">JP 未持有</option>
+                <option value="tw-missing">TW 未持有</option>
+                <option value="favorite">收藏</option>
+              </select>
+            </section>
+
+            <div class="filter-sheet__footer">
+              <label class="favorite-toggle">
+                <input id="favoriteOnlyFilter" type="checkbox" />
+                <span>只看收藏</span>
+              </label>
+              <div class="filter-sheet__actions">
+                <button id="exportButton" type="button" class="ghost-button">匯出資料</button>
+                <button id="importButton" type="button" class="primary-button primary-button--soft">匯入資料</button>
+                <button id="installButton" type="button" class="ghost-button is-hidden">安裝 App</button>
+                <input id="importFileInput" type="file" accept="application/json" hidden />
+              </div>
+            </div>
+          </div>
+
+          <div class="status-row">
+            <p id="resultSummary" class="result-summary">載入中...</p>
+            <p id="activeFilterSummary" class="active-filter-summary">目前顯示全部卡片</p>
+            <p id="syncStatus" class="sync-status" aria-live="polite"></p>
+          </div>
+        </section>
+
+        <section id="cardGrid" class="card-grid" aria-live="polite"></section>
+
+        <section id="emptyState" class="empty-state" hidden>
+          <div class="empty-state__badge">No Match</div>
+          <h2>目前沒有符合條件的卡片</h2>
+          <p>可以試著清空搜尋、切回全部，或重置篩選條件。</p>
+        </section>
+
+        <section id="statsSection" class="stats-showcase">
+          <div class="stats-showcase__backdrop" aria-hidden="true"></div>
+          <div class="stats-showcase__hero">
+            <div class="stats-showcase__title">
+              <p class="section-kicker">Overview</p>
+              <h2>收藏統計</h2>
+            </div>
+            <div class="stats-showcase__totals">
+              <div class="stats-showcase__total">
+                <span>總卡片</span>
+                <strong id="statsTotalCards">0</strong>
+                <small>/ 0</small>
+              </div>
+              <div class="stats-showcase__total">
+                <span>收藏</span>
+                <strong id="statsFavorites">0</strong>
+                <small>/ 0</small>
+              </div>
+            </div>
+          </div>
+
+          <div class="stats-mini-grid">
+            <article class="stats-mini-card">
+              <span>JP 持有</span>
+              <strong id="statsJpOwned">0</strong>
+              <small>/ 0</small>
+            </article>
+            <article class="stats-mini-card">
+              <span>TW 持有</span>
+              <strong id="statsTwOwned">0</strong>
+              <small>/ 0</small>
+            </article>
+            <article class="stats-mini-card">
+              <span>收藏卡</span>
+              <strong id="statsWishlist">0</strong>
+              <small>/ 0</small>
+            </article>
+          </div>
+
+          <div class="progress-panel">
+            <div class="progress-row">
+              <div class="progress-row__label">
+                <span>已持有</span>
+                <strong id="ownedStatText">0</strong>
+              </div>
+              <div class="progress-bar"><span id="ownedStatBar"></span></div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-row__label">
+                <span>部分持有</span>
+                <strong id="partialStatText">0</strong>
+              </div>
+              <div class="progress-bar progress-bar--amber"><span id="partialStatBar"></span></div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-row__label">
+                <span>未持有</span>
+                <strong id="noneStatText">0</strong>
+              </div>
+              <div class="progress-bar progress-bar--slate"><span id="noneStatBar"></span></div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-row__label">
+                <span>JP 未持有</span>
+                <strong id="jpMissingStatText">0</strong>
+              </div>
+              <div class="progress-bar progress-bar--blue"><span id="jpMissingStatBar"></span></div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-row__label">
+                <span>TW 未持有</span>
+                <strong id="twMissingStatText">0</strong>
+              </div>
+              <div class="progress-bar progress-bar--violet"><span id="twMissingStatBar"></span></div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <nav class="bottom-nav" aria-label="主要導覽">
+        <button type="button" class="bottom-nav__button is-active" data-nav="library">
+          <span class="bottom-nav__icon" aria-hidden="true">📘</span>
+          <span>圖鑑</span>
+        </button>
+        <button type="button" class="bottom-nav__button" data-nav="favorites">
+          <span class="bottom-nav__icon" aria-hidden="true">♡</span>
+          <span>收藏</span>
+        </button>
+        <button type="button" class="bottom-nav__button" data-nav="stats">
+          <span class="bottom-nav__icon" aria-hidden="true">◔</span>
+          <span>統計</span>
+        </button>
+        <button type="button" class="bottom-nav__button" data-nav="filters">
+          <span class="bottom-nav__icon" aria-hidden="true">☰</span>
+          <span>更多</span>
+        </button>
+      </nav>
+    </div>
+
+    <dialog id="cardDialog" class="card-dialog">
+      <div class="card-dialog__panel">
+        <div class="dialog-header">
+          <button id="closeDialogButton" type="button" class="dialog-header__icon" aria-label="關閉詳細頁">
+            ←
+          </button>
+          <h2>卡片詳細資訊</h2>
+          <button
+            id="favoriteButton"
+            type="button"
+            class="dialog-header__icon dialog-header__icon--favorite"
+            aria-pressed="false"
+          >
+            ♡
+          </button>
+        </div>
+
+        <div class="dialog-media">
+          <button id="previousCardButton" type="button" class="dialog-arrow dialog-arrow--left" aria-label="上一張卡片">
+            ‹
+          </button>
+          <button id="nextCardButton" type="button" class="dialog-arrow dialog-arrow--right" aria-label="下一張卡片">
+            ›
+          </button>
+
+          <div class="dialog-media__frame">
+            <img id="dialogImage" src="" alt="" loading="eager" />
+          </div>
+
+          <div class="dialog-media__dots" aria-hidden="true">
+            <span class="dialog-dot is-active" data-dot="front"></span>
+            <span class="dialog-dot" data-dot="back"></span>
+          </div>
+
+          <div class="image-switcher">
+            <button id="showFrontButton" type="button" class="image-switcher__button is-active">正面</button>
+            <button id="showBackButton" type="button" class="image-switcher__button">背面</button>
+          </div>
+        </div>
+
+        <div class="card-dialog__content">
+          <div class="card-dialog__heading">
+            <div class="card-dialog__heading-main">
+              <div>
+                <h3 id="dialogName"></h3>
+                <p id="dialogMeta" class="card-meta"></p>
+              </div>
+              <p id="dialogCode" class="card-code"></p>
+            </div>
+            <div id="dialogStatusBadges" class="status-badges"></div>
+          </div>
+
+          <section class="detail-panel">
+            <div class="stepper-field">
+              <span>JP 持有數量</span>
+              <div class="stepper">
+                <button type="button" class="stepper__button" data-step-target="jp" data-step-delta="-1">−</button>
+                <input id="jpCountInput" type="number" inputmode="numeric" min="0" step="1" value="0" />
+                <button type="button" class="stepper__button" data-step-target="jp" data-step-delta="1">＋</button>
+              </div>
+            </div>
+
+            <div class="stepper-field">
+              <span>TW 持有數量</span>
+              <div class="stepper">
+                <button type="button" class="stepper__button" data-step-target="tw" data-step-delta="-1">−</button>
+                <input id="twCountInput" type="number" inputmode="numeric" min="0" step="1" value="0" />
+                <button type="button" class="stepper__button" data-step-target="tw" data-step-delta="1">＋</button>
+              </div>
+            </div>
+          </section>
+
+          <label class="switch-row" for="favoriteSwitch">
+            <span>加入收藏</span>
+            <input id="favoriteSwitch" type="checkbox" hidden />
+            <span class="switch-row__track"><span class="switch-row__thumb"></span></span>
+          </label>
+
+          <label class="note-field" for="noteTextarea">
+            <span>備註</span>
+            <textarea
+              id="noteTextarea"
+              rows="4"
+              maxlength="200"
+              placeholder="想收美品、朋友代購中、版本差異等都可以記在這裡。"
+            ></textarea>
+            <small id="noteCounter" class="note-counter">0 / 200</small>
+          </label>
+
+          <div class="dialog-actions">
+            <button id="dialogPreviousButton" type="button" class="ghost-button">上一張</button>
+            <button id="dialogNextButton" type="button" class="primary-button">下一張</button>
+          </div>
+        </div>
+      </div>
+    </dialog>
+
+    <template id="cardTemplate">
+      <article class="card-tile">
+        <button type="button" class="card-tile__button">
+          <div class="card-tile__topline">
+            <span class="card-code-badge"></span>
+            <span class="card-favorite" aria-hidden="true">♡</span>
+          </div>
+          <div class="card-tile__image-shell">
+            <img class="card-tile__image" src="" alt="" loading="lazy" />
+          </div>
+          <div class="card-tile__body">
+            <div class="card-tile__info-row">
+              <div class="card-tile__stars"></div>
+              <div class="card-tile__counts"></div>
+            </div>
+            <h2 class="card-tile__name"></h2>
+            <p class="card-tile__meta"></p>
+            <p class="card-tile__note" hidden></p>
+          </div>
+        </button>
+      </article>
+    </template>
+
+    <script src="cards-data.js"></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>
+

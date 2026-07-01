@@ -1,0 +1,8 @@
+{
+  "appId": "com.aipri.carddex",
+  "appName": "秘密偶像公主圖鑑",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

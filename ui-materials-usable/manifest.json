@@ -1,0 +1,886 @@
+[
+  {
+    "category": "backgrounds",
+    "name": "bg_main_strip",
+    "label": "主背景條",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\backgrounds\\bg_main_strip.png",
+    "size": {
+      "width": 396,
+      "height": 104
+    },
+    "source_box": {
+      "left": 18,
+      "top": 64,
+      "right": 414,
+      "bottom": 168
+    },
+    "transparent": false
+  },
+  {
+    "category": "backgrounds",
+    "name": "header_bg_strip",
+    "label": "Header 背景條",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\backgrounds\\header_bg_strip.png",
+    "size": {
+      "width": 393,
+      "height": 49
+    },
+    "source_box": {
+      "left": 18,
+      "top": 198,
+      "right": 411,
+      "bottom": 247
+    },
+    "transparent": false
+  },
+  {
+    "category": "backgrounds",
+    "name": "panel_bg_large",
+    "label": "大面板背景",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\backgrounds\\panel_bg_large.png",
+    "size": {
+      "width": 394,
+      "height": 110
+    },
+    "source_box": {
+      "left": 18,
+      "top": 273,
+      "right": 412,
+      "bottom": 383
+    },
+    "transparent": false
+  },
+  {
+    "category": "backgrounds",
+    "name": "panel_bg_small",
+    "label": "小面板背景",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\backgrounds\\panel_bg_small.png",
+    "size": {
+      "width": 201,
+      "height": 67
+    },
+    "source_box": {
+      "left": 18,
+      "top": 386,
+      "right": 219,
+      "bottom": 453
+    },
+    "transparent": false
+  },
+  {
+    "category": "backgrounds",
+    "name": "modal_bg_strip",
+    "label": "彈窗背景條",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\backgrounds\\modal_bg_strip.png",
+    "size": {
+      "width": 175,
+      "height": 67
+    },
+    "source_box": {
+      "left": 232,
+      "top": 386,
+      "right": 407,
+      "bottom": 453
+    },
+    "transparent": false
+  },
+  {
+    "category": "frames",
+    "name": "card_detail_frame",
+    "label": "卡片詳細大框",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\frames\\card_detail_frame.png",
+    "size": {
+      "width": 240,
+      "height": 232
+    },
+    "source_box": {
+      "left": 660,
+      "top": 76,
+      "right": 900,
+      "bottom": 308
+    },
+    "transparent": false
+  },
+  {
+    "category": "frames",
+    "name": "modal_frame_large",
+    "label": "彈窗大框",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\frames\\modal_frame_large.png",
+    "size": {
+      "width": 220,
+      "height": 258
+    },
+    "source_box": {
+      "left": 951,
+      "top": 553,
+      "right": 1171,
+      "bottom": 811
+    },
+    "transparent": false
+  },
+  {
+    "category": "frames",
+    "name": "stats_ring_block",
+    "label": "圓環統計區塊",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\frames\\stats_ring_block.png",
+    "size": {
+      "width": 212,
+      "height": 129
+    },
+    "source_box": {
+      "left": 709,
+      "top": 520,
+      "right": 921,
+      "bottom": 649
+    },
+    "transparent": false
+  },
+  {
+    "category": "buttons",
+    "name": "filter_button_apply",
+    "label": "套用篩選按鈕",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\buttons\\filter_button_apply.png",
+    "size": {
+      "width": 259,
+      "height": 72
+    },
+    "source_box": {
+      "left": 1108,
+      "top": 286,
+      "right": 1367,
+      "bottom": 358
+    },
+    "transparent": false
+  },
+  {
+    "category": "buttons",
+    "name": "filter_button_reset",
+    "label": "重置按鈕",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\buttons\\filter_button_reset.png",
+    "size": {
+      "width": 117,
+      "height": 71
+    },
+    "source_box": {
+      "left": 951,
+      "top": 286,
+      "right": 1068,
+      "bottom": 357
+    },
+    "transparent": false
+  },
+  {
+    "category": "buttons",
+    "name": "modal_title_join_collection",
+    "label": "加入收藏標題條",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\buttons\\modal_title_join_collection.png",
+    "size": {
+      "width": 315,
+      "height": 64
+    },
+    "source_box": {
+      "left": 1190,
+      "top": 528,
+      "right": 1514,
+      "bottom": 607
+    },
+    "transparent": true
+  },
+  {
+    "category": "buttons",
+    "name": "modal_button_cancel",
+    "label": "取消按鈕",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\buttons\\modal_button_cancel.png",
+    "size": {
+      "width": 119,
+      "height": 66
+    },
+    "source_box": {
+      "left": 1190,
+      "top": 620,
+      "right": 1309,
+      "bottom": 686
+    },
+    "transparent": false
+  },
+  {
+    "category": "buttons",
+    "name": "modal_button_confirm",
+    "label": "確認加入按鈕",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\buttons\\modal_button_confirm.png",
+    "size": {
+      "width": 196,
+      "height": 66
+    },
+    "source_box": {
+      "left": 1318,
+      "top": 620,
+      "right": 1514,
+      "bottom": 686
+    },
+    "transparent": false
+  },
+  {
+    "category": "buttons",
+    "name": "status_badges_strip",
+    "label": "狀態 Badge 列",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\buttons\\status_badges_strip.png",
+    "size": {
+      "width": 563,
+      "height": 75
+    },
+    "source_box": {
+      "left": 951,
+      "top": 383,
+      "right": 1514,
+      "bottom": 458
+    },
+    "transparent": false
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_back",
+    "label": "返回 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\header_icon_back.png",
+    "size": {
+      "width": 64,
+      "height": 65
+    },
+    "source_box": {
+      "left": 17,
+      "top": 590,
+      "right": 81,
+      "bottom": 655
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_menu",
+    "label": "選單 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\header_icon_menu.png",
+    "size": {
+      "width": 61,
+      "height": 65
+    },
+    "source_box": {
+      "left": 88,
+      "top": 590,
+      "right": 151,
+      "bottom": 655
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_search",
+    "label": "搜尋 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\header_icon_search.png",
+    "size": {
+      "width": 64,
+      "height": 54
+    },
+    "source_box": {
+      "left": 158,
+      "top": 590,
+      "right": 222,
+      "bottom": 655
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_heart_outline",
+    "label": "空心收藏 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\header_icon_heart_outline.png",
+    "size": {
+      "width": 63,
+      "height": 54
+    },
+    "source_box": {
+      "left": 229,
+      "top": 590,
+      "right": 292,
+      "bottom": 655
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_heart_fill",
+    "label": "實心收藏 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\header_icon_heart_fill.png",
+    "size": {
+      "width": 63,
+      "height": 54
+    },
+    "source_box": {
+      "left": 299,
+      "top": 590,
+      "right": 362,
+      "bottom": 655
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_refresh",
+    "label": "重置 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\header_icon_refresh.png",
+    "size": {
+      "width": 59,
+      "height": 61
+    },
+    "source_box": {
+      "left": 367,
+      "top": 590,
+      "right": 431,
+      "bottom": 655
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "bottom_nav_library",
+    "label": "底部導覽 圖鑑",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\bottom_nav_library.png",
+    "size": {
+      "width": 84,
+      "height": 95
+    },
+    "source_box": {
+      "left": 69,
+      "top": 726,
+      "right": 154,
+      "bottom": 821
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "bottom_nav_favorite",
+    "label": "底部導覽 收藏",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\bottom_nav_favorite.png",
+    "size": {
+      "width": 85,
+      "height": 88
+    },
+    "source_box": {
+      "left": 166,
+      "top": 726,
+      "right": 251,
+      "bottom": 821
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "bottom_nav_stats",
+    "label": "底部導覽 統計",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\bottom_nav_stats.png",
+    "size": {
+      "width": 83,
+      "height": 89
+    },
+    "source_box": {
+      "left": 265,
+      "top": 726,
+      "right": 348,
+      "bottom": 821
+    },
+    "transparent": true
+  },
+  {
+    "category": "icons",
+    "name": "bottom_nav_more",
+    "label": "底部導覽 更多",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\icons\\bottom_nav_more.png",
+    "size": {
+      "width": 40,
+      "height": 95
+    },
+    "source_box": {
+      "left": 362,
+      "top": 726,
+      "right": 431,
+      "bottom": 821
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "gem_heart_main",
+    "label": "主愛心水晶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\gem_heart_main.png",
+    "size": {
+      "width": 70,
+      "height": 88
+    },
+    "source_box": {
+      "left": 26,
+      "top": 885,
+      "right": 96,
+      "bottom": 973
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "gem_rhombus_left",
+    "label": "左菱形水晶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\gem_rhombus_left.png",
+    "size": {
+      "width": 48,
+      "height": 75
+    },
+    "source_box": {
+      "left": 111,
+      "top": 888,
+      "right": 159,
+      "bottom": 974
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "gem_rhombus_mid",
+    "label": "中菱形水晶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\gem_rhombus_mid.png",
+    "size": {
+      "width": 37,
+      "height": 75
+    },
+    "source_box": {
+      "left": 166,
+      "top": 887,
+      "right": 203,
+      "bottom": 975
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "gem_rhombus_right",
+    "label": "右菱形水晶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\gem_rhombus_right.png",
+    "size": {
+      "width": 49,
+      "height": 74
+    },
+    "source_box": {
+      "left": 206,
+      "top": 886,
+      "right": 256,
+      "bottom": 974
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "gem_small_drop",
+    "label": "小型吊墜水晶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\gem_small_drop.png",
+    "size": {
+      "width": 38,
+      "height": 44
+    },
+    "source_box": {
+      "left": 141,
+      "top": 964,
+      "right": 179,
+      "bottom": 1008
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "star_gold_large",
+    "label": "大型金星",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\star_gold_large.png",
+    "size": {
+      "width": 58,
+      "height": 58
+    },
+    "source_box": {
+      "left": 286,
+      "top": 882,
+      "right": 344,
+      "bottom": 943
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "star_pink_sparkle",
+    "label": "粉色星光",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\star_pink_sparkle.png",
+    "size": {
+      "width": 59,
+      "height": 49
+    },
+    "source_box": {
+      "left": 344,
+      "top": 885,
+      "right": 403,
+      "bottom": 934
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "star_gold_right",
+    "label": "右金星",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\star_gold_right.png",
+    "size": {
+      "width": 56,
+      "height": 43
+    },
+    "source_box": {
+      "left": 401,
+      "top": 882,
+      "right": 458,
+      "bottom": 943
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "star_blue_left",
+    "label": "藍星",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\star_blue_left.png",
+    "size": {
+      "width": 58,
+      "height": 55
+    },
+    "source_box": {
+      "left": 286,
+      "top": 945,
+      "right": 344,
+      "bottom": 1001
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "star_violet_center",
+    "label": "紫星",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\star_violet_center.png",
+    "size": {
+      "width": 50,
+      "height": 54
+    },
+    "source_box": {
+      "left": 344,
+      "top": 946,
+      "right": 402,
+      "bottom": 1002
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "star_sparkle_cluster",
+    "label": "星點群",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\star_sparkle_cluster.png",
+    "size": {
+      "width": 60,
+      "height": 28
+    },
+    "source_box": {
+      "left": 397,
+      "top": 946,
+      "right": 463,
+      "bottom": 1002
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "heart_cluster_pink",
+    "label": "粉愛心群",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\heart_cluster_pink.png",
+    "size": {
+      "width": 76,
+      "height": 65
+    },
+    "source_box": {
+      "left": 541,
+      "top": 885,
+      "right": 617,
+      "bottom": 950
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "heart_cluster_blue",
+    "label": "藍愛心群",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\heart_cluster_blue.png",
+    "size": {
+      "width": 55,
+      "height": 65
+    },
+    "source_box": {
+      "left": 617,
+      "top": 885,
+      "right": 672,
+      "bottom": 950
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "heart_outline_large",
+    "label": "大愛心框",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\heart_outline_large.png",
+    "size": {
+      "width": 56,
+      "height": 51
+    },
+    "source_box": {
+      "left": 675,
+      "top": 882,
+      "right": 731,
+      "bottom": 950
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "bow_main",
+    "label": "蝴蝶結",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\bow_main.png",
+    "size": {
+      "width": 69,
+      "height": 33
+    },
+    "source_box": {
+      "left": 683,
+      "top": 934,
+      "right": 756,
+      "bottom": 1007
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "triangle_main",
+    "label": "主三角裝飾",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\triangle_main.png",
+    "size": {
+      "width": 77,
+      "height": 53
+    },
+    "source_box": {
+      "left": 803,
+      "top": 929,
+      "right": 880,
+      "bottom": 1002
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "geometry_cluster",
+    "label": "幾何碎片群",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\geometry_cluster.png",
+    "size": {
+      "width": 177,
+      "height": 98
+    },
+    "source_box": {
+      "left": 781,
+      "top": 886,
+      "right": 965,
+      "bottom": 1003
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "glow_pink_left",
+    "label": "左粉光",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\glow_pink_left.png",
+    "size": {
+      "width": 81,
+      "height": 82
+    },
+    "source_box": {
+      "left": 987,
+      "top": 887,
+      "right": 1068,
+      "bottom": 969
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "glow_purple_ring",
+    "label": "紫色光環",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\glow_purple_ring.png",
+    "size": {
+      "width": 86,
+      "height": 86
+    },
+    "source_box": {
+      "left": 1063,
+      "top": 885,
+      "right": 1149,
+      "bottom": 971
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "glow_white_orb",
+    "label": "白色光球",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\glow_white_orb.png",
+    "size": {
+      "width": 60,
+      "height": 82
+    },
+    "source_box": {
+      "left": 1148,
+      "top": 886,
+      "right": 1210,
+      "bottom": 968
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "glow_orange_orb",
+    "label": "橘色光球",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\glow_orange_orb.png",
+    "size": {
+      "width": 74,
+      "height": 27
+    },
+    "source_box": {
+      "left": 986,
+      "top": 967,
+      "right": 1068,
+      "bottom": 1012
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "glow_pink_ring_small",
+    "label": "粉色小光環",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\glow_pink_ring_small.png",
+    "size": {
+      "width": 82,
+      "height": 25
+    },
+    "source_box": {
+      "left": 1066,
+      "top": 969,
+      "right": 1148,
+      "bottom": 1012
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "glow_cyan_orb",
+    "label": "青色光球",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\glow_cyan_orb.png",
+    "size": {
+      "width": 59,
+      "height": 27
+    },
+    "source_box": {
+      "left": 1149,
+      "top": 968,
+      "right": 1210,
+      "bottom": 1011
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "crown_main",
+    "label": "皇冠",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\crown_main.png",
+    "size": {
+      "width": 68,
+      "height": 55
+    },
+    "source_box": {
+      "left": 1236,
+      "top": 906,
+      "right": 1304,
+      "bottom": 961
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "wing_left",
+    "label": "左翅膀",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\wing_left.png",
+    "size": {
+      "width": 60,
+      "height": 56
+    },
+    "source_box": {
+      "left": 1312,
+      "top": 905,
+      "right": 1372,
+      "bottom": 961
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "side_gem_purple",
+    "label": "紫色側飾",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\side_gem_purple.png",
+    "size": {
+      "width": 60,
+      "height": 56
+    },
+    "source_box": {
+      "left": 1380,
+      "top": 905,
+      "right": 1440,
+      "bottom": 961
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "ribbon_main",
+    "label": "緞帶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\ribbon_main.png",
+    "size": {
+      "width": 187,
+      "height": 34
+    },
+    "source_box": {
+      "left": 1231,
+      "top": 957,
+      "right": 1418,
+      "bottom": 1008
+    },
+    "transparent": true
+  },
+  {
+    "category": "decor",
+    "name": "frame_circle",
+    "label": "圓形花框",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-usable\\decor\\frame_circle.png",
+    "size": {
+      "width": 73,
+      "height": 104
+    },
+    "source_box": {
+      "left": 1422,
+      "top": 885,
+      "right": 1512,
+      "bottom": 1008
+    },
+    "transparent": true
+  }
+]

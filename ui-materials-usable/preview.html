@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang='zh-Hant'>
+<head>
+<meta charset='UTF-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1' />
+<title>UI Materials Preview</title>
+<style>
+body{font-family:'Segoe UI','Noto Sans TC',sans-serif;background:#faf5ff;color:#4b3869;margin:0;padding:24px;}
+h1{margin:0 0 8px;} h2{margin:28px 0 12px;}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px;}
+.card{background:white;border:1px solid #eadcff;border-radius:18px;padding:12px;box-shadow:0 10px 24px rgba(128,88,181,.08);}
+.thumb{display:grid;place-items:center;min-height:110px;padding:10px;border-radius:14px;background:linear-gradient(180deg,#fff,#fcf6ff);background-image:radial-gradient(circle at top left,rgba(255,204,233,.42),transparent 35%),radial-gradient(circle at bottom right,rgba(196,206,255,.35),transparent 32%);}
+.thumb img{max-width:100%;max-height:140px;}
+.meta{margin-top:10px;font-size:12px;line-height:1.5;word-break:break-word;}
+.path{color:#8b79aa;}
+</style>
+</head>
+<body>
+<h1>UI 素材預覽</h1>
+<p>這批素材已細拆並依用途分類，可直接挑路徑掛到 PWA。</p>
+<h2>backgrounds</h2>
+<div class='grid'>
+<article class='card'><div class='thumb'><img src='backgrounds/bg_main_strip.png' alt='主背景條' /></div><div class='meta'><strong>bg_main_strip</strong><br />主背景條<br /><span class='path'>backgrounds/bg_main_strip.png</span><br />396x104</div></article>
+<article class='card'><div class='thumb'><img src='backgrounds/header_bg_strip.png' alt='Header 背景條' /></div><div class='meta'><strong>header_bg_strip</strong><br />Header 背景條<br /><span class='path'>backgrounds/header_bg_strip.png</span><br />393x49</div></article>
+<article class='card'><div class='thumb'><img src='backgrounds/panel_bg_large.png' alt='大面板背景' /></div><div class='meta'><strong>panel_bg_large</strong><br />大面板背景<br /><span class='path'>backgrounds/panel_bg_large.png</span><br />394x110</div></article>
+<article class='card'><div class='thumb'><img src='backgrounds/panel_bg_small.png' alt='小面板背景' /></div><div class='meta'><strong>panel_bg_small</strong><br />小面板背景<br /><span class='path'>backgrounds/panel_bg_small.png</span><br />201x67</div></article>
+<article class='card'><div class='thumb'><img src='backgrounds/modal_bg_strip.png' alt='彈窗背景條' /></div><div class='meta'><strong>modal_bg_strip</strong><br />彈窗背景條<br /><span class='path'>backgrounds/modal_bg_strip.png</span><br />175x67</div></article>
+</div>
+<h2>buttons</h2>
+<div class='grid'>
+<article class='card'><div class='thumb'><img src='buttons/filter_button_apply.png' alt='套用篩選按鈕' /></div><div class='meta'><strong>filter_button_apply</strong><br />套用篩選按鈕<br /><span class='path'>buttons/filter_button_apply.png</span><br />259x72</div></article>
+<article class='card'><div class='thumb'><img src='buttons/filter_button_reset.png' alt='重置按鈕' /></div><div class='meta'><strong>filter_button_reset</strong><br />重置按鈕<br /><span class='path'>buttons/filter_button_reset.png</span><br />117x71</div></article>
+<article class='card'><div class='thumb'><img src='buttons/modal_title_join_collection.png' alt='加入收藏標題條' /></div><div class='meta'><strong>modal_title_join_collection</strong><br />加入收藏標題條<br /><span class='path'>buttons/modal_title_join_collection.png</span><br />315x64</div></article>
+<article class='card'><div class='thumb'><img src='buttons/modal_button_cancel.png' alt='取消按鈕' /></div><div class='meta'><strong>modal_button_cancel</strong><br />取消按鈕<br /><span class='path'>buttons/modal_button_cancel.png</span><br />119x66</div></article>
+<article class='card'><div class='thumb'><img src='buttons/modal_button_confirm.png' alt='確認加入按鈕' /></div><div class='meta'><strong>modal_button_confirm</strong><br />確認加入按鈕<br /><span class='path'>buttons/modal_button_confirm.png</span><br />196x66</div></article>
+<article class='card'><div class='thumb'><img src='buttons/status_badges_strip.png' alt='狀態 Badge 列' /></div><div class='meta'><strong>status_badges_strip</strong><br />狀態 Badge 列<br /><span class='path'>buttons/status_badges_strip.png</span><br />563x75</div></article>
+</div>
+<h2>decor</h2>
+<div class='grid'>
+<article class='card'><div class='thumb'><img src='decor/gem_heart_main.png' alt='主愛心水晶' /></div><div class='meta'><strong>gem_heart_main</strong><br />主愛心水晶<br /><span class='path'>decor/gem_heart_main.png</span><br />70x88</div></article>
+<article class='card'><div class='thumb'><img src='decor/gem_rhombus_left.png' alt='左菱形水晶' /></div><div class='meta'><strong>gem_rhombus_left</strong><br />左菱形水晶<br /><span class='path'>decor/gem_rhombus_left.png</span><br />48x75</div></article>
+<article class='card'><div class='thumb'><img src='decor/gem_rhombus_mid.png' alt='中菱形水晶' /></div><div class='meta'><strong>gem_rhombus_mid</strong><br />中菱形水晶<br /><span class='path'>decor/gem_rhombus_mid.png</span><br />37x75</div></article>
+<article class='card'><div class='thumb'><img src='decor/gem_rhombus_right.png' alt='右菱形水晶' /></div><div class='meta'><strong>gem_rhombus_right</strong><br />右菱形水晶<br /><span class='path'>decor/gem_rhombus_right.png</span><br />49x74</div></article>
+<article class='card'><div class='thumb'><img src='decor/gem_small_drop.png' alt='小型吊墜水晶' /></div><div class='meta'><strong>gem_small_drop</strong><br />小型吊墜水晶<br /><span class='path'>decor/gem_small_drop.png</span><br />38x44</div></article>
+<article class='card'><div class='thumb'><img src='decor/star_gold_large.png' alt='大型金星' /></div><div class='meta'><strong>star_gold_large</strong><br />大型金星<br /><span class='path'>decor/star_gold_large.png</span><br />58x58</div></article>
+<article class='card'><div class='thumb'><img src='decor/star_pink_sparkle.png' alt='粉色星光' /></div><div class='meta'><strong>star_pink_sparkle</strong><br />粉色星光<br /><span class='path'>decor/star_pink_sparkle.png</span><br />59x49</div></article>
+<article class='card'><div class='thumb'><img src='decor/star_gold_right.png' alt='右金星' /></div><div class='meta'><strong>star_gold_right</strong><br />右金星<br /><span class='path'>decor/star_gold_right.png</span><br />56x43</div></article>
+<article class='card'><div class='thumb'><img src='decor/star_blue_left.png' alt='藍星' /></div><div class='meta'><strong>star_blue_left</strong><br />藍星<br /><span class='path'>decor/star_blue_left.png</span><br />58x55</div></article>
+<article class='card'><div class='thumb'><img src='decor/star_violet_center.png' alt='紫星' /></div><div class='meta'><strong>star_violet_center</strong><br />紫星<br /><span class='path'>decor/star_violet_center.png</span><br />50x54</div></article>
+<article class='card'><div class='thumb'><img src='decor/star_sparkle_cluster.png' alt='星點群' /></div><div class='meta'><strong>star_sparkle_cluster</strong><br />星點群<br /><span class='path'>decor/star_sparkle_cluster.png</span><br />60x28</div></article>
+<article class='card'><div class='thumb'><img src='decor/heart_cluster_pink.png' alt='粉愛心群' /></div><div class='meta'><strong>heart_cluster_pink</strong><br />粉愛心群<br /><span class='path'>decor/heart_cluster_pink.png</span><br />76x65</div></article>
+<article class='card'><div class='thumb'><img src='decor/heart_cluster_blue.png' alt='藍愛心群' /></div><div class='meta'><strong>heart_cluster_blue</strong><br />藍愛心群<br /><span class='path'>decor/heart_cluster_blue.png</span><br />55x65</div></article>
+<article class='card'><div class='thumb'><img src='decor/heart_outline_large.png' alt='大愛心框' /></div><div class='meta'><strong>heart_outline_large</strong><br />大愛心框<br /><span class='path'>decor/heart_outline_large.png</span><br />56x51</div></article>
+<article class='card'><div class='thumb'><img src='decor/bow_main.png' alt='蝴蝶結' /></div><div class='meta'><strong>bow_main</strong><br />蝴蝶結<br /><span class='path'>decor/bow_main.png</span><br />69x33</div></article>
+<article class='card'><div class='thumb'><img src='decor/triangle_main.png' alt='主三角裝飾' /></div><div class='meta'><strong>triangle_main</strong><br />主三角裝飾<br /><span class='path'>decor/triangle_main.png</span><br />77x53</div></article>
+<article class='card'><div class='thumb'><img src='decor/geometry_cluster.png' alt='幾何碎片群' /></div><div class='meta'><strong>geometry_cluster</strong><br />幾何碎片群<br /><span class='path'>decor/geometry_cluster.png</span><br />177x98</div></article>
+<article class='card'><div class='thumb'><img src='decor/glow_pink_left.png' alt='左粉光' /></div><div class='meta'><strong>glow_pink_left</strong><br />左粉光<br /><span class='path'>decor/glow_pink_left.png</span><br />81x82</div></article>
+<article class='card'><div class='thumb'><img src='decor/glow_purple_ring.png' alt='紫色光環' /></div><div class='meta'><strong>glow_purple_ring</strong><br />紫色光環<br /><span class='path'>decor/glow_purple_ring.png</span><br />86x86</div></article>
+<article class='card'><div class='thumb'><img src='decor/glow_white_orb.png' alt='白色光球' /></div><div class='meta'><strong>glow_white_orb</strong><br />白色光球<br /><span class='path'>decor/glow_white_orb.png</span><br />60x82</div></article>
+<article class='card'><div class='thumb'><img src='decor/glow_orange_orb.png' alt='橘色光球' /></div><div class='meta'><strong>glow_orange_orb</strong><br />橘色光球<br /><span class='path'>decor/glow_orange_orb.png</span><br />74x27</div></article>
+<article class='card'><div class='thumb'><img src='decor/glow_pink_ring_small.png' alt='粉色小光環' /></div><div class='meta'><strong>glow_pink_ring_small</strong><br />粉色小光環<br /><span class='path'>decor/glow_pink_ring_small.png</span><br />82x25</div></article>
+<article class='card'><div class='thumb'><img src='decor/glow_cyan_orb.png' alt='青色光球' /></div><div class='meta'><strong>glow_cyan_orb</strong><br />青色光球<br /><span class='path'>decor/glow_cyan_orb.png</span><br />59x27</div></article>
+<article class='card'><div class='thumb'><img src='decor/crown_main.png' alt='皇冠' /></div><div class='meta'><strong>crown_main</strong><br />皇冠<br /><span class='path'>decor/crown_main.png</span><br />68x55</div></article>
+<article class='card'><div class='thumb'><img src='decor/wing_left.png' alt='左翅膀' /></div><div class='meta'><strong>wing_left</strong><br />左翅膀<br /><span class='path'>decor/wing_left.png</span><br />60x56</div></article>
+<article class='card'><div class='thumb'><img src='decor/side_gem_purple.png' alt='紫色側飾' /></div><div class='meta'><strong>side_gem_purple</strong><br />紫色側飾<br /><span class='path'>decor/side_gem_purple.png</span><br />60x56</div></article>
+<article class='card'><div class='thumb'><img src='decor/ribbon_main.png' alt='緞帶' /></div><div class='meta'><strong>ribbon_main</strong><br />緞帶<br /><span class='path'>decor/ribbon_main.png</span><br />187x34</div></article>
+<article class='card'><div class='thumb'><img src='decor/frame_circle.png' alt='圓形花框' /></div><div class='meta'><strong>frame_circle</strong><br />圓形花框<br /><span class='path'>decor/frame_circle.png</span><br />73x104</div></article>
+</div>
+<h2>frames</h2>
+<div class='grid'>
+<article class='card'><div class='thumb'><img src='frames/card_detail_frame.png' alt='卡片詳細大框' /></div><div class='meta'><strong>card_detail_frame</strong><br />卡片詳細大框<br /><span class='path'>frames/card_detail_frame.png</span><br />240x232</div></article>
+<article class='card'><div class='thumb'><img src='frames/modal_frame_large.png' alt='彈窗大框' /></div><div class='meta'><strong>modal_frame_large</strong><br />彈窗大框<br /><span class='path'>frames/modal_frame_large.png</span><br />220x258</div></article>
+<article class='card'><div class='thumb'><img src='frames/stats_ring_block.png' alt='圓環統計區塊' /></div><div class='meta'><strong>stats_ring_block</strong><br />圓環統計區塊<br /><span class='path'>frames/stats_ring_block.png</span><br />212x129</div></article>
+</div>
+<h2>icons</h2>
+<div class='grid'>
+<article class='card'><div class='thumb'><img src='icons/header_icon_back.png' alt='返回 icon' /></div><div class='meta'><strong>header_icon_back</strong><br />返回 icon<br /><span class='path'>icons/header_icon_back.png</span><br />64x65</div></article>
+<article class='card'><div class='thumb'><img src='icons/header_icon_menu.png' alt='選單 icon' /></div><div class='meta'><strong>header_icon_menu</strong><br />選單 icon<br /><span class='path'>icons/header_icon_menu.png</span><br />61x65</div></article>
+<article class='card'><div class='thumb'><img src='icons/header_icon_search.png' alt='搜尋 icon' /></div><div class='meta'><strong>header_icon_search</strong><br />搜尋 icon<br /><span class='path'>icons/header_icon_search.png</span><br />64x54</div></article>
+<article class='card'><div class='thumb'><img src='icons/header_icon_heart_outline.png' alt='空心收藏 icon' /></div><div class='meta'><strong>header_icon_heart_outline</strong><br />空心收藏 icon<br /><span class='path'>icons/header_icon_heart_outline.png</span><br />63x54</div></article>
+<article class='card'><div class='thumb'><img src='icons/header_icon_heart_fill.png' alt='實心收藏 icon' /></div><div class='meta'><strong>header_icon_heart_fill</strong><br />實心收藏 icon<br /><span class='path'>icons/header_icon_heart_fill.png</span><br />63x54</div></article>
+<article class='card'><div class='thumb'><img src='icons/header_icon_refresh.png' alt='重置 icon' /></div><div class='meta'><strong>header_icon_refresh</strong><br />重置 icon<br /><span class='path'>icons/header_icon_refresh.png</span><br />59x61</div></article>
+<article class='card'><div class='thumb'><img src='icons/bottom_nav_library.png' alt='底部導覽 圖鑑' /></div><div class='meta'><strong>bottom_nav_library</strong><br />底部導覽 圖鑑<br /><span class='path'>icons/bottom_nav_library.png</span><br />84x95</div></article>
+<article class='card'><div class='thumb'><img src='icons/bottom_nav_favorite.png' alt='底部導覽 收藏' /></div><div class='meta'><strong>bottom_nav_favorite</strong><br />底部導覽 收藏<br /><span class='path'>icons/bottom_nav_favorite.png</span><br />85x88</div></article>
+<article class='card'><div class='thumb'><img src='icons/bottom_nav_stats.png' alt='底部導覽 統計' /></div><div class='meta'><strong>bottom_nav_stats</strong><br />底部導覽 統計<br /><span class='path'>icons/bottom_nav_stats.png</span><br />83x89</div></article>
+<article class='card'><div class='thumb'><img src='icons/bottom_nav_more.png' alt='底部導覽 更多' /></div><div class='meta'><strong>bottom_nav_more</strong><br />底部導覽 更多<br /><span class='path'>icons/bottom_nav_more.png</span><br />40x95</div></article>
+</div>
+</body>
+</html>

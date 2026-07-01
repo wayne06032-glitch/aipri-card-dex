@@ -1,0 +1,302 @@
+[
+  {
+    "category": "backgrounds",
+    "name": "header_bg_strip",
+    "label": "Header 背景條",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\backgrounds\\header_bg_strip.png",
+    "usage": "header 背景橫條，可作為 banner 背景圖",
+    "size": {
+      "width": 393,
+      "height": 49
+    },
+    "mode": "opaque"
+  },
+  {
+    "category": "backgrounds",
+    "name": "bg_sparkle_strip",
+    "label": "星光背景條",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\backgrounds\\bg_sparkle_strip.png",
+    "usage": "頁面局部星光背景，可放 hero 下層或 section 背景",
+    "size": {
+      "width": 396,
+      "height": 104
+    },
+    "mode": "opaque"
+  },
+  {
+    "category": "overlays",
+    "name": "card_detail_frame_overlay",
+    "label": "卡片詳細框 overlay",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\overlays\\card_detail_frame_overlay.png",
+    "usage": "透明疊框，適合 absolute overlay 在卡片詳細圖外層",
+    "size": {
+      "width": 240,
+      "height": 232
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "overlays",
+    "name": "modal_frame_overlay",
+    "label": "彈窗大框 overlay",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\overlays\\modal_frame_overlay.png",
+    "usage": "透明疊框，適合用在 modal 或大白色面板外層",
+    "size": {
+      "width": 220,
+      "height": 258
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "overlays",
+    "name": "join_collection_title_overlay",
+    "label": "加入收藏標題條 overlay",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\overlays\\join_collection_title_overlay.png",
+    "usage": "透明標題條，適合固定寬度 modal header 裝飾",
+    "size": {
+      "width": 315,
+      "height": 62
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "overlays",
+    "name": "filter_apply_button_bg",
+    "label": "套用篩選按鈕底圖",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\overlays\\filter_apply_button_bg.png",
+    "usage": "可當固定寬度 CTA 背景參考，不建議拉伸過大",
+    "size": {
+      "width": 259,
+      "height": 72
+    },
+    "mode": "opaque"
+  },
+  {
+    "category": "overlays",
+    "name": "filter_reset_button_bg",
+    "label": "重置按鈕底圖",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\overlays\\filter_reset_button_bg.png",
+    "usage": "可當次要按鈕底圖參考，不建議直接覆蓋文字",
+    "size": {
+      "width": 117,
+      "height": 71
+    },
+    "mode": "opaque"
+  },
+  {
+    "category": "decor",
+    "name": "crown_main",
+    "label": "皇冠",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\crown_main.png",
+    "usage": "可直接放 header、title 或 card corner",
+    "size": {
+      "width": 68,
+      "height": 55
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "wing_left",
+    "label": "左翅膀",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\wing_left.png",
+    "usage": "可搭配皇冠做標題裝飾",
+    "size": {
+      "width": 60,
+      "height": 56
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "side_gem_purple",
+    "label": "紫色側飾",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\side_gem_purple.png",
+    "usage": "可用於 panel 邊角裝飾",
+    "size": {
+      "width": 60,
+      "height": 56
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "ribbon_main",
+    "label": "緞帶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\ribbon_main.png",
+    "usage": "適合 section title 或 badge 下方裝飾",
+    "size": {
+      "width": 187,
+      "height": 32
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "frame_circle",
+    "label": "圓形花框",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\frame_circle.png",
+    "usage": "適合頭像、icon 外框或統計圓框裝飾",
+    "size": {
+      "width": 73,
+      "height": 90
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "gem_heart_main",
+    "label": "主愛心水晶",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\gem_heart_main.png",
+    "usage": "適合統計區或收藏圖示",
+    "size": {
+      "width": 70,
+      "height": 88
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "star_gold_large",
+    "label": "大型金星",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\star_gold_large.png",
+    "usage": "適合 hero、卡框角落",
+    "size": {
+      "width": 51,
+      "height": 57
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "star_pink_sparkle",
+    "label": "粉色星光",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\star_pink_sparkle.png",
+    "usage": "適合按鈕上方或背景散佈",
+    "size": {
+      "width": 57,
+      "height": 49
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "star_sparkle_cluster",
+    "label": "星點群",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\star_sparkle_cluster.png",
+    "usage": "適合背景點綴",
+    "size": {
+      "width": 59,
+      "height": 27
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "heart_outline_large",
+    "label": "大愛心框",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\heart_outline_large.png",
+    "usage": "適合收藏 icon 附近或統計區裝飾",
+    "size": {
+      "width": 42,
+      "height": 51
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "bow_main",
+    "label": "蝴蝶結",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\bow_main.png",
+    "usage": "適合 modal 標題或卡片底部點綴",
+    "size": {
+      "width": 56,
+      "height": 33
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "triangle_main",
+    "label": "主三角裝飾",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\triangle_main.png",
+    "usage": "適合背景幾何裝飾",
+    "size": {
+      "width": 77,
+      "height": 53
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "geometry_cluster",
+    "label": "幾何碎片群",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\geometry_cluster.png",
+    "usage": "適合大背景角落裝飾",
+    "size": {
+      "width": 164,
+      "height": 97
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "glow_purple_ring",
+    "label": "紫色光環",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\glow_purple_ring.png",
+    "usage": "適合統計圖或按鈕光效",
+    "size": {
+      "width": 86,
+      "height": 86
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "decor",
+    "name": "glow_white_orb",
+    "label": "白色光球",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\decor\\glow_white_orb.png",
+    "usage": "適合背景柔光點綴",
+    "size": {
+      "width": 59,
+      "height": 82
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_menu",
+    "label": "選單 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\icons\\header_icon_menu.png",
+    "usage": "可改成背景圖或 img icon",
+    "size": {
+      "width": 46,
+      "height": 51
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_search",
+    "label": "搜尋 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\icons\\header_icon_search.png",
+    "usage": "可放搜尋按鈕",
+    "size": {
+      "width": 64,
+      "height": 51
+    },
+    "mode": "light_to_alpha"
+  },
+  {
+    "category": "icons",
+    "name": "header_icon_heart_fill",
+    "label": "實心收藏 icon",
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-apply-ready\\icons\\header_icon_heart_fill.png",
+    "usage": "可放收藏按鈕",
+    "size": {
+      "width": 63,
+      "height": 51
+    },
+    "mode": "light_to_alpha"
+  }
+]

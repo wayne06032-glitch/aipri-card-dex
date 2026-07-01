@@ -1,0 +1,31 @@
+/* Apply-ready asset usage examples */
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("./backgrounds/header_bg_strip.png") center/cover no-repeat;
+  opacity: .92;
+}
+
+.hero__crown {
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  width: 42px;
+  height: 34px;
+  background: url("./decor/crown_main.png") center/contain no-repeat;
+}
+
+.detail-frame-overlay {
+  position: absolute;
+  inset: 0;
+  background: url("./overlays/card_detail_frame_overlay.png") center/contain no-repeat;
+  pointer-events: none;
+}
+
+.modal-frame-overlay {
+  position: absolute;
+  inset: 0;
+  background: url("./overlays/modal_frame_overlay.png") center/100% 100% no-repeat;
+  pointer-events: none;
+}

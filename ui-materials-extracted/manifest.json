@@ -1,0 +1,450 @@
+[
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\01_background_main.png",
+    "label": "?????",
+    "box": {
+      "left": 18,
+      "top": 64,
+      "right": 414,
+      "bottom": 168
+    },
+    "size": {
+      "width": 396,
+      "height": 104
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\02_header_background.png",
+    "label": "Header ???",
+    "box": {
+      "left": 18,
+      "top": 198,
+      "right": 411,
+      "bottom": 247
+    },
+    "size": {
+      "width": 393,
+      "height": 49
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\03_panel_background_large.png",
+    "label": "?????",
+    "box": {
+      "left": 18,
+      "top": 273,
+      "right": 412,
+      "bottom": 383
+    },
+    "size": {
+      "width": 394,
+      "height": 110
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\04_panel_background_small.png",
+    "label": "?????",
+    "box": {
+      "left": 18,
+      "top": 386,
+      "right": 219,
+      "bottom": 453
+    },
+    "size": {
+      "width": 201,
+      "height": 67
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\05_modal_background.png",
+    "label": "????",
+    "box": {
+      "left": 232,
+      "top": 386,
+      "right": 407,
+      "bottom": 453
+    },
+    "size": {
+      "width": 175,
+      "height": 67
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\06_header_sample.png",
+    "label": "Header ????",
+    "box": {
+      "left": 18,
+      "top": 504,
+      "right": 412,
+      "bottom": 566
+    },
+    "size": {
+      "width": 394,
+      "height": 62
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\07_header_icons_row.png",
+    "label": "Header icon ???",
+    "box": {
+      "left": 18,
+      "top": 579,
+      "right": 410,
+      "bottom": 687
+    },
+    "size": {
+      "width": 392,
+      "height": 108
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\08_bottom_nav_default.png",
+    "label": "????????",
+    "box": {
+      "left": 18,
+      "top": 723,
+      "right": 410,
+      "bottom": 775
+    },
+    "size": {
+      "width": 392,
+      "height": 52
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\09_bottom_nav_selected.png",
+    "label": "????????",
+    "box": {
+      "left": 18,
+      "top": 779,
+      "right": 410,
+      "bottom": 826
+    },
+    "size": {
+      "width": 392,
+      "height": 47
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\10_card_frame.png",
+    "label": "??????",
+    "box": {
+      "left": 460,
+      "top": 74,
+      "right": 623,
+      "bottom": 347
+    },
+    "size": {
+      "width": 163,
+      "height": 273
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\11_card_detail_frame.png",
+    "label": "???????",
+    "box": {
+      "left": 655,
+      "top": 76,
+      "right": 918,
+      "bottom": 310
+    },
+    "size": {
+      "width": 263,
+      "height": 234
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\12_card_meta_sample.png",
+    "label": "??????????",
+    "box": {
+      "left": 460,
+      "top": 347,
+      "right": 923,
+      "bottom": 489
+    },
+    "size": {
+      "width": 463,
+      "height": 142
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\13_stats_cards.png",
+    "label": "??????",
+    "box": {
+      "left": 452,
+      "top": 520,
+      "right": 699,
+      "bottom": 649
+    },
+    "size": {
+      "width": 247,
+      "height": 129
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\14_stats_ring.png",
+    "label": "??????",
+    "box": {
+      "left": 709,
+      "top": 520,
+      "right": 921,
+      "bottom": 649
+    },
+    "size": {
+      "width": 212,
+      "height": 129
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\15_stats_bars.png",
+    "label": "???????",
+    "box": {
+      "left": 460,
+      "top": 668,
+      "right": 699,
+      "bottom": 785
+    },
+    "size": {
+      "width": 239,
+      "height": 117
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\16_stats_flow.png",
+    "label": "??????",
+    "box": {
+      "left": 717,
+      "top": 718,
+      "right": 920,
+      "bottom": 785
+    },
+    "size": {
+      "width": 203,
+      "height": 67
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\17_filter_chips_basic.png",
+    "label": "?? Chip ??/??/???",
+    "box": {
+      "left": 951,
+      "top": 74,
+      "right": 1208,
+      "bottom": 109
+    },
+    "size": {
+      "width": 257,
+      "height": 35
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\18_filter_stars.png",
+    "label": "?????",
+    "box": {
+      "left": 1209,
+      "top": 74,
+      "right": 1514,
+      "bottom": 110
+    },
+    "size": {
+      "width": 305,
+      "height": 36
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\19_filter_selects.png",
+    "label": "??????",
+    "box": {
+      "left": 951,
+      "top": 145,
+      "right": 1513,
+      "bottom": 181
+    },
+    "size": {
+      "width": 562,
+      "height": 36
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\20_filter_statuses.png",
+    "label": "???????",
+    "box": {
+      "left": 951,
+      "top": 215,
+      "right": 1513,
+      "bottom": 251
+    },
+    "size": {
+      "width": 562,
+      "height": 36
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\21_filter_buttons.png",
+    "label": "?????????",
+    "box": {
+      "left": 951,
+      "top": 285,
+      "right": 1514,
+      "bottom": 360
+    },
+    "size": {
+      "width": 563,
+      "height": 75
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\22_status_badges.png",
+    "label": "?? Badge ??",
+    "box": {
+      "left": 951,
+      "top": 383,
+      "right": 1514,
+      "bottom": 458
+    },
+    "size": {
+      "width": 563,
+      "height": 75
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\23_modal_frame_large.png",
+    "label": "????",
+    "box": {
+      "left": 951,
+      "top": 526,
+      "right": 1173,
+      "bottom": 811
+    },
+    "size": {
+      "width": 222,
+      "height": 285
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\24_modal_title_bar.png",
+    "label": "?????",
+    "box": {
+      "left": 1191,
+      "top": 529,
+      "right": 1515,
+      "bottom": 607
+    },
+    "size": {
+      "width": 324,
+      "height": 78
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\25_modal_buttons.png",
+    "label": "????",
+    "box": {
+      "left": 1190,
+      "top": 620,
+      "right": 1515,
+      "bottom": 688
+    },
+    "size": {
+      "width": 325,
+      "height": 68
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\26_modal_input_area.png",
+    "label": "?????",
+    "box": {
+      "left": 1190,
+      "top": 742,
+      "right": 1515,
+      "bottom": 849
+    },
+    "size": {
+      "width": 325,
+      "height": 107
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\27_decor_gems.png",
+    "label": "?? / ????",
+    "box": {
+      "left": 18,
+      "top": 873,
+      "right": 250,
+      "bottom": 1000
+    },
+    "size": {
+      "width": 232,
+      "height": 127
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\28_decor_stars.png",
+    "label": "?? / ????",
+    "box": {
+      "left": 252,
+      "top": 874,
+      "right": 487,
+      "bottom": 999
+    },
+    "size": {
+      "width": 235,
+      "height": 125
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\29_decor_hearts_bow.png",
+    "label": "?? / ?????",
+    "box": {
+      "left": 490,
+      "top": 874,
+      "right": 735,
+      "bottom": 998
+    },
+    "size": {
+      "width": 245,
+      "height": 124
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\30_decor_geometry.png",
+    "label": "????",
+    "box": {
+      "left": 736,
+      "top": 875,
+      "right": 965,
+      "bottom": 998
+    },
+    "size": {
+      "width": 229,
+      "height": 123
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\31_decor_glow.png",
+    "label": "?? / ???",
+    "box": {
+      "left": 972,
+      "top": 875,
+      "right": 1215,
+      "bottom": 999
+    },
+    "size": {
+      "width": 243,
+      "height": 124
+    }
+  },
+  {
+    "file": "C:\\Users\\User.DESKTOP-G0LEPLM\\Documents\\Codex\\2026-05-01\\files-mentioned-by-the-user-aipri\\ui-materials-extracted\\32_decor_misc.png",
+    "label": "?? / ?? / ?? / ??",
+    "box": {
+      "left": 1219,
+      "top": 875,
+      "right": 1511,
+      "bottom": 999
+    },
+    "size": {
+      "width": 292,
+      "height": 124
+    }
+  }
+]
