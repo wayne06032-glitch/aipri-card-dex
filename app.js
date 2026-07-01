@@ -1,4 +1,4 @@
-const STORAGE_PREFIX = "aipri_card_state_";
+﻿const STORAGE_PREFIX = "aipri_card_state_";
 const EXPORT_VERSION = 2;
 const APP_SHELL_FILES = [
   "./",
@@ -1043,3 +1043,5 @@ async function promptInstall() {
   state.deferredInstallPrompt = null;
   elements.installButton.classList.add("is-hidden");
 }
+
+

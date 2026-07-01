@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   color-scheme: light;
   --bg-top: #f7f0ff;
   --bg-mid: #fdf8ff;
@@ -660,15 +660,15 @@ img {
 }
 
 .card-tile__counts {
-  position: absolute;
-  top: 14px;
-  left: 14px;
-  min-height: 28px;
-  padding: 0 12px;
+  min-height: 26px;
+  padding: 0 10px;
   border-radius: 999px;
-  z-index: 1;
+  background: rgba(120, 80, 180, 0.14);
+  color: var(--purple-deep);
   font-size: 0.74rem;
   font-weight: 800;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 .card-tile__counts--owned {
@@ -678,12 +678,12 @@ img {
 
 .card-tile__counts--partial {
   background: rgba(255, 177, 61, 0.16);
-  color: #c47c10;
+  color: #a86b12;
 }
 
 .card-tile__counts--empty {
-  background: rgba(221, 214, 236, 0.84);
-  color: #8a7ea0;
+  background: rgba(120, 80, 180, 0.12);
+  color: #8a6bb8;
 }
 
 .card-tile__image {
@@ -697,6 +697,14 @@ img {
   display: grid;
   gap: 6px;
   padding: 0 4px 4px;
+}
+
+.card-tile__info-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  min-height: 28px;
 }
 
 .card-tile__stars {
@@ -1340,3 +1348,5 @@ img {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 }
+
+
